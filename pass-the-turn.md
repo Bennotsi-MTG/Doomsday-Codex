@@ -1,10 +1,4 @@
-{:title "Pass the Turn Piles"
- :layout :codex
- :author "bennotsi"
- :page-index 17
- :navbar? false
- :section "The Doomsday Codex"}
-
+# Pass the Turn piles
 
 First of all, why would you ever want to cast Doomsday and then pass the 
 turn? The answer is simple: when you can't win otherwise. Pass the turn 

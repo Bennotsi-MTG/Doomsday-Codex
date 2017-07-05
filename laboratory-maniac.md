@@ -1,9 +1,4 @@
-{:title "Laboratory Maniac"
- :layout :codex
- :author "bennotsi"
- :page-index 12
- :navbar? false
- :section "The Doomsday Codex"}
+# Laboratory Maniac piles
 
 Just to be very clear on the purpose of this section: This does not 
 consider the use of Mental Note or Unearth or any other dead cards that 

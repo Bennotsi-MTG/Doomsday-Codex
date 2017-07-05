@@ -1,10 +1,4 @@
-{:title "Basic Doomsday Piles"
- :layout :codex
- :author "bennotsi"
- :page-index 11
- :navbar? false
- :section "The Doomsday Codex"}
-
+# Basic piles
 
 This section explains the basic Doomsday piles that attempt to end
 the game directly with a lethal Tendrils of Agony. Fortunately, these piles will also be the piles that you will execute 

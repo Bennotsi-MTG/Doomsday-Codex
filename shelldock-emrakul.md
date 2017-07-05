@@ -1,9 +1,4 @@
-{:title "Shelldock Isle Emrakul"
- :layout :codex
- :author "bennotsi"
- :page-index 15
- :navbar? false
- :section "The Doomsday Codex"}
+# Shelldock Isle / Emrakul piles
 
 The interaction between Doomsday and Shelldock Isle surprisingly 
 elegant. Once you resolve Doomsday you automatically fulfill the 

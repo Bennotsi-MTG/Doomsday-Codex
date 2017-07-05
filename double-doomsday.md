@@ -1,9 +1,4 @@
-{:title "Double Doomsday Piles"
- :layout :codex
- :author "bennotsi"
- :page-index 14
- :navbar? false
- :section "The Doomsday Codex"}
+# Building double-Doomsday piles
 
 There are many reasons why you would want to make more storm and cast 
 Tendrils for some insane amount of lifeloss. Situations like these may 

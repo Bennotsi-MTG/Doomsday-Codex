@@ -1,9 +1,4 @@
-{:title "Doomsday Time Spiral Piles"
- :layout :codex
- :author "bennotsi"
- :page-index 16
- :navbar? false
- :section "The Doomsday Codex"}
+# Doomsday - Time Spiral piles
 
 One of the reasons you sometimes see a Time Spiral in Doomsday 
 sideboards is because we can efficiently use it in Doomsday Piles for 
