@@ -51,7 +51,7 @@ this includes the Doomsday you've cast to create this pile as well as
 the Tendrils of Agony (including the non-copy original spell) at the end 
 of the pile. The original Tendrils is included for simplicity, because 
 we simply count to ten if we want to cause 20 lifeloss. I will 
-frequently leave out the wishtarget for BW at the end of the pile, 
+frequently leave out the wish target for BW at the end of the pile, 
 because it is obvious that it is used for Tendrils of Agony.
 
 ## Basic Doomsday Piles
@@ -63,7 +63,7 @@ cantrip piles, followed by the double cantrip piles.
 ### Single cantrip piles
 
 There are basically two variants to this pile. You either have a spell 
-that draws a single card in hand ready to cast, or an 
+that draws a single card in hand ready to cast, or a 
 Conjurer's Bauble in play. For the moment, the difference does not 
 really matter and we'll just assume that you have a GP in hand.
 
@@ -75,7 +75,7 @@ GP in hand:
 3. cast IU, draw LED, LED, GP
 4. cast LED
 5. cast LED
-6. cast GP, sacrifice both in response LEDs for RRR+BBB, draw BW
+6. hold priority, cast GP, sacrifice LEDs for RRR+BBB, pass priority, draw BW
 7. cast BW, get ToA from sideboard
 8. cast ToA
 
@@ -84,6 +84,14 @@ is 16 lifeloss. Note that UU is often paid for by a Lion's Eye
 Diamond. With a Dark Ritual and a Lion's Eye Diamond preceding the 
 Doomsday you already generate enough storm to cause 20 lifeloss. If you 
 are low on life you'll need more mana to cast GP for mana instead of life.
+
+As for the remarks about priority in step 6, It's best to announce 
+that you would like to hold priority when casting the next spell, 
+before you actually announce which spell that is. This way there can 
+be no discussion about that you waited too long between announcing the 
+spell and stating that you want to hold priority after casting it. 
+This may be a bit overly cautious, but there's no harm and in this way 
+you can avoid discussions during tournament play.
 
 *Three Wishes*
 
@@ -97,15 +105,15 @@ GP in hand:
 7. cast BW, get ToA from sideboard
 8. cast ToA
 
-This pile has cost you BBB+1UU and 4 life and results in 8 storm, that 
-is 16 lifeloss. Like with Ideas Unbound, the mana cost for the draw spell
-1UU is often paid for by a Lion's Eye 
-Diamond. The most important difference is that Three Wishes does not
-actually draw but exiles the cards, which means that Lion's Eye Diamond's
-activation cost will not affect your ability to cast the cards 'drawn'
-with Three Wishes.
-If you are low on life can also build -> TW, LED, LED, BW, X and directly
-'draw' Burning Wish with Three Wishes, this will produce once less storm.
+This pile costs BBB+1UU and 4 life and results in 8 storm, which is 16 
+lifeloss. Like with Ideas Unbound, the mana cost for the draw spell 
+(1UU) can be - and often is - paid for by a Lion's Eye Diamond in 
+response to the first GP. The most important difference is that Three 
+Wishes not actually draws but exiles the cards. This means that 
+Lion's Eye Diamond's activation cost will not affect your ability to 
+cast the cards 'drawn' with Three Wishes. If you are low on life can 
+also build -> TW, LED, LED, BW, X and directly 'draw' Burning Wish 
+with Three Wishes, this will produce once less storm.
 
 ### Double cantrip piles
 
@@ -114,24 +122,28 @@ If you are low on life can also build -> TW, LED, LED, BW, X and directly
 2x GP in hand:
 1. cast Doomsday build: -> LED, IU, LP, LED, BW(ToA)
 2. cast GP, draw LED
-3. cast LED, sacrifice LED for UUU
-4. cast GP, draw IU
+3. cast LED
+4. hold priority, cast GP, sacrifice LED for UUU, draw IU
 5. cast IU, draw LP, LED, BW
 6. cast LP, crack for R
 7. cast LED
 8. hold priority, cast BW, sacrifice LED for BBB, wish for ToA
 9. cast ToA
 
-This pile has cost only BBB+1 and 4 life to execute and results in 9 storm, that 
-is 18 lifeloss. This pile is quite efficient when it comes to mana.
-We use the additional cantrip to draw a Lion's Eye Diamond before executing the rest of the pile
-and use that Lion's Eye Diamond to pay for much of the rest of the pile.
-We basically turn our additional Gitaxian Probe into a Lion's Eye Diamond with Doomsday.
-One difficulty in this is that Ideas Unbound actually draws Burning Wish before we can
-use the second Lion's Eye Diamond in the pile to pay for the red mana. Therefore,
-one of the Lion's Eye Diamonds in the pile is replaced with a Lotus Petal, which
-together with one blue mana left from the first Lion's Eye Diamond pays for the Burning Wish. 
-The second Lion's Eye Diamond is sacrificed for black mana and pays for all but 1 mana of Tendrils of Agony.
+This pile has cost only BBB+1 and 4 life to execute and results in 9 
+storm, which is 18 lifeloss. This pile is quite efficient when it comes 
+to mana. We use the additional cantrip to draw a Lion's Eye Diamond 
+before executing the rest of the pile and use that Lion's Eye Diamond 
+to pay for much of the rest of the pile. We basically turn our 
+additional Gitaxian Probe into a Lion's Eye Diamond with Doomsday.
+
+One difficulty with this pile is that Ideas Unbound actually draws 
+Burning Wish before we can sacrifice the second Lion's Eye Diamond in the 
+pile to produce red mana. Therefore, one of the Lion's Eye 
+Diamonds in the pile is replaced with a Lotus Petal, which together 
+with one blue mana left from the first Lion's Eye Diamond pays for the 
+Burning Wish. The second Lion's Eye Diamond is sacrificed for three black 
+mana and pays for all but 1 mana of Tendrils of Agony.
 
 *Three Wishes*
 
@@ -139,25 +151,38 @@ The second Lion's Eye Diamond is sacrificed for black mana and pays for all but 
 1. cast Doomsday build: -> LED, TW, LED, LED, BW
 2. cast GP, draw LED
 3. cast LED
-4. hold priority, cast GP, sacrifice LED for UUU, pass priority, draw TW
+4. hold priority, cast GP, sacrifice LED for UUU, draw TW
 5. cast TW, exile LED, LED, BW(ToA)
 6. cast LED, sacrifice LED for RRR
 7. cast LED, sacrifice LED for BBB
 8. cast BW, wish for ToA
 9. cast ToA
 
-This pile is very efficient at BBB and 4 life for 9 storm.
-The key idea is that strictly speaking, we only needed TW, LED, LED, BW in our single cantrip pile. Meaning
-that if we shift this 4 card pile to the bottom, we can put any card on top. In this case we put a Lion's 
-Eye Diamond on top, which we draw with Gitaxian Probe. The Lion's Eye Diamond then pays for the Three Wishes,
-which exiles the other two LEDs and the Burning Wish we need to produce all the mana we need and cast Tendrils.
+This pile is very efficient at BBB and 4 life for 9 storm. The key 
+idea is that, strictly speaking we only needed TW, LED, LED, BW in our 
+single cantrip pile. Meaning that if we shift this 4 card pile to the 
+bottom, we can put any card on top. In this case we put a Lion's Eye 
+Diamond on top, which we draw with Gitaxian Probe. The Lion's Eye 
+Diamond then pays for the Three Wishes, which exiles the other two 
+LEDs and the Burning Wish we need to produce mana and wish for and 
+cast Tendrils.
 
 
 ## Variations
 
-That's it for the basic and most common piles that end with Tendrils of Agony. There are many variations of each pile 
-and it doesn't really make sense to list them all. In each of the above piles you may replace Gitaxian Probe with a 
-Ponder, or simply use blue mana to pay for it rather than 2 life.
+That's it for the basic and most common piles that end with Tendrils 
+of Agony. There are many variations of each pile and it doesn't really 
+make sense to list them all. In each of the above piles you may 
+replace Gitaxian Probe with a Ponder, or simply use blue mana to pay 
+for it rather than 2 life. Also, since Act on Impulse and Three Wishes 
+function very similarly, all piles involving Three Wishes can be 
+executed with Act on Impulse all the same, except for a different mana 
+cost.
+
+The most important part of learning how to cast Doomsday, is to think 
+how you would like to cast a lethal Tendrils of Agony, and then think 
+of the cards you'll need to get there. Doomsday is essentially a 5 
+card tutor.
 
 As for the other piles out there, there are countless piles that use 
 Brainstorm to draw some cards and put some other cards back. This 
@@ -169,10 +194,13 @@ counts.
 
 ## Get Started
 
-You now have sufficient information to start practicing! Just take a proven decklist and start goldfishing trying to 
-figure out what piles to build and how to execute them. There are several documents available that list Doomsday 
-piles which you can use to get to know more piles. These are very important tools when learning to how play the deck. 
-See the [DDFT Pile Document](https://github.com/Bennotsi-MTG/ddft-pileDoc/blob/master/README.md).
+You now have sufficient information to start practicing! Just take a 
+proven decklist and start goldfishing trying to figure out what piles 
+to build and how to execute them. There are several documents 
+available that list Doomsday piles which you can use to get to know 
+more piles. These are very important tools when learning to how play 
+the deck. See the [DDFT Pile 
+Document](https://github.com/Bennotsi-MTG/ddft-pileDoc/blob/master/README.md).
 
 
 
