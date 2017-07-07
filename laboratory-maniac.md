@@ -106,6 +106,6 @@ singleton Chromatic Sphere is not a huge price to pay, because it can
 generally also be used to draw into your Doomsday pile or just cantrip 
 while fixing mana colors.
 
-To use Chromatic Sphere inside Doomsday piles that do not use CB to 
-draw into the pile simply replace the CB in the pile with a Chromatic 
-Sphere and use one extra mana to draw from an empty library. 
+Most of the time, Chromatic Sphere may be used as a direct replacement for
+Conjurer's Bauble within the Doomsday pile. You just have to make sure you
+increase the cost of the pile by 1.
