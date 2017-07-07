@@ -41,9 +41,6 @@ your maindeck, the standard piles are:
 GP in hand:
 -> IU, CB, LED, GP, LM BBB+1UU (6) 4 life
 
-CB in play:
--> IU, LED, GP, GP, LM BBB+1UU (6) 4 life
-
 CB in play + GP in hand:
 -> LED, IU, GP, DR, LM BBB+B (4)   4 life
 
