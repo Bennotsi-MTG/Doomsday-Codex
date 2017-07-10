@@ -15,7 +15,7 @@ your opponents plan. Therefore, many decks try to use discard to prevent
 us from winning the game before they do. One of the main uses of pass 
 the turn piles is to become immune to discard. If you can't win right 
 now because you still lack some resources, but you can cast Doomsday and 
-dump other cards, like Lion's Eye Diamond or Sensei's Divining Top on 
+dump other cards, like Lion's Eye Diamond or Conjurer's Bauble on 
 the table, you may be able to setup a win for next turn without giving 
 your opponent another window to discard any of your precious cards.
 
@@ -44,8 +44,8 @@ Next turn, for only UU you can draw and cast Ideas Unbound, followed by
 2 Lion's Eye Diamonds and Gitaxian Probe into Burning Wish for Tendrils 
 of Agony for 6 storm. Although the mana cost of this procedure is very 
 low, the storm count is a bit of a disappointment. Fortunately, it's 
-easy to increase the storm count from this point on. If you have 2 more 
-mana you can build SDT, IU, LED, LED, BW, as a pile for 7 storm for 
+easy to increase the storm count from this point on. If you have 1 more 
+mana you can build IU, LED, GP, CB, BW as a pile for 7 storm for 
 example. Together with some cards in hand to play out and some 
 self-inflicted damage from your opponent's fetchlands, that might just 
 be enough.
