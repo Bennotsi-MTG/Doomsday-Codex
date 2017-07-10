@@ -1,8 +1,10 @@
-# Limitations of Our Deck
+# Playing with Limitations
 
-# Limitations of Our Opponent
+## Limitations of Our Deck
 
-# Playing against Surgical Extraction
+## Limitations of Our Opponent
+
+### Playing against Surgical Extraction
 
 When people are side-boarding to face Doomsday there is one card that
 they so often bring in along with all the discard, counter-magic, 
@@ -13,19 +15,19 @@ can take out the namesake card (assuming no BW or after BW into DD)
 and worse of all it can cause us to shuffle our perfect five card
 piles and make them all but useless.
 
-# Playing with no LED
+### Playing with no LED
 
-# Playing with a Chalice of the Void on X
+### Playing with a Chalice of the Void on X
 
-# Playing against Revoker naming X
+### Playing against Revoker naming X
 
-# Playing against Red Blasts
+### Playing against Red Blasts
 
-# Playing against Thalia
+### Playing against Thalia
 
-# Playing against Chains of Mephitospholes
+### Playing against Chains of Mephitospholes
 
-#Limitations of Our Mind
+## Limitations of Our Mind
 
 As can be see above there are a number of ways we can get through the
 limitations presented by our own preferences of deck building and of the
