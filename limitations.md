@@ -72,13 +72,13 @@ This is a generic title. This section discusses all cards that selectively
 lock off a certain CMC cost of a spell. This can include things like Chalice
 of the Void, Sanctum Prelate or non-permanent hate such as Spell Snare.
 There are some CMC's the deck needs to be able to function, and some that 
-are compeltely optional. Here we shall exaplore in ascending numerical order
+are completely optional. Here we shall exaplore in ascending numerical order
 the relevancy these cards have against us.
 
 #### 0 Cost spells
 
 In terms of 0 costs spells we have two main ones that are played. Lion's
-Eye Diamond and Lotus Petal. Both are incredibly useful mana genarating 
+Eye Diamond and Lotus Petal. Both are incredibly useful mana generating 
 resources but neither are required to win. All that it means is more mana 
 is needed post DD to get us going. 
 
@@ -98,7 +98,7 @@ CB in play. Cantrip in hand:
 The general concepts to remember is that our main method of mana increase 
 is DR. This means we need both B to enable the casting of these rituals
 and also R available to cast BW at the end. Alternatively if you are aiming for
-a LM pile you need U to help cast him. As all our cantrips are not effected we
+a LM pile you need U to help cast him. As all our cantrips are not affected we
 can still easliy draw into what we need. 
 
 Alternatively, with enough mana, you can incorporate a piece of anti-hate such as
@@ -114,6 +114,13 @@ Example:
 
 
 #### 1 Cost spells
+
+This is THE classic opener of stompy variants, aggro loam and other 
+strategies that aren't concerned with cantripping or similar. The main issue
+with this limitation is getting to the point you can cast Doomsday rather 
+than the actual going off. Obviously things like running BW along with artifact
+hate such as Meltdown or 
+
 
 #### 2 Cost spells
 
