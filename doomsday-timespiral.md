@@ -11,7 +11,7 @@ opponent a fresh 7 card hand.
 The cost listed in square brackets [..] is assumed to be payed for by 
 the lands that are untapped by Time Spiral. The listed stormcounts do 
 not include for cards that may be cast for no other purpose then to 
-build storm. In other words, cards like Sensei's Divining Top are 
+build storm. In other words, cards like Conjurer's Bauble are 
 assumed to not be recast post-Time Spiral. For most piles only the 
 Lion's Eye Diamonds and Burning Wish into Tendrils of Agony are counted 
 towards storm, in order to list the lowest possible post-Time Spiral 
@@ -19,9 +19,6 @@ mana cost.
 
 A simple example of a pile that uses Time Spiral is as follows:
 ```
-SDT in play + 1 card (in hand or post-DD graveyard):
--> IU, LED, LED, BW, BW BBB+1UU+2+[1R] (8) 11 Storm
-
 GP + 1 card (in hand or post-DD graveyard):
 -> IU, LED, LED, BW, BW BBB+1UUR+[1R] (7) 11 Storm
 ```
@@ -52,10 +49,8 @@ listed cost for the pile.
 Executing a Doomsday-Time Spiral pile will become much easier if you 
 have some resources that can produce red mana, like a Lion's Eye Diamond 
 or Lotus Petal. Considering the following piles:
-```
-SDT in play + LED in hand:
--> IU, LED, LED, BW, BW BBB+2+[1R] (5) 13 Storm
 
+```
 GP + LED:
 -> IU, LED, LED, BW, BW BBB+UU+[1] (5) 13 Storm
 -> IU, LED, LED, BW, BW BBB+R+[1R] (4) 13 Storm
@@ -71,11 +66,11 @@ doomsday pile.
 
 Having access to a draw effect rather than a Lion's Eye Diamond is 
 unfortunately less effective in Doomsday-Time Spiral piles. Consider the 
-following (intentionally bad) examples:
+following (intentionally bad) example:
+
 ```
-SDT in play + GP:
+CB in play + GP:
 -> IU, LED, LED, BW, BW BBB+2UU+[1R] (7) 11 Storm
--> LED, IU, LED, BW, BW BBB+3R+[1R] (7) 11 Storm
 ```
 
 These piles are very inefficient and in these situations it would be 
@@ -98,7 +93,7 @@ before casting Doomsday. The slot that is freed up will be used for an
 additional Lion's Eye Diamond. Examples:
 
 ```
-SDT in play + IU in hand:
+CB in play + IU in hand:
 -> LED, LED, LED, BW, BW BBB+UU+[1] (5) 12 Storm
 
 GP + IU in hand:
@@ -113,11 +108,8 @@ post-TSP to cast the Burning Wish for Tendrils of Agony.
 
 Similarly, if you already have a Burning Wish before casting Doomsday, 
 you might cram another LED into the pile:
-```
-SDT in play + GP in hand + BW in hand or post-DD graveyard:
--> LED, IU, LED, LED, BW BBB+2+[1R] (6) 13 Storm
--> LED, IU, LED, LED, BW BBB+1UU+[1] (6) 13 Storm
 
+```
 2x GP + BW in hand or graveyard:
 -> LED, IU, LED, LED, BW BBB+R+[1R] (4) 14 Storm
 -> LED, IU, LED, LED, BW BBB+1R+[1] (5) 14 Storm
@@ -159,13 +151,14 @@ have a cantrip we can stuff another LED in the pile.
 BS/Ponder + Brainstorm + 2 cards:
 -> LED, LED, LED, BW, BW BBB+UU+[1] (5) 13 Storm
 
-SDT in play + Brainstorm + 2 cards:
+CB in play + Brainstorm + 2 cards:
 -> LED, LED, LED, BW, BW BBB+U+[1R] (5) 12 Storm
 ```
 
 And if you have either a BW or a cantrip, but less cards in total, you 
 might as well use Brainstorm to end up with 2 LEDs and a cantrip, while 
 Burning Wish is on top of your library.
+
 ```
 BS + BW + GP:
 -> LED, LED, BW, LP, LP BBB+2U+[1] (6) 13 Storm
@@ -176,8 +169,6 @@ BS + GP + 1 card:
 +1 storm if you cast GP post-TSP. The Lotus Petals can be included to 
 lower the post-TS cost of the pile, but when you have sufficient lands 
 you may also include other cards like Silence or even Chain of Vapor. 
-This can be really useful when you want to build a Chain of Vapor pile, 
-but don't have an SDT in play.
 
 ## Summary
 
@@ -189,3 +180,4 @@ remember are:
 2. You need 2 Burning Wishes, one for Time Spiral, one for Tendrils of Agony
 3. Additional cantrips can lower the manacost if you can replace either IU or some of the BWs in the pile with LEDs
 4. Instead of lowering the mana cost by adding LEDs you might as well include cards like Silence/Chain of Vapor/Slaughter Pact/Lotus Petal
+5. These examples intentially do not use TW or AoI. Both of these work badly with Time Spiral as they remove cards from the game that are needed to ensure your card count reaches seven post TS.
