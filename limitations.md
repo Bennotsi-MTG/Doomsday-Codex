@@ -75,6 +75,9 @@ There are some CMC's the deck needs to be able to function, and some that
 are completely optional. Here we shall exaplore in ascending numerical order
 the relevancy these cards have against us.
 
+For each value examples will be given on what hate you might face and how to 
+get around the listed limiter.
+
 #### 0 Cost spells
 
 In terms of 0 costs spells we have two main ones that are played. Lion's
@@ -82,7 +85,7 @@ Eye Diamond and Lotus Petal. Both are incredibly useful mana generating
 resources but neither are required to win. All that it means is more mana 
 is needed post DD to get us going. 
 
-Example:
+Examples:
 
 ```
 Cantrip in hand:
@@ -99,19 +102,23 @@ The general concepts to remember is that our main method of mana increase
 is DR. This means we need both B to enable the casting of these rituals
 and also R available to cast BW at the end. Alternatively if you are aiming for
 a LM pile you need U to help cast him. As all our cantrips are not affected we
-can still easliy draw into what we need. 
+can still easliy draw into what we need. If you happen to be playing with maindeck
+ToA then you don't need to worry about these additional colour requirements but
+for most DDFT lists you do.
 
-Alternatively, with enough mana, you can incorporate a piece of anti-hate such as
-Chain of Vapor, Void Snare, Hurkyl's Recall, Echoing Truth or similar into the
-pile to remove the offending object preventing your casting.
-
-Example:
+Further Examples:
 
 ```
-2 x GP in hand:
--> CoV, IU, LP, GP, LM                  BBB+UUU2      (8)      4 life
-```
+GP in hand:
+-> IU, DR, DR, GP, BW                  BBB+UUBR  (7)  8 Storm
 
+GP in hand:
+-> IU, DR, GP, CB, LM                  BBB+UUUB  (7)  2 Life
+
+GP in hand:
+-> IU, DR, DR, GP, ToA                 BBB+UUB   (6)  7 Storm
+
+```
 
 #### 1 Cost spells
 
@@ -119,19 +126,58 @@ This is THE classic opener of stompy variants, aggro loam and other
 strategies that aren't concerned with cantripping or similar. The main issue
 with this limitation is getting to the point you can cast Doomsday rather 
 than the actual going off. Obviously things like running BW along with artifact
-hate such as Meltdown or 
+hate such as Meltdown can help get around the issue but you may just find you can
+go off without it (however unlikely that may be).
 
+The two main points to take is the lack of ability to cast your cantrips and the 
+lack of being able to cast things like DR or CB. IC is the preferred draw method here
+as it means you get the complete stack rather than IU that leaves you eneding to draw 
+an additional card. If you have a CB in play already then there is obviously no issue 
+but it is still worth considering.
+
+With these piles you also have to consider you have most likely cast DD off of lands
+and LPs. As a result you probably have less mana available therefore pass the turn piles
+are a strong consideration.
+
+Example:
+
+```
+Pass the turn.
+-> BW (IC), LED, LED, LP, BW            BBB+2R   (7)  7 Storm
+```
 
 #### 2 Cost spells
 
-#### 4 Cost spells
+This is less likely to be faced in terms of Chalice of the Void but significant in that
+it includes playing around Spell Snare, a semi common card in many Ux decks. The main things
+that get cut from this is IU and BW. Ideally this means if you are running TW/AoI you
+should have no issues generating a simple double cantrip LM pile however if you require a BW
+storm kill then you have to get rid of it. You can also ignore the limitation with maindeck
+ToA.
 
-#### 6 cost spells
+As you can see this is already a fairly straightforwards limitation to get around so I won't
+include any examples for it.
 
+#### 3+ Cost spells
+
+Congratulations to whomever has cast their Chalice on 4 or more however that is more than
+likely not what has happened. Instead it's probably a Sanctum Prelate or Gaddock Teeg on 
+the opposing battlefield. Prelate is a little more tricky as that can lock off your 3 spells
+(DD, AoI, TW, IC) which can make going off with our namesake spell difficult but not impossible. 
+Thankfully Prelate is a 3 drop itself and therefore a little bit slower to come down. 
+
+Teeg is both an easier to set down threat (2 drop and can be got with Green Sun's Zenith) however 
+it is also easier to play around. It only really stops two spells commonly run; TS and ToA. Simply
+put; just make a basic LM pile and you should be able to win. If not, then removal will have to
+come into play. 
 
 ### Playing against Revoker naming X
 
+This is a play that 
+
 ### Playing against Red Blasts
+
+
 
 ### Playing against Thalia
 
