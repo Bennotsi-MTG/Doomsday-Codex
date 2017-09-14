@@ -11,11 +11,11 @@ should serve as a last resort. The risks involved in paying half your
 life rounded up and passing the turn are not to be underestimated.
 
 In Legacy, discard is one of the most common strategies for disrupting 
-your opponents plan. Therefore, many decks try to use discard to prevent 
+your opponent's plan. Therefore, many decks try to use discard to prevent 
 us from winning the game before they do. One of the main uses of pass 
 the turn piles is to become immune to discard. If you can't win right 
 now because you still lack some resources, but you can cast Doomsday and 
-dump other cards, like Lion's Eye Diamond or Sensei's Divining Top on 
+dump other cards, like Lion's Eye Diamond or Conjurer's Bauble on 
 the table, you may be able to setup a win for next turn without giving 
 your opponent another window to discard any of your precious cards.
 
@@ -44,8 +44,8 @@ Next turn, for only UU you can draw and cast Ideas Unbound, followed by
 2 Lion's Eye Diamonds and Gitaxian Probe into Burning Wish for Tendrils 
 of Agony for 6 storm. Although the mana cost of this procedure is very 
 low, the storm count is a bit of a disappointment. Fortunately, it's 
-easy to increase the storm count from this point on. If you have 2 more 
-mana you can build SDT, IU, LED, LED, BW, as a pile for 7 storm for 
+easy to increase the storm count from this point on. If you have 1 more 
+mana you can build IU, LED, GP, CB, BW as a pile for 7 storm for 
 example. Together with some cards in hand to play out and some 
 self-inflicted damage from your opponent's fetchlands, that might just 
 be enough.
@@ -53,7 +53,7 @@ be enough.
 There are however some more solid ways of reaching winning the game even 
 after passing the turn, that still work if passing the turn is primarily 
 an anti-discard plan. The ones I will talk about in more detail are 
-using Laboratory Maniac, Time Spiral, and Doomsday.
+using Laboratory Maniac, Time Spiral, and a second Doomsday.
 
 ## Pass the turn piles with Laboratory Maniac
 
@@ -61,47 +61,53 @@ Laboratory Maniac enables some very mana efficient pass the turn piles
 that may offer an out in situations where no other lethal pile would. 
 When you have no other cards in hand or play, for example because you've 
 used Lion's Eye Diamond to pay for Doomsday, the simplest pile is:
+
 ```
--> IU, SDT, LED, GP, LM 1UU 2 life
+-> IU, CB, LED, GP, LM  1UU (3) 2 life
 ```
+
 These piles do get a lot cheaper when you have an extra draw effect or 
 even LED.
+
 ```
 LED:
--> SDT, IU, LED, GP, LM 1 2 life
--> GP, IU, SDT, DR, LM B 2 life
+-> GP, IU, CB, DR, LM  B (1) 2 life
+-> CB, TW, LED, GP, LM  1 (1) 2 life
 
 GP in hand:
--> LED, IU, SDT, DR, LM B 2 life
--> LED, IU, GP, LP, LM 1 4 life
+-> LED, IU, CB, DR, LM  B (1) 2 life
+-> LED, IU, GP, LP, LM  1 (1) 4 life
 
-SDT in play:
--> LED, IU, LED, GP, LM 0 2 life
+CB in play:
+-> LED, TW, LED, GP, LM  0 (0) 2 life
 ```
-Instead of using Lion's Eye Diamond to pay for Ideas Unbound we can also 
-include some other card into the pile, to for example play through some 
-card in the opponent's hand. The mana cost for including another card 
-depends on the location in the pile. There's also a trade-off between 
-life and mana cost.
+
+Instead of using Lion's Eye Diamond to pay for Ideas Unbound/Three Wishes
+we can also include some other card into the pile, to for example play
+through some card in the opponent's hand. The mana cost for including
+another card depends on the location in the pile. There's also a trade-off
+between life and mana cost.
+
 ```
 GP in hand:
--> Silence, IU, LP, GP, LM W+2UU 4 life
--> LED, IU, Silence, GP, LM W+2 4 life
+-> Silence, IU, LP, GP, LM  W+2UU (5) 4 life
+-> LED, IU, Silence, GP, LM  W+2 (3) 4 life
 
 LED:
--> SDT, IU, Silence, GP, LM W+4 2 life
--> GP, IU, Silence, GP, LM W+2 4 life
+-> SDT, IU, Silence, GP, LM  W+4 (5) 2 life
+-> GP, IU, Silence, GP, LM  W+2 (3) 4 life
 
 SDT in play:
--> Silence, IU, LED, GP, LM W+1UU 2 life
--> LED, IU, Silence, GP, LM W+3 2 life
+-> Silence, TW, LED, GP, LM  W+1UU (4) 2 life
+-> LED, TW, Silence, GP, LM  W+3 (4) 2 life
 ```
+
 I've listed Silence because of its distinct mana cost, but you can 
 obviously replace the Silence with any other card. Examples are Duress, 
 Karakas, or perhaps even a Massacre.
 
-For all pass the turn piles that don't assume a Sensei's Divining Top in 
-play, you can replace the card that draws from an empty deck in the 
+For all pass the turn piles that don't assume a Conjurer's Bauble in play,
+you can replace the card that draws from an empty deck in the 
 Doomsday pile with Chromatic Sphere and increase the mana cost 
 accordingly.
 
@@ -111,9 +117,11 @@ The cost listed in square brackets [..] is assumingly payed for by the
 lands are untapped by Time Spiral.
 
 A simple example of a pass the turn pile that uses Time Spiral is as follows:
+
 ```
--> IU, LED, LED, BW(TSP), BW(ToA) UU+1R+[1R] (4) 9 Storm
+-> IU, LED, LED, BW(TSP), BW(ToA)  UU+1R+[1R] (4) 9 Storm
 ```
+
 Actually, if you have no other cards in hand or your post-Doomsday 
 graveyard resolving Time Spiral will kill you. The Doomsday you've cast 
 to build this pile typically ends up as the only card in your graveyard, 
@@ -128,21 +136,28 @@ you can produce 1R with the lands that you untap with Time Spiral.
 
 Executing a Time Spiral pass the turn pile will become much easier if 
 you have some extra resources, like a Lion's Eye Diamond or a draw 
-effect. If you have both a pass the turn pile would not be necessary 
+effect. If you have both, a pass the turn pile would not be necessary 
 unless you're fighting through hate. Considering the following pile:
+
 ```
 LED in play + 1 card:
--> IU, LED, LED, BW(TSP), BW(ToA) UU+[1] (2) 10 Storm
+-> IU, LED, LED, BW(TSP), BW(ToA)  UU+[1] (2) 10 Storm
 ```
-One important advantage of having a LED is that you don't require any 
+
+One important advantage of having an LED is that you don't require any 
 lands that produce red. Having access to a draw effect rather than a 
 Lion's Eye Diamond is unfortunately less effective. Consider the 
 following examples:
+
 ```
-SDT in play + 1 card:
--> IU, LED, LED, BW(TSP), BW(ToA) 2UU+[1R] (4) 9 Storm
--> LED, IU, LED, BW(TSP), BW(ToA) 3R+[1R] (4) 9 Storm
+CB in play + 1 card:
+-> IU, LED, LED, BW(TSP), BW(ToA)  2UU+[1R] (4) 9 Storm
+-> LED, IU, LED, BW(TSP), BW(ToA)  3R+[1R] (4) 9 Storm
+
+-> IU, LED, LED, BW(TSP), BW(ToA)  2UU+[2R] (4) 10 Storm
+-> LED, IU, LED, BW(TSP), BW(ToA)  3R+[2R] (4) 10 Storm
 ```
+
 These piles are actually too mana-inefficient, in these situations it is 
 probably better to build a Doomsday pass the turn pile. It is not 
 possible to turn additional draw effects into mana, because we don't 
@@ -160,12 +175,13 @@ is better. You can use it to wish for Tendrils after Time Spiral, and
 fill up its slot in the pile with another Lion's Eye Diamond. Examples:
 
 ```
-SDT in play + BW in hand or graveyard:
--> LED, IU, LED, LED, BW(TSP) 2+[1R] (2) 12 Storm
+CB in play + BW in hand or graveyard:
+-> LED, TW, LED, LED, BW(TSP)  2+[1R] (2) 13 Storm
 
-SDT in play + IU in hand:
--> LED, LED, LED, BW(TSP), BW(ToA) UU+[1] (2) 11 Storm
+CB in play + IU in hand:
+-> LED, LED, LED, BW(TSP), BW(ToA)  UU+[1] (2) 11 Storm
 ```
+
 In summary, Time Spiral pass the turn piles are less specific to what 
 cards you need, but you need more (seven) cards in total. You need 2 
 cards in hand or post-DD graveyard to not kill yourself with Time 
@@ -198,11 +214,11 @@ Divining Top, as it allows us to sacrifice the 2nd LED in response to
 Doomsday and include it in the second pile.
 ```
 SDT in play:
--> IU, LED, LED, DD, BW [1UU/BBB] (3) 11 Storm
+-> IU, LED, LED, DD, BW  [1UU/BBB] (3) 11 Storm
 -> IU, LED, LED, BW(ToA), X
 
 LED in play:
--> IU, SDT, LED, DD, BW 1UU (3) 10 Storm
+-> IU, SDT, LED, DD, BW  1UU (3) 10 Storm
 -> IU, LED, LED, BW(ToA), X
 ```
 Now as these two piles are played out they converge to the same state. 
@@ -225,7 +241,7 @@ pile that efficiently utilizes a Doomsday in hand, and the Ideas Unbound
 example isn't spectacular either:
 ```
 IU in hand:
--> LED, SDT, LED, DD, BW 1UU (3) 11 Storm
+-> LED, SDT, LED, DD, BW  1UU (3) 11 Storm
 -> IU, LED, LED, BW(ToA), X
 ```
 
