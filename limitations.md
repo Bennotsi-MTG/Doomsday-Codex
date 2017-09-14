@@ -98,7 +98,7 @@ CB in play. Cantrip in hand:
 -> DR, IC, DR, CB, ToA                 BBB+B+X     (4+X)  8+X Storm
 ```
 
-The general concepts to remember is that our main method of mana increase 
+The general concept to remember is that our main method of mana increase 
 is DR. This means we need both B to enable the casting of these rituals
 and also R available to cast BW at the end. Alternatively if you are aiming for
 a LM pile you need U to help cast him. As all our cantrips are not affected we
@@ -173,11 +173,20 @@ come into play.
 
 ### Playing against Revoker naming X
 
-This is a play that 
+This is a play that you often find versus MUD or Death and Taxes. Unlike Pithing
+Needle, Revoker shuts down Lion's Eye Diamond and / or Lotus Petal. One updside 
+compared to say, Chalice on 0, is that you can still cast the named cards
+allowing generation of storm. You can also get rid of them through both
+artifact and creature removal. If not, you can also follow the same tips for 
+Chalice on 0 mentioned above. 
 
 ### Playing against Red Blasts
 
-
+Any deck playing Red will likely bring in at least one Red Elemental Blast or
+Pyroblast against you. It hits cantrips and therefore has a high number of 
+targets. The main trick to getting around these is just not play Blue spells (duh). 
+Using BW into AoI/IC or CB to draw into your pilewill negate the R blast into nothing
+but a R: +1 Storm effect.
 
 ### Playing against Thalia
 
