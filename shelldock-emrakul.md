@@ -1,6 +1,6 @@
 # Shelldock Isle / Emrakul piles
 
-The interaction between Doomsday and Shelldock Isle surprisingly 
+The interaction between Doomsday and Shelldock Isle is surprisingly 
 elegant. Once you resolve Doomsday you automatically fulfill the 
 otherwise strict condition on Shelldock Isle, but not only are you 
 allowed to activate Shelldock Isle, you also get to pick what cards will 
@@ -8,7 +8,7 @@ be among the top 4 of your library for Shelldock Isle's Hideaway
 ability. Even better, as Doomsday also allows you to search for 
 Shelldock Isle in the first place, it is basically a one-card combo!
 
-## The basics
+## The Basics
 
 A very simple example of its use is as follows. Consider your opening 
 hand contains Underground Sea, Dark Ritual, Doomsday, you play all three 
@@ -27,16 +27,17 @@ As you notice, you get 2 Emrakul attacks before you have to draw a card
 from an empty deck and get to draw 2 cards before your first Emrakul 
 attack.
 
-As for the pile you build, it is generally saver to not make Shelldock 
-Isle the top card of your pile. Sensei's Divining Top is a much saver 
+As for the pile you build, it is generally safer to not make Shelldock 
+Isle the top card of your pile. Conjurer's Bauble is a much safer 
 choice, I myself have lost a game 3 because my opponent attacked with 
 Goblin Guide forcing the the Shelldock Isle to go to my hand. This 
 reduced the number of cards in my library and left me with only 1 
 Emrakul attack. Another reason not to make Shelldock Isle the top card 
 is the 'fateseal' ability of Jace, the Mind Sculptor and similar 
-effects. Whether Sensei's Divining Top is send to the bottom or not is 
+effects. Whether Conjurer's Bauble is send to the bottom or not is 
 irrelevant, as you will have access to Shelldock Isle either way and 
-Sensei's Divining Top replaces itself to your deck, not reducing the 
+Conjurer's Bauble replaces a card to the bottom of you deck (in this instance
+normally the Doomsday cast to form the pile), thereby not reducing the 
 number of cards. As for your 2 other cards, consider a Dark Ritual and a 
 Doomsday to rebuild a library should you need extra Emrakul attacks, or 
 include 1 or 2 Dark Rituals and a Tendrils of Agony to some gain life or 
@@ -128,11 +129,21 @@ post-Doomsday graveyard. And that's not including the cards you will
 draw in the turn(s) that you attack with Emrakul. So this is probably 
 not feasible in practice.
 
+One nice thing is that if you get the Shelldock Isle in hand, if the opponent
+holds a Surgical Extraction or draws into it for their turn then it does nothing
+to disrupt the pile as Hideaway digs four cards deep thereby encompassing the whole 
+pile. Be warned however as if you do decide to include a secondary Doomsday
+in the pile they can extract it off of the one in your Graveyard thereby reducing 
+the number of turns you have before decking yourself by one. The presence of a
+Conjurer's Bauble can help remove this risk by replacing the targeted spell back
+into the deck.
+
 ## Sample games from tournament reports
 
-These snippets from tournament reports demonstrate a couple of real 
+These snippets from older tournament reports demonstrate a couple of real 
 situations where Shelldock Isle/Emrakul won the game while playing 
-around or through hate.
+around or through hate (They are excerpts from before the banning of Sensei's 
+Divining Top hence the inclusion of references to it).
 
 [bennotsi 14-01-2013]  
 Game 2 against a red Godo MUD deck. I open Flooded Strand, Dark Ritual, Doomsday, Shelldock Isle, Chain of Vapor, Abrupt Decay. So Turn 1 figured I just go for it as he used his Wastelands quite aggressively game 1, that's why I boarded in the Shelldock Isle/Emrakul anyway. Flooded Strand fetches Underground Sea DR->DD building:  
