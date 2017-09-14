@@ -11,7 +11,7 @@ should serve as a last resort. The risks involved in paying half your
 life rounded up and passing the turn are not to be underestimated.
 
 In Legacy, discard is one of the most common strategies for disrupting 
-your opponents plan. Therefore, many decks try to use discard to prevent 
+your opponent's plan. Therefore, many decks try to use discard to prevent 
 us from winning the game before they do. One of the main uses of pass 
 the turn piles is to become immune to discard. If you can't win right 
 now because you still lack some resources, but you can cast Doomsday and 
