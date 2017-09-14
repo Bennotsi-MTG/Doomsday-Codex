@@ -60,11 +60,9 @@ CB in play. Cantrip in hand:
 -> AoI/TW, LED, LED, GP, BW              BBB+R2    (6)    8 Storm
 ```
 
-This pile is already touched upon in the CB article. [LINK PLACEHOLDER].    
+This pile is already touched upon in the <a href="https://github.com/Bennotsi-MTG/DDFT-PileDoc/blob/cb-piles/cb-piles.md">CB article.</a>   
 No matter when they play Surgical post DD here, you can respond and negate 
 its efficacy.
-
-### Playing with no LED
 
 ### Playing with a Chalice of the Void on X
 
@@ -143,7 +141,7 @@ Example:
 
 ```
 Pass the turn.
--> BW (IC), LED, LED, LP, BW            BBB+2R   (7)  7 Storm
+-> BW (IC), LED, LED, LP, BW          BBB+2R   (7)  7 Storm
 ```
 
 #### 2 Cost spells
@@ -188,9 +186,34 @@ targets. The main trick to getting around these is just not play Blue spells (du
 Using BW into AoI/IC or CB to draw into your pilewill negate the R blast into nothing
 but a R: +1 Storm effect.
 
-### Playing against Thalia
+Example:
+```
+BW (IC) in hand:
+-> CB, LED, LED, LP, BW (ToA)          BBB+1BBBR   (8)  8 Storm
+```
+
+### Playing against Thalia and other Sphere effects
+
+These are a real headache. 
 
 ### Playing against Chains of Mephitospholes
+
+This example of a hate card is pretty narrow but very brutal. Expect
+this from decks like Jund variants or Pox-esque decks. The main trick
+to this is to limit how many times the words "Draw a card" are used. 
+Luckily AoI/TW both avoid this terminology therefore making them
+perfect for getting around the issue. You likely will need at least one
+draw effect though so make sure to have an excess card available to bin to 
+enabling the draw.
+
+Example:
+```
+BW (AoI)+GP+1 Card in hand:
+-> LED, LED, LED, BW, X                BBB+1R   (5)  9 Storm
+```
+
+If you do have to use IU or similar, you should be fine so long as you have
+enough 'dead' cards available to discard.
 
 ## Limitations of Our Mind
 
