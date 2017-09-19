@@ -30,7 +30,9 @@ Playing a 1-off Laboratory Maniac comes with a number of perks:
 
 And a couple of downsides:
 - Vulnerable to removal
-- Pretty dead card when you draw it pre-Doomsday.
+- Pretty dead card when you draw it pre-Doomsday*.
+
+*Sometimes...
 
 ## Winning with Laboratory Maniac Using IU
 
@@ -88,7 +90,8 @@ CB in play + GP in hand:
 ```
 The key difference with these is that you can use the fact TW/AoI exile LM to
 then be able to cast him using mana from an LED rather than having to rely on 
-drawing into him.
+drawing into him. This is great especially when using Brainstorm to take him
+from your hand back into the stack.
 
 ## Chromatic Sphere
 

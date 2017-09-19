@@ -38,8 +38,11 @@ Mana costs are represented as follows:
 W White - U Blue - B Black - R Red - G Green  
 1 one generic mana  
 BBB means three black mana  
-1UU means two blue mana and one generic mana   
-X means a variable amount of generic mana
+
+=======
+1UU means two blue mana and one generic mana
+X means a variable amount of any generic mana
+
 
 Consider the following example of a Doomsday pile in this notation:
 ```

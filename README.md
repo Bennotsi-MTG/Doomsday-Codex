@@ -33,3 +33,5 @@ This repository, and all of its contents, is licensed under [CC-BY-4.0](https://
 [Shelldock Isle/Emrakul](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/shelldock-emrakul.md)  
 [Doomsday Time Spiral](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/doomsday-timespiral.md)  
 [Double Doomsday](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md)  
+[Sideboards](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/sideboards.md)    
+[Limitations](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/limitations.md)     
