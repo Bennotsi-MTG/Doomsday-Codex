@@ -233,4 +233,4 @@ not to fall into the trap of despair that comes from rote learning of piles
 only to see them become useless in the face of an untimely Revoker or Chalice
 on 0.
 
-Keep an opoonent mind, stay cool and always have fun.
+Keep an open mind, stay cool and always have fun.
