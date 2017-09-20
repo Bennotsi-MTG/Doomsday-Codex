@@ -40,5 +40,5 @@ This repository, and all of its contents, is licensed under [CC-BY-4.0](https://
 
 ### Playing Around Hate
 
-[Artifact Destruction](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/artifact_destruction.md)
+[Artifact Destruction](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/artifact_destruction.md)   
 [Limitations](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/limitations.md)     
