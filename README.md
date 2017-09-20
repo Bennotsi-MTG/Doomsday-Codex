@@ -27,20 +27,18 @@ This repository, and all of its contents, is licensed under [CC-BY-4.0](https://
 
 # Table of Contents
 
-## Core Skills / Knowledge
+### Core Skills / Knowledge
+[Basics](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/basics.md)  
+[Laboratory Maniac](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/laboratory-maniac.md)  
+[Pass the Turn](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/pass-the-turn.md)  
 
-  [Basics](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/basics.md)  
-  [Laboratory Maniac](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/laboratory-maniac.md)  
-  [Pass the Turn](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/pass-the-turn.md)  
+### Expanding on the Core
+[Double Doomsday](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md)  
+[Sideboards](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/sideboards.md)    
+[Shelldock Isle/Emrakul](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/shelldock-emrakul.md)  
+[Doomsday Time Spiral](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/doomsday-timespiral.md)  
 
-   ## Additional layers of Complication
+### Playing Around Hate
 
-    [Double Doomsday](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md)  
-    [Sideboards](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/sideboards.md)    
-    [Shelldock Isle/Emrakul](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/shelldock-emrakul.md)  
-    [Doomsday Time Spiral](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/doomsday-timespiral.md)  
-
-      ## Playing Around Hate
-
-      [Artifact Destruction](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/artifact_destruction.md)
-      [Limitations](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/limitations.md)     
+[Artifact Destruction](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/artifact_destruction.md)
+[Limitations](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/limitations.md)     
