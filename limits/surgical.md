@@ -11,7 +11,7 @@ piles and make them all but useless.
 
 Let us discuss a basic pile and what points SE may affect it.     
 Each number represents a point we pass priority to our opponent post DD.   
-We are mking the assumption that the mana for our draw spell is not generated   
+Here we are making the assumption that the mana for our draw spell is not generated   
 by an LED.   
 
 Examples:   
@@ -22,6 +22,7 @@ GP in hand.
 GP in hand.
 -> AoI, GP, LED, LED, BW              BBB+R2    (6)    8 Storm
 ```
+
 First example:   
 Doomsday has resolved.  
 1. Cast GP   
@@ -32,11 +33,41 @@ Doomsday has resolved.
 6. Cast BW   
 7. Cast ToA   
 
-From the above line. Once the opponent has let IU resolve without using SE then 
+From the above lines. Once the opponent has let IU resolve without using SE then 
 it is too late for it to be effective (Point 3 onwards). If they use it at point
 1 then you have a very low percentage of having a useable pile. 
 
+Point 2 gives you a somewhat better chance however it is still poor as it relies
+on BW being your last card. 
+Alas it is my experience that people tend to Surgical as soon as they can into a stack 
+therefore relying on your opponent to 'mess up' is not an effective strategy here.
 
+Let us now consider the second example presented above:
+Doomsday has resolved.  
+1. Cast GP   
+2. Cast AoI      
+3. Cast LED  
+4. Cast LED  
+5. Cast GP   
+6. Cast BW   
+7. Cast ToA   
+
+This is a very similar set of circumstances however we actually have a higher chance of 
+success despite a resolved SE. Point 1 we have a few more permutations that will work as
+opposed to a single potential iteration of the stack.
+
+Likewise point 2 is pretty much guaranteed to succeed as even if they re-order you will 
+still 'draw' both LED and BW with the ability to cast it all. The worst case scenario here
+is that you 'draw' LED, LED BW with GP being the final card. In this instance you are down one
+storm from your original pile however the fact they have cast SE means storm count is at +1 
+anyways and if they have paid for it with life then that effectively reduces the storm 
+requirement of the pile by one anyways. 
+
+We improve our chances of success further by using our other cantrips to draw into the stack.
+The "Look at the top three cards of your library..." and "...you may shuffle yoru Library..." 
+clauses on Ponder, the "Scry 2" from Preordain and the "Draw three cards, place two cards from
+your hand onto the top of your Library" from Brainstorm all give you a higher chance to place 
+the IU, AoI or TW first in the stack.
 
 
 There are a couple of ways of beating Surgical. Obviously the use of discard
@@ -84,7 +115,7 @@ CB in play. Cantrip in hand:
 -> AoI/TW, LED, LED, GP, BW              BBB+R2    (6)    8 Storm
 ```
 
-This pile is already touched upon in the [HERE](Link).   
+This pile is already touched upon [HERE](Link).   
 No matter when they play Surgical post DD here, you can respond and negate 
 its efficacy.
 
