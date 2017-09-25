@@ -34,11 +34,9 @@ Core Skills / Knowledge
 
 Expanding on the Core    
 [Double Doomsday](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md)  
-[Sideboards](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/sideboards.md)    
+[Sideboards](https://github.com/Doishy/Doomsday-Codex/blob/Restructure/sideboards.md)    
 [Shelldock Isle/Emrakul](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/shelldock-emrakul.md)  
 [Doomsday Time Spiral](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/doomsday-timespiral.md)   
-[CB Piles](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/cb-piles.md)      
-
-Playing Around Hate    
-[Artifact Destruction](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/artifact_destruction.md)   
-[Limitations](https://github.com/Doishy/Doomsday-Codex/blob/Doishy-Edits/limitations.md)     
+[CB Piles](https://github.com/Doishy/Doomsday-Codex/blob/Restructure/cb-piles.md)      
+[Limitations](https://github.com/Doishy/Doomsday-Codex/blob/Restructure/limitations_index.md)   
+    
