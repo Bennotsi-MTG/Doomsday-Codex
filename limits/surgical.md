@@ -1,17 +1,17 @@
 # Playing around Surgical Extraction
 
-When people are side-boarding to face Doomsday there is one card that  
-they so often bring in along with all the discard, counter-magic,   
-spheres and such; Surgical Extraction. This card is particularly  
-annoying as it performs a number of functions against us. It removes  
-options from our piles that can be very key (commonly LED). It  
-can take out the namesake card (assuming no BW or after BW into DD)  
-and worse of all it can cause us to shuffle our perfect five card  
+When people are side-boarding to face Doomsday there is one card that
+they so often bring in along with all the discard, counter-magic,
+spheres and such; Surgical Extraction. This card is particularly 
+annoying as it performs a number of functions against us. It removes
+options from our piles that can be very key (commonly LED). It
+can take out the namesake card (assuming no BW or after BW into DD)
+and worse of all it can cause us to shuffle our perfect five card
 piles and make them all but useless.
 
 Let us discuss a basic pile and what points SE may affect it.     
 Each number represents a point we pass priority to our opponent post DD.   
-Here we are making the assumption that the mana for our draw spell is not generated   
+Here we are making the assumption that the mana for our draw spell is not generated
 by an LED.   
 
 Examples:   
@@ -42,7 +42,7 @@ on BW being your last card.
 Alas it is my experience that people tend to Surgical as soon as they can into a stack 
 therefore relying on your opponent to 'mess up' is not an effective strategy here.
 
-Let us now consider the second example presented above:
+Let us now consider the second example presented above:   
 Doomsday has resolved.  
 1. Cast GP   
 2. Cast AoI      
@@ -68,6 +68,9 @@ The "Look at the top three cards of your library..." and "...you may shuffle yor
 clauses on Ponder, the "Scry 2" from Preordain and the "Draw three cards, place two cards from
 your hand onto the top of your Library" from Brainstorm all give you a higher chance to place 
 the IU, AoI or TW first in the stack.
+
+
+
 
 
 There are a couple of ways of beating Surgical. Obviously the use of discard
