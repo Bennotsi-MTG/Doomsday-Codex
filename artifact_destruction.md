@@ -1,4 +1,4 @@
-# Playing atround artifact/permanent removal
+# Playing around artifact/permanent removal
 
 We use artifacts at multiple stages when executing Doomsday piles.
 Instant-speed artifact destruction effects therefore have several points 
@@ -26,16 +26,17 @@ Doomsday building -> IU, LED, GP, LED, BW. The execution of this pile is
 of course well-known, but when playing around artifact destruction the 
 order in which you cast your spells becomes very important. Also, to 
 help the discussion we count every time priority is passed.
-1. cast Doomsday
-2. tap SDT to draw IU
-3. cast IU to draw SDT, LED, GP
-4. cast SDT
-5. cast LED
-6. cast GP to draw LED
-7. cast LED
-8. tap SDT to draw BW
-9. cast BW
-10. cast ToA
+
+1. Cast Doomsday
+2. Tap SDT to draw IU
+3. Cast IU to draw SDT, LED, GP
+4. Cast SDT
+5. Cast LED
+6. Cast GP to draw LED
+7. Cast LED
+8. Tap SDT to draw BW
+9. Cast BW
+10. Cast ToA
 
 Your opponent holding an Abrupt Decay has several opportunities to 
 interact, but he has to pick the right moment to successfully disrupt 
