@@ -1,16 +1,18 @@
 # Playing around Surgical Extraction
 
-When people are side-boarding to face Doomsday there is one card that
-they so often bring in along with all the discard, counter-magic, 
-spheres and such; Surgical Extraction. This card is particularly
-annoying as it performs a number of functions against us. It removes
-options from our piles that can be very key (commonly LED). It
-can take out the namesake card (assuming no BW or after BW into DD)
-and worse of all it can cause us to shuffle our perfect five card
+When people are side-boarding to face Doomsday there is one card that  
+they so often bring in along with all the discard, counter-magic,   
+spheres and such; Surgical Extraction. This card is particularly  
+annoying as it performs a number of functions against us. It removes  
+options from our piles that can be very key (commonly LED). It  
+can take out the namesake card (assuming no BW or after BW into DD)  
+and worse of all it can cause us to shuffle our perfect five card  
 piles and make them all but useless.
 
-Let us discuss a basic pile and what points SE may affect it.   
-Each number represents a point we pass priority to our opponent post DD.
+Let us discuss a basic pile and what points SE may affect it.     
+Each number represents a point we pass priority to our opponent post DD.   
+We are mking the assumption that the mana for our draw spell is not generated   
+by an LED.   
 
 Examples:   
 ```
@@ -20,7 +22,7 @@ GP in hand.
 GP in hand.
 -> AoI, GP, LED, LED, BW              BBB+R2    (6)    8 Storm
 ```
-
+First example:   
 Doomsday has resolved.  
 1. Cast GP   
 2. Cast IU    
@@ -31,8 +33,8 @@ Doomsday has resolved.
 7. Cast ToA   
 
 From the above line. Once the opponent has let IU resolve without using SE then 
-it is too late for it to be effective (Point 3. onwards). If they use it at point
-1. then you have a very low percentage of having a useable pile. 
+it is too late for it to be effective (Point 3 onwards). If they use it at point
+1 then you have a very low percentage of having a useable pile. 
 
 
 
