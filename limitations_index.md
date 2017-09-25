@@ -1,10 +1,31 @@
 # Playing with Limitations
+"What if our opponent has X?"
 
-## Limitations of Our Deck
+This is a series of short-(ish) articles dedicated to the various types of hate we   
+can expect to face piloting Legacy Doomsday. This list is not exhaustive, nor is it   
+considered a must follow guide, it is merely to try and help you to no panic when    
+faced with these things and therefore be able to see the line needed to take to get   
+around these things.
 
-## Limitations of Our Opponent
+[Artifact/Permanent Destruction](Link)  
+[Surgical Extraction](Link)    
+[Chalice on 0](Link)  
+[Chalice on 1](Link)   
+[Chalice on 2/Spell Snare](Link)   
+[Chalice on 3](Link)   
+[Chalice on 4+/Teeg](Link)   
+[Leovold/SpotL/Chains](Link)   
+[Revoker naming X](link)   
+[Taxes: Thalia/Spheres](Link)  
+[R-Blasts](Link)   
+[Canonist](Link)   
 
-### Playing against Surgical Extraction
+Deck specific corner cases:
+
+[Miracles - Predict](Link)  
+[Painter - Grindstone](Link)  
+[Dredge - Iona](Link)  
+
 
 When people are side-boarding to face Doomsday there is one card that
 they so often bring in along with all the discard, counter-magic, 
