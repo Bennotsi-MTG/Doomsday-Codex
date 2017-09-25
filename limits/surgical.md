@@ -64,7 +64,7 @@ anyways and if they have paid for it with life then that effectively reduces the
 requirement of the pile by one anyways. 
 
 We improve our chances of success further by using our other cantrips to draw into the stack.
-The "Look at the top three cards of your library..." and "...you may shuffle yoru Library..." 
+The "Look at the top three cards of your library..." and "...you may shuffle your Library..." 
 clauses on Ponder, the "Scry 2" from Preordain and the "Draw three cards, place two cards from
 your hand onto the top of your Library" from Brainstorm all give you a higher chance to place 
 the IU, AoI or TW first in the stack.
