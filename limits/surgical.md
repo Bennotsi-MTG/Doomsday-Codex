@@ -35,7 +35,8 @@ Doomsday has resolved.
 
 From the above lines. Once the opponent has let IU resolve without using SE then 
 it is too late for it to be effective (Point 3 onwards). If they use it at point
-1 then you have a very low percentage of having a useable pile. 
+1 then you have a very low percentage of having a useable pile where IU is still 
+on the top of the stack and BW is still at the bottom.
 
 Point 2 gives you a somewhat better chance however it is still poor as it relies
 on BW being your last card. 
@@ -54,7 +55,9 @@ Doomsday has resolved.
 
 This is a very similar set of circumstances however we actually have a higher chance of 
 success despite a resolved SE. Point 1 we have a few more permutations that will work as
-opposed to a single potential iteration of the stack.
+opposed to a single potential iteration of the stack.  
+We now have success if AoI is the first card or the second card after the GP as the first.
+Beyond that is does not actually matter on the ordering of the cards.
 
 Likewise point 2 is pretty much guaranteed to succeed as even if they re-order you will 
 still 'draw' both LED and BW with the ability to cast it all. The worst case scenario here
@@ -67,11 +70,11 @@ We improve our chances of success further by using our other cantrips to draw in
 The "Look at the top three cards of your library..." and "...you may shuffle your Library..." 
 clauses on Ponder, the "Scry 2" from Preordain and the "Draw three cards, place two cards from
 your hand onto the top of your Library" from Brainstorm all give you a higher chance to place 
-the IU, AoI or TW first in the stack.
+the IU, AoI or TW first in the stack.   
 
-
-
-
+Now the above mainly tells you that all is not lost to a Surgical post DD so you should play it
+out just to double check the odds just in case. This also does not apply to if they have sniped LEDs 
+from you or similar.
 
 There are a couple of ways of beating Surgical. Obviously the use of discard
 or Silence can help protect you however sometimes you might be facing an active
@@ -110,7 +113,7 @@ to target. In larger events you should be able to get some more mileage out of o
 misplaying Surgicals as a result of not being used to facing DDFT. 
 
 If they do have a Surgical still and you need to combo off there are some piles or 
-circumstances that will facilitate this. 
+circumstances that will facilitate this in addition to the examples mentioned at the start. 
 
 Example:
 ```
@@ -125,7 +128,9 @@ its efficacy.
 Another example of getting around SE is simply going off with your draw tool in hand
 such as AoI/TW/IU/IC. Especially with pass the turn piles you can use this to ignore the 
 shuffle from the SE and just draw everything you need. This of course favours a LM line
-of play which may not always be optimal depending on the circumstances.
+of play which may not always be optimal depending on the circumstances. It also means you
+must avoid using CB recursion or risking anything to the Graveyard that may be under threat
+or in multiples later. 
 
 One trick to consider is, if you go off with an uncracked fetch and the draw spell in hand,
 you can use that and place a land in your stack to reduce it by a card ensuring your 
@@ -143,3 +148,4 @@ AoI/TW in hand. Pass the Turn:
 2. SE can be played around
 3. Opponent's can often panic SE the wrong thing
 4. The trick is timing and not allowing them the gap to cast it
+5. AoI/TW is a better tool than IU vs SE
