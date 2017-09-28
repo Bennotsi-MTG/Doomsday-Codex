@@ -1,6 +1,6 @@
 # Brainstorm in Doomsday   
 
-One of the most powerful, if not controversial spells available
+Brainstorm is one of the most powerful, if not controversial, spells available
 in the Legacy format at this time. There have been numerous articles
 written on this 'seemingly innocuous at first glance' one manner 
 cantrip. I will be glossing over the main discussion of this card and
