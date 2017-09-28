@@ -44,7 +44,7 @@ BS, BW in hand.
 
 Example one:   
 Storm Count = 1   
-1. Cast BS for U (2). Draw LED, (TW/AoI), GP and replace (TW/AoI) and BW.   
+1. Cast BS for U (2). Draw LED, (TW/AoI), GP and replace (TW/AoI) and BW   
 2. Cast LED (3)   
 3. Cast GP (4) and hold priority cracking for UUU or RRR   
 4. Draw (TW/AoI)   
@@ -66,7 +66,7 @@ Example two:
 This follows exactly the same as example one however we require an additional 1 generic
 available to pull it off.   
 Storm Count = 1
-1. Cast BS for U (2). Draw LED, IU, GP and replace (TW/AoI) and BW.   
+1. Cast BS for U (2). Draw LED, IU, GP and replace (TW/AoI) and BW   
 2. Cast LED (3)   
 3. Cast GP (4) and hold priority cracking for UUU   
 4. Draw IU   
@@ -79,7 +79,7 @@ Storm Count = 1
 11. Cast ToA for Storm = 9.   
 
 Again the same concept applies however we do need one extra mana as otherwise we cannot
-cast BW due to our LEDs discard clause.  
+cast BW due to our LEDs' discard clause.  
 Nevertheless both the above examples are cheap piles requiring relatively low resources.  
 
 ```
@@ -89,4 +89,54 @@ BS, BW in hand.
 BS, BW in hand.
 -> LED, IU, GP, LP, LED                      BBB+1U  (5) 9 Storm
 ```
+
+We can get around the IU LED mana restriction simply by having extra cards in our hands. 
+Doomsday has been cast. Storm Count =1.   
+X denotes any card in hand.  
+
+```
+BS, IU, X in hand.
+-> LED, LED, GP, LED, BW 
+```
+
+Storm Count =1   
+1. Cast BS for U (2). Draw LED, LED, GP and replace IU and X   
+2. Cast LED (3)  
+3. Cast LED (4)   
+4. Cast GP, hold priority and crack LEDs for UUU, RRR   
+5. Draw IU   
+6. Cast IU (5) drawing X, LED, BW   
+7. Cast LED (6)   
+8. Cast BW (7), hold priority and crack LED for BBB, targetting ToA   
+9. Cast ToA for Storm = 8. 
+
+Obviously storm can be +1 if you are able to cast X prior to BW. 
+
+Finally let us now consider this scenario;  BS and BW in hand. 1UR available.    
+Doomsday has been cast therefore Storm Count =1.   
+For argument's sake let us also state that your maindeck draw spell (IU, TW, AoI) 
+has been exiled for whatever reasons. We can still work with this scenario.    
+
+Example:   
+```
+BS, BW in hand.
+-> LED, GP, LED, LED, BW               BBB+1UR   (6) 9 Storm
+```
+
+Storm Count =1   
+1. Cast BS for U (2). Draw LED, GP, LED and replace BW and LED   
+2. Cast LED (3)   
+3. Cast GP (4), hold priority and crack LED for RRR, draw BW   
+4. Cast BW (5) targetting AoI in the SB   
+5. Cast AoI (6) exiling LED, LED, BW   
+6. Cast LED (7)   
+7. Cast LED (8)   
+8. Crack LEDs for BBB and RRR   
+9. Cast BW (9) targetting ToA   
+10. Cast ToA for Storm = 10.  
+
+Again this playline can be followed with two BW in hand, BW and GP in hand or 
+other sets of cards.   
+
+## Summary
 
