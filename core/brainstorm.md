@@ -87,6 +87,6 @@ BS, BW in hand.
 -> LED, [TW/AoI], GP, LED, LED               BBB+U   (4) 9 Storm
 
 BS, BW in hand.
--> LED, IU, GP, LP, LED                      BBB+1U  (6) 9 Storm
+-> LED, IU, GP, LP, LED                      BBB+1U  (5) 9 Storm
 ```
 
