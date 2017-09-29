@@ -27,17 +27,8 @@ This repository, and all of its contents, is licensed under [CC-BY-4.0](https://
 
 # Table of Contents
 
-Core Skills / Knowledge    
-[Basics](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/basics.md)  
-[Laboratory Maniac](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/laboratory-maniac.md)  
-[Pass the Turn](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/pass-the-turn.md)  
-[Brainstorm Piles]()   
-
-Expanding on the Core    
-[Double Doomsday](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md)  
-[Shelldock Isle/Emrakul](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/shelldock-emrakul.md)  
-[Doomsday Time Spiral](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/doomsday-timespiral.md)   
-[CB Piles](https://github.com/Doishy/Doomsday-Codex/blob/Restructure/cb-piles.md)   
-
-[Limitations](https://github.com/Doishy/Doomsday-Codex/blob/Restructure/limits/limitations_index.md)  
-[Sideboards](https://github.com/Doishy/Doomsday-Codex/blob/Restructure/sb/sideboards_index.md)   
+[Core Skills]()   
+[Expanding on the Core]()    
+[Limitations]()  
+[Sideboards]()   
+[Deck History]()  
