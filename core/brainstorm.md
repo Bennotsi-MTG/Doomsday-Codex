@@ -140,3 +140,5 @@ other sets of cards.
 
 ## Summary
 
+1. You can use BS to exchange resources between your hand and the pile
+2. Don't fixate on specific lines, just remember general rules
