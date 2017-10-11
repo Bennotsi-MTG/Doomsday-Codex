@@ -39,7 +39,9 @@ We'll focus on playing around/through hate later.
 
 Consider the following (intentionally) bad example:  
 You cast Doomsday, but lack a draw effect and therefore build:  
+```
 -> IU, LED, LED, GP, BW(ToA).  
+```
 Next turn, for only UU you can draw and cast Ideas Unbound, followed by 
 2 Lion's Eye Diamonds and Gitaxian Probe into Burning Wish for Tendrils 
 of Agony for 6 storm. Although the mana cost of this procedure is very 
@@ -94,10 +96,10 @@ GP in hand:
 -> LED, IU, Silence, GP, LM  W+2 (3) 4 life
 
 LED:
--> SDT, IU, Silence, GP, LM  W+4 (5) 2 life
+-> GP, TW, Silence, GP, LM  W+3 (4) 2 life
 -> GP, IU, Silence, GP, LM  W+2 (3) 4 life
 
-SDT in play:
+CB in play:
 -> Silence, TW, LED, GP, LM  W+1UU (4) 2 life
 -> LED, TW, Silence, GP, LM  W+3 (4) 2 life
 ```
@@ -109,7 +111,7 @@ Karakas, or perhaps even a Massacre.
 For all pass the turn piles that don't assume a Conjurer's Bauble in play,
 you can replace the card that draws from an empty deck in the 
 Doomsday pile with Chromatic Sphere and increase the mana cost 
-accordingly.
+accordingly to play around removal.
 
 ## Time Spiral Pass the Turn Piles
 
