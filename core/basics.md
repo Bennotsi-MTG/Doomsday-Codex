@@ -39,7 +39,7 @@ W White - U Blue - B Black - R Red - G Green
 1 one generic mana  
 BBB means three black mana  
 
-=======
+=======   
 1UU means two blue mana and one generic mana   
 X means a variable amount of any generic mana    
 
