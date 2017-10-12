@@ -40,14 +40,16 @@ W White - U Blue - B Black - R Red - G Green
 BBB means three black mana  
 
 =======
-1UU means two blue mana and one generic mana
-X means a variable amount of any generic mana
+1UU means two blue mana and one generic mana   
+X means a variable amount of any generic mana    
 
 
-Consider the following example of a Doomsday pile in this notation:
+Consider the following example of a Doomsday pile in this notation:    
+
 ```
 -> IU, LED, GP, LED, BW(ToA) BBB+1UU (6) 8 Storm
 ```
+
 This means that IU is the top card and BW is the bottom card. BBB+1UU 
 represents the mana cost, (6) is the total converted mana cost required
 to complete the pile. 8 Storm represents the amount of storm that executing
