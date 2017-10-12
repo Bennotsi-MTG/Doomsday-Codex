@@ -1,70 +1,30 @@
 # Playing with Limitations
+"What if our opponent has X?"
 
-## Limitations of Our Deck
+This is a series of short-(ish) articles dedicated to the various types of hate we   
+can expect to face piloting Legacy Doomsday. This list is not exhaustive, nor is it   
+considered a must follow guide, it is merely to try and help you to no panic when    
+faced with these things and therefore be able to see the line needed to take to get   
+around these things.
 
-## Limitations of Our Opponent
+[Artifact/Permanent Destruction](Link)  
+[Surgical Extraction](Link)    
+[Chalice on 0](Link)  
+[Chalice on 1](Link)   
+[Chalice on 2/Spell Snare](Link)   
+[Chalice on 3](Link)   
+[Chalice on 4+/Teeg](Link)   
+[Leovold/SpotL/Chains](Link)   
+[Revoker naming X](link)   
+[Taxes: Thalia/Spheres](Link)  
+[R-Blasts](Link)   
+[Canonist](Link)   
 
-### Playing against Surgical Extraction
+Deck specific corner cases:
 
-When people are side-boarding to face Doomsday there is one card that
-they so often bring in along with all the discard, counter-magic, 
-spheres and such; Surgical Extraction. This card is particularly
-annoying as it performs a number of functions against us. It removes
-options from our piles that can be very key (commonly LED). It
-can take out the namesake card (assuming no BW or after BW into DD)
-and worse of all it can cause us to shuffle our perfect five card
-piles and make them all but useless.
-
-There are a couple of ways of beating Surgical. Obviously the use of discard
-or Silence can help protect you however sometimes you might be facing an active
-Snapcaster with Surgical in the graveyard or something similar. Forcing the
-opponent to panic "use it or lose it" is the best way to stop them getting full
-value out of it. What they try and use it on in this instance obviously depends
-on what is currently targetable in your graveyard. Trying to work out what the 
-opponent will go for requires some good observational or psychological skills.  
-
-Say you send a Duress at your opponent in a game 2. You have won the first one 
-though a storm kill and they have a Surgical in hand that you have seen with a GP. 
-Your graveyard contains: Flooded Strand, Gitaxian Probe, Polluted Delta, Brainstorm,
-Ponder. What are they likely to Surgical?    
-From my experiences they normally aggressively try to hit Brainstorm. Everyone knows BS
-is busted right? What if there was also a Lotus Petal in the graveyard too? Would they 
-try and limit your mana choices or still hit the notorious cantrip?
-
-There are some cards that are certainly more obvious targets than others. Doomsday is the
-main one followed by Lion's Eye Diamond and Dark Ritual. Depending on your list and what 
-the opponent has seen they might also be very tempted to try and get Burning Wish too. 
-Very rarely do people aim for your protection spells (Discard or Silence) and though they 
-sometimes do they don't often try and hit the other cantrips, Gitaxian Probe is probably the 
-most likely candidate to be targeted after Brainstorm.
-
-Another thing you can try and do to play against Surgical pre-combo turn is to 
-actually lever advantage from it. Try and use your discard to hit it with an active 
-Brainstorm available. In response to their Surgical you can cast it and use the resolving 
-Surgical as a shuffle effect. Alternatively you might cast a Brainstorm and fail to find a 
-fetchland, you can use any discard available (assuming no big risk to your hand) to then
-force the shuffle effect to occur with the tasty BS in the yard as a bait target.
-
-Obviously not everyone plays the same and many will not adhere to the suggestions
-written above. You should be able to get a feel yourselves on your own local metagames
-and as people play against you more, they will of course improve their judgement on what
-to target. In larger events you should be able to get some more mileage out of opponents
-misplaying Surgicals as a result of not being used to facing DDFT. 
-
-If they do have a Surgical still and you need to combo off there are some piles or 
-circumstances that will facilitate this. 
-
-Example:
-```
-CB in play. Cantrip in hand:
--> AoI/TW, LED, LED, GP, BW              BBB+R2    (6)    8 Storm
-```
-
-This pile is already touched upon in the CB article. [LINK PLACEHOLDER].    
-No matter when they play Surgical post DD here, you can respond and negate 
-its efficacy.
-
-### Playing with no LED
+[Miracles - Predict](Link)  
+[Painter - Grindstone](Link)  
+[Dredge - Iona](Link)  
 
 ### Playing with a Chalice of the Void on X
 
@@ -98,7 +58,7 @@ CB in play. Cantrip in hand:
 -> DR, IC, DR, CB, ToA                 BBB+B+X     (4+X)  8+X Storm
 ```
 
-The general concepts to remember is that our main method of mana increase 
+The general concept to remember is that our main method of mana increase 
 is DR. This means we need both B to enable the casting of these rituals
 and also R available to cast BW at the end. Alternatively if you are aiming for
 a LM pile you need U to help cast him. As all our cantrips are not affected we
@@ -143,7 +103,7 @@ Example:
 
 ```
 Pass the turn.
--> BW (IC), LED, LED, LP, BW            BBB+2R   (7)  7 Storm
+-> BW (IC), LED, LED, LP, BW          BBB+2R   (7)  7 Storm
 ```
 
 #### 2 Cost spells
@@ -173,15 +133,49 @@ come into play.
 
 ### Playing against Revoker naming X
 
-This is a play that 
+This is a play that you often find versus MUD or Death and Taxes. Unlike Pithing
+Needle, Revoker shuts down Lion's Eye Diamond and / or Lotus Petal. One updside 
+compared to say, Chalice on 0, is that you can still cast the named cards
+allowing generation of storm. You can also get rid of them through both
+artifact and creature removal. If not, you can also follow the same tips for 
+Chalice on 0 mentioned above. 
 
 ### Playing against Red Blasts
 
+Any deck playing Red will likely bring in at least one Red Elemental Blast or
+Pyroblast against you. It hits cantrips and therefore has a high number of 
+targets. The main trick to getting around these is just not play Blue spells (duh). 
+Using BW into AoI/IC or CB to draw into your pilewill negate the R blast into nothing
+but a R: +1 Storm effect.
 
+Example:
+```
+BW (IC) in hand:
+-> CB, LED, LED, LP, BW (ToA)          BBB+1BBBR   (8)  8 Storm
+```
 
-### Playing against Thalia
+### Playing against Thalia and other Sphere effects
+
+These are a real headache. 
 
 ### Playing against Chains of Mephitospholes
+
+This example of a hate card is pretty narrow but very brutal. Expect
+this from decks like Jund variants or Pox-esque decks. The main trick
+to this is to limit how many times the words "Draw a card" are used. 
+Luckily AoI/TW both avoid this terminology therefore making them
+perfect for getting around the issue. You likely will need at least one
+draw effect though so make sure to have an excess card available to bin to 
+enabling the draw.
+
+Example:
+```
+BW (AoI)+GP+1 Card in hand:
+-> LED, LED, LED, BW, X                BBB+1R   (5)  9 Storm
+```
+
+If you do have to use IU or similar, you should be fine so long as you have
+enough 'dead' cards available to discard.
 
 ## Limitations of Our Mind
 
@@ -201,4 +195,4 @@ not to fall into the trap of despair that comes from rote learning of piles
 only to see them become useless in the face of an untimely Revoker or Chalice
 on 0.
 
-Keep an opoonent mind, stay cool and always have fun.
+Keep an open mind, stay cool and always have fun.

@@ -39,7 +39,9 @@ We'll focus on playing around/through hate later.
 
 Consider the following (intentionally) bad example:  
 You cast Doomsday, but lack a draw effect and therefore build:  
+```
 -> IU, LED, LED, GP, BW(ToA).  
+```
 Next turn, for only UU you can draw and cast Ideas Unbound, followed by 
 2 Lion's Eye Diamonds and Gitaxian Probe into Burning Wish for Tendrils 
 of Agony for 6 storm. Although the mana cost of this procedure is very 
@@ -94,10 +96,10 @@ GP in hand:
 -> LED, IU, Silence, GP, LM  W+2 (3) 4 life
 
 LED:
--> SDT, IU, Silence, GP, LM  W+4 (5) 2 life
+-> GP, TW, Silence, GP, LM  W+3 (4) 2 life
 -> GP, IU, Silence, GP, LM  W+2 (3) 4 life
 
-SDT in play:
+CB in play:
 -> Silence, TW, LED, GP, LM  W+1UU (4) 2 life
 -> LED, TW, Silence, GP, LM  W+3 (4) 2 life
 ```
@@ -109,7 +111,7 @@ Karakas, or perhaps even a Massacre.
 For all pass the turn piles that don't assume a Conjurer's Bauble in play,
 you can replace the card that draws from an empty deck in the 
 Doomsday pile with Chromatic Sphere and increase the mana cost 
-accordingly.
+accordingly to play around removal.
 
 ## Time Spiral Pass the Turn Piles
 
@@ -209,48 +211,47 @@ To convert a TSP pass the turn pile into a Doomsday pass the turn pile,
 we replace a Burning Wish in the pile with a Doomsday. The problem is 
 that we also need some means of drawing into our second Doomsday pile. 
 If you did not have a Sensei's Divining Top in play already, you have to 
-replace some card in the pile with a draw effect. Preferably Sensei's 
-Divining Top, as it allows us to sacrifice the 2nd LED in response to 
-Doomsday and include it in the second pile.
-```
-SDT in play:
--> IU, LED, LED, DD, BW  [1UU/BBB] (3) 11 Storm
--> IU, LED, LED, BW(ToA), X
+replace some card in the pile with a draw effect. Preferably Conjurer's
+Bauble or AoI, as it allows us to sacrifice the 2nd LED in response to 
+Doomsday and include it in the second pile.  
 
-LED in play:
--> IU, SDT, LED, DD, BW  1UU (3) 10 Storm
--> IU, LED, LED, BW(ToA), X
 ```
-Now as these two piles are played out they converge to the same state. 
-You draw IU in your draw step, and then either already have LED in play 
-or use SDT to draw LED and play it. Essentially, we need 6 cards five of 
-which can be tutored up by Doomsday. If we want to be discard-proof the 
-sixth card should be in play and not our hand, implying it's either SDT 
-or LED. Other options for the sixth card are Ideas Unbound, Doomsday, 
-and Burning Wish.
+LED in play, PTT:
+-> TW/AoI, LED, GP, DD, BW          1UU/2R (3)         9 Storm
+-> TW/AoI, LED, LED, BW(ToA), X
 
-Ideas Unbound and Doomsday can only be used if they remain in your hand. 
-Burning Wish may be discarded by our opponent, Doomsday will put it into 
-the second pile anyways, and meanwhile it may free up a slot in the pass 
-the turn pile. However, to utilize this freed up slot we must actually 
-draw the card. Since we can't draw all four remaining cards in our pile 
-with just Ideas Unbound we need to include another draw spell in the 
-pile to do so, which sort of defeats the whole point except for building 
-more storm perhaps. Now I haven't been able to come up with a realistic 
-pile that efficiently utilizes a Doomsday in hand, and the Ideas Unbound 
-example isn't spectacular either:
-```
-IU in hand:
--> LED, SDT, LED, DD, BW  1UU (3) 11 Storm
--> IU, LED, LED, BW(ToA), X
+LED, CB in play, PTT:
+-> IU, LED, GP, BW, BW(DD)          1UUR   (4)         10 Storm
+-> IU, LED, LED, GP, BW(ToA)
 ```
 
-In summary, for a double-doomsday pass the turn pile you need 6 cards: 
-IU, 2xLED, SDT, DD, and BW. You should have at least 1 of these 6 before 
-building the pile, with LED, IU, or SDT you don't need any extra cards, 
-the other 5 cards you can search with Doomsday. LED or SDT can remain in 
-play when you pass the turn being save from discard, but not artifact 
-destruction so consider which is the bigger risk. On your next turn you 
-will need at least 3 mana to win. Most importantly, remember that in 
-general you need an SDT or a LED and 1UU next turn and you'll be able to 
-figure to pile out on the spot.
+## Pass the Turn CB piles
+
+Conjurer's Bauble can be used to increase storm
+despite an apparant lack of card resource. Remember that
+when you have a CB in play, one in the graveyard and no cards in your
+library you can loop them for the cost of (1) mana.  
+
+```
+LED in play, PTT:
+-> IC, LED, CB, CB, ToA                  BBB+X (3+X)      9+X Storm
+```
+
+In the above example, what looks like a poor setup of only five spells
+can be used to enable a greater storm count. In the above example we cast
+IC (1) using the mana we used to cast DD the previous turn. We hold priority and
+crack LED for BBB. We then draw LED, CB, CB, ToA. We play LED (2) and use BB
+to cast both CBs (3,4). We then activate LED for BBB discarding ToA. We activate
+our first CB targeting LED, drawing it from our empty deck. We cast LED (5). 
+We now have BBBBBBB in our mana pool. We can use this with CB to activate 
+CB targeting the CB in the graveyard and loop them playing them again and again
+until we only have BBBB in our mana pool. In this base example this is for three 
+loops (6,7,8). We can then use the final one to target ToA and cast it for 9 storm.
+
+
+## Summary   
+
+1. You don't always have to win the turn you cast Doomsday   
+2. Pass the turn piles are effective when low on resource (cards or mana)   
+3. PTT piles do leave you susceptible to hand attack    
+4. There are tricks you can use to ensure you can build up enough storm so you don't always have to rely on LM    

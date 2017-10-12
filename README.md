@@ -27,9 +27,8 @@ This repository, and all of its contents, is licensed under [CC-BY-4.0](https://
 
 # Table of Contents
 
-[Basics](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/basics.md)  
-[Laboratory Maniac](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/laboratory-maniac.md)  
-[Pass the Turn](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/pass-the-turn.md)  
-[Shelldock Isle/Emrakul](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/shelldock-emrakul.md)  
-[Doomsday Time Spiral](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/doomsday-timespiral.md)  
-[Double Doomsday](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md)  
+[Core Skills]()   
+[Expanding on the Core]()    
+[Limitations]()  
+[Sideboards]()   
+[Deck History]()  
