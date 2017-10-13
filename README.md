@@ -27,8 +27,25 @@ This repository, and all of its contents, is licensed under [CC-BY-4.0](https://
 
 # Table of Contents
 
-[Core Skills]()   
-[Expanding on the Core]()    
-[Limitations]()  
-[Sideboards]()   
+Part 1:   
+[The Basics]()   
+[Brainstorm]()    
+[Laboratory Maniac]()  
+[Pass the Turn piles]()   
+
+Part 2:   
+[Double Doomsday Piles]()   
+[Time Spiral Piles]()    
+[Shelldock Isle + Emrakul]()    
+[Conjurer's Bauble]()     
+
+Part 3:     
+[Removal]()   
+[Surgical Extraction]()    
+
+Part 4:    
+[Sideboarding]()    
+[Matchup Specifics]()    
+
+Part 5:    
 [Deck History]()  
