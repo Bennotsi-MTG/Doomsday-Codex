@@ -1,45 +1,48 @@
-# Brainstorm in Doomsday   
+# Brainstorm in Doomsday
 
 Brainstorm is one of the most powerful, if not controversial, spells available
 in the Legacy format at this time. There have been numerous articles
-written on this 'seemingly innocuous at first glance' one manner 
+written on this 'seemingly innocuous at first glance' one manner
 cantrip. I will be glossing over the main discussion of this card and
 instead focus on the specifics of using it as a part of or to initiate
 your doomsday piles. It many cases it can be used as any other cantrip.
-If you have say 2UR available post Doomsday then it is perfectly fine to 
-build a very basic pile to win with.   
-One thing that is key to using BS correctly is to use it to recognise 
-when you in fact have the resources to win with, just not in the places
-you are used to having them. Beginners with the deck will often miss out
-on chances to win because they are blindered into only knowing preset
-orders of cards and not realising they can convert resources from hand
-into the stack.   
+If you have say 2UR available post Doomsday then it is perfectly fine to
+build a very basic pile to win with.
 
-Let's discuss some examples:   
+One of the more difficult things of playing Doomsday storm combo is recognizing
+situations where you have the resources to win.
+Beginning players often start out with learning only a few piles by heart. While
+this helps with getting started, there will be many chances to win that they will miss out on.
+
+The key thing to understand is that Brainstorm can exchange a few cards in your hand
+with the top of your Doomsday pile. This enables many new lines of play that will
+allow the Doomsday player to win in situations where the basic piles would not.
+
+Let's discuss some examples:
 
 You have U available. You have just cast Doomsday so storm
-count = 1. Your hand is BS and BW. Let's assess what we have and look at the 
-most basic of piles to compare it with:  
+count = 1. Your hand is BS and BW. Let's assess what we have and look at the
+most basic of piles to compare it with:
 
 ```
--> [TW/AoI], LED, LED, GP, BW
+-> [TW/AoI], LED, LED, GP, BW            BBB+U+[1UU/2R] (7)   9 Storm
 
--> IU, LED, LED, GP, BW
+-> IU, LED, LED, GP, BW                  BBB+U+UU (6)         9 Storm
 ```
 
-As we can see, we now have already available our finishing spell (BW).    
-This lets us save a slot in the stack to play around with as we can 
-use the BS to insert the BW from our hand into the pile. As a result, 
+As we can see, we now have already available our finishing spell (BW).
+This lets us save a slot in the stack to play around with as we can
+use the BS to insert the BW from our hand into the pile. As a result,
 we have obtained the finisher, we just need to consider mana and a way to
 'draw' our cards.
 
-Examples:   
+Examples:
 ```
 BS, BW in hand.
--> LED, [TW/AoI], GP, LED, LED 
+-> LED, [TW/AoI], GP, LED, LED          BBB+U (4)             9 Storm
 
 BS, BW in hand.
--> LED, IU, GP, LP, LED 
+-> LED, IU, GP, LP, LED                 BBB+1U (5)            9 Storm
 ```
 
 Example one:   
@@ -56,17 +59,17 @@ Storm Count = 1
 10. Cast BW (8) for ToA  
 11. Cast ToA for Storm = 9.   
 
-Thanks to BS we have been able to exchange our lack of mana for our finisher. This
+Thanks to BS we are able to exchange the BW in the pile with another LED. This
 concept of swapping can be used for many aspects of piles. In this example it means
 we can go off with just U open with any number of the following cards in hand:    
 
 LED, GP, (TW/AoI), BW, LM    
 
 Example two:    
-This follows exactly the same as example one however we require an additional 1 generic
-available to pull it off.   
+This follows exactly the same as example one however we require an additional 2 generic
+to pull it off.   
 Storm Count = 1
-1. Cast BS for U (2). Draw LED, IU, GP and replace (TW/AoI) and BW   
+1. Cast BS for U (2). Draw LED, IU, GP and replace IU and BW   
 2. Cast LED (3)   
 3. Cast GP (4) and hold priority cracking for UUU   
 4. Draw IU   
@@ -75,25 +78,38 @@ Storm Count = 1
 7. Cast LP (6)   
 8. Cast LED (7)   
 9. Crack LP for R   
-10. Cast BW (8) for ToA, hold priority and crack LED for BBB     
+10. Cast BW (8) for ToA, hold priority and crack LED for BBB   
 11. Cast ToA for Storm = 9.   
 
-Again the same concept applies however we do need one extra mana as otherwise we cannot
-cast BW due to our LEDs' discard clause.  
+Again the same concept applies however we do need one extra mana. The difference comes
+from the fact that we draw BW with IU, as opposed to exiling it with TW or AoI. The fact
+that BW is in our hand means that we can not use LED to pay for it. The Lotus Petal in the
+pile is used to generate R, which together with the U left floating after IU is enough
+to cast BW. LED is sacrificed for black in response to produce black mana, where one
+additional generic mana is needed to cast ToA.
+
 Nevertheless both the above examples are cheap piles requiring relatively low resources.  
 
 ```
 BS, BW in hand.
--> LED, [TW/AoI], GP, LED, LED               BBB+U   (4) 9 Storm
+-> LED, [TW/AoI], GP, LED, LED               BBB+U (4)    9 Storm
 
 BS, BW in hand.
--> LED, IU, GP, LP, LED                      BBB+1U  (5) 9 Storm
+-> LED, IU, GP, LP, LED                      BBB+1U (5)   9 Storm
 ```
 
-We can get around the IU LED mana restriction simply by having extra cards in our hands. 
-Doomsday has been cast. Storm Count =1.   
-X denotes any card in hand.  
+Sometimes, we can get around the IU LED mana restriction simply by having extra cards in
+our hands. Notice that in the example above we drew IU only to put it back with
+Brainstorm, which is not very useful by itself. If we already had IU in hand, we could
+draw any card of our choice from the pile and put back IU. Since we get to put back two
+cards, we can put back IU and any other card in hand to effectively use Brainstrom as a
+draw-3 spell.
 
+The reason this trick does not work for when we have BW in hand is that we can only put
+back two cards with BS, if those cards have to be IU and BW we cannot exchange any
+additional cards in hand with cards in the pile.
+
+Say we have BS, IU, and one card in hand. We cast Doomsday and build:
 ```
 BS, IU, X in hand.
 -> LED, LED, GP, LED, BW 
