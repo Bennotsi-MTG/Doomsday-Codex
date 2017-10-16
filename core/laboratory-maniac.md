@@ -30,7 +30,9 @@ Playing a 1-off Laboratory Maniac comes with a number of perks:
 
 And a couple of downsides:
 - Vulnerable to removal
-- Pretty dead card when you draw it pre-Doomsday.
+- Pretty dead card when you draw it pre-Doomsday*.
+
+*Sometimes...
 
 ## Winning with Laboratory Maniac Using IU
 
@@ -88,7 +90,8 @@ CB in play + GP in hand:
 ```
 The key difference with these is that you can use the fact TW/AoI exile LM to
 then be able to cast him using mana from an LED rather than having to rely on 
-drawing into him.
+drawing into him. This is great especially when using Brainstorm to take him
+from your hand back into the stack.
 
 ## Chromatic Sphere
 
@@ -109,3 +112,14 @@ while fixing mana colors.
 Most of the time, Chromatic Sphere may be used as a direct replacement for
 Conjurer's Bauble within the Doomsday pile. You just have to make sure you
 increase the cost of the pile by 1.
+
+## Summary
+
+I hope this gives a good overview for the use of Laboratory maniac.   
+Obviously, I have only touched upon the subject and the total 
+number of piles that may be created is much larger. So things to 
+remember are:
+1. LM is an alternate wincon which carries the risk of facing removal
+2. You need enough mana to cast LM safely as well as a draw effect for when he is in play
+3. You can use a 'free' double cantrip pile using AoI/TW
+4. CS can be used to create a pile that cannot be responded to by removal
