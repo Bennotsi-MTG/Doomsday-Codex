@@ -2,7 +2,7 @@
 
 Brainstorm is one of the most powerful, if not controversial, spells available
 in the Legacy format at this time. There have been numerous articles
-written on this 'seemingly innocuous at first glance' one manner
+written on this 'seemingly innocuous at first glance' one mana
 cantrip. I will be glossing over the main discussion of this card and
 instead focus on the specifics of using it as a part of or to initiate
 your doomsday piles. It many cases it can be used as any other cantrip.
