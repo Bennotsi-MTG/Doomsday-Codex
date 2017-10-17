@@ -11,7 +11,7 @@ should serve as a last resort. The risks involved in paying half your
 life rounded up and passing the turn are not to be underestimated.
 
 In Legacy, discard is one of the most common strategies for disrupting 
-your opponent's plan. Therefore, many decks try to use discard to prevent 
+your opponents plan. Therefore, many decks try to use discard to prevent 
 us from winning the game before they do. One of the main uses of pass 
 the turn piles is to become immune to discard. If you can't win right 
 now because you still lack some resources, but you can cast Doomsday and 
@@ -27,9 +27,9 @@ situation is a good question, in general, it's not a good idea to keep a
 hand without sufficient filter/draw spells or use your cantrips too 
 aggressively and be a left with a Doomsday and no draw effect.
 
-Now that we've made clear that pass the turn piles should basically 
-never be part of your plan, but may serve as an out in some situations, 
-we are ready to get started:
+Now that we've made clear that pass the turn piles are a last 
+resort, but may serve as an out in some situations, we are ready 
+to get started:
 
 There is some good reason that you are going for a pass the turn pile 
 rather than winning this turn, either you lack resources or you have to 
@@ -37,81 +37,79 @@ fight through some form of hate. Let's first talk about building pass
 the turn piles because we lack resources, such as a draw effect or mana. 
 We'll focus on playing around/through hate later.
 
-Consider the following (intentionally) bad example:  
-You cast Doomsday, but lack a draw effect and therefore build:  
+Consider the following (intentionally) bad example: You cast 
+Doomsday, but lack a draw effect and therefore build:
 ```
--> IU, LED, LED, GP, BW(ToA).  
+-> IU, LED, LED, GP, BW(ToA)         UU (2)      6 Storm
 ```
-Next turn, for only UU you can draw and cast Ideas Unbound, followed by 
-2 Lion's Eye Diamonds and Gitaxian Probe into Burning Wish for Tendrils 
-of Agony for 6 storm. Although the mana cost of this procedure is very 
-low, the storm count is a bit of a disappointment. Fortunately, it's 
-easy to increase the storm count from this point on. If you have 1 more 
-mana you can build IU, LED, GP, CB, BW as a pile for 7 storm for 
-example. Together with some cards in hand to play out and some 
-self-inflicted damage from your opponent's fetchlands, that might just 
-be enough.
+Next turn, for only UU you can draw and cast Ideas Unbound, followed 
+by 2 Lion's Eye Diamonds and Gitaxian Probe into Burning Wish for 
+Tendrils of Agony for 6 storm. Although the mana cost of this 
+procedure is very low, the storm count is a bit of a disappointment. 
+Fortunately, it's easy to increase the storm count from this point 
+on. If you have 1 more mana you can build IU, LED, GP, CB, BW as a 
+pile for 7 storm for example. Together with some cards in hand to 
+play out and some self-inflicted damage from your opponent's 
+fetchlands, that might just be enough.
 
-There are however some more solid ways of reaching winning the game even 
-after passing the turn, that still work if passing the turn is primarily 
-an anti-discard plan. The ones I will talk about in more detail are 
-using Laboratory Maniac, Time Spiral, and a second Doomsday.
+There are however some more solid ways of winning the game even after 
+passing the turn, that still work if passing the turn is primarily an 
+anti-discard plan. The ones I will talk about in more detail are 
+using Laboratory Maniac, Time Spiral, and Doomsday.
 
 ## Pass the turn piles with Laboratory Maniac
 
 Laboratory Maniac enables some very mana efficient pass the turn piles 
 that may offer an out in situations where no other lethal pile would. 
 When you have no other cards in hand or play, for example because you've 
-used Lion's Eye Diamond to pay for Doomsday, the simplest pile is:
-
+used Lion's Eye Diamond to pay for Doomsday, the simplest piles are:
 ```
--> IU, CB, LED, GP, LM  1UU (3) 2 life
+-> IU, CB, LED, GP, LM              1UU (3)     2 life
+-> TW, LED, GP, GP, LM              1UU (3)     4 life
 ```
 
-These piles do get a lot cheaper when you have an extra draw effect or 
-even LED.
+The following piles are even cheaper for when you have an extra draw
+effect or a LED.
 
 ```
 LED:
--> GP, IU, CB, DR, LM  B (1) 2 life
--> CB, TW, LED, GP, LM  1 (1) 2 life
+-> GP, IU, CB, DR, LM               B           2 life
+-> GP, TW/AoI, LED, GP, LM          0           4 life
 
 GP in hand:
--> LED, IU, CB, DR, LM  B (1) 2 life
--> LED, IU, GP, LP, LM  1 (1) 4 life
+-> LED, IU, DR, CB, LM              B           2 life
+-> LED, IU, LP, GP, LM              1           4 life
+-> LED, TW/AoI, LED, GP, LM         0           4 life
 
 CB in play:
--> LED, TW, LED, GP, LM  0 (0) 2 life
+-> LED, IU, DR, CB, LM              B           0 life
+-> LED, TW/AoI, LED, GP, LM         0           2 life
 ```
 
-Instead of using Lion's Eye Diamond to pay for Ideas Unbound/Three Wishes
-we can also include some other card into the pile, to for example play
-through some card in the opponent's hand. The mana cost for including
-another card depends on the location in the pile. There's also a trade-off
-between life and mana cost.
+Instead of using Lion's Eye Diamond to pay for Ideas Unbound we can also 
+include some other card into the pile, to for example play through some 
+card in the opponent's hand. The mana cost for including another card 
+depends on the location in the pile. There's also a trade-off between 
+life and mana cost.
 
 ```
 GP in hand:
--> Silence, IU, LP, GP, LM  W+2UU (5) 4 life
--> LED, IU, Silence, GP, LM  W+2 (3) 4 life
+-> Silence, IU, LP, GP, LM          W+2UU       4 life
+-> Silence, TW, LED, GP, LM         W+1UU       4 life
+-> Silence, AoI, LED, GP, LM        W+2R        4 life
+-> LED, IU, Silence, GP, LM         W+2         4 life
 
 LED:
--> GP, TW, Silence, GP, LM  W+3 (4) 2 life
--> GP, IU, Silence, GP, LM  W+2 (3) 4 life
-
-CB in play:
--> Silence, TW, LED, GP, LM  W+1UU (4) 2 life
--> LED, TW, Silence, GP, LM  W+3 (4) 2 life
+-> GP, IU, Silence, GP, LM          W+2         4 life
+-> GP, TW, Silence, GP, LM          W+2U        4 life
 ```
-
 I've listed Silence because of its distinct mana cost, but you can 
 obviously replace the Silence with any other card. Examples are Duress, 
 Karakas, or perhaps even a Massacre.
 
-For all pass the turn piles that don't assume a Conjurer's Bauble in play,
-you can replace the card that draws from an empty deck in the 
-Doomsday pile with Chromatic Sphere and increase the mana cost 
-accordingly to play around removal.
+For all Laboratory Maniac pass the turn piles, you can replace the 
+card that draws from an empty library in the Doomsday pile with 
+Chromatic Sphere and increase the mana cost accordingly.
 
 ## Time Spiral Pass the Turn Piles
 
@@ -121,7 +119,7 @@ lands are untapped by Time Spiral.
 A simple example of a pass the turn pile that uses Time Spiral is as follows:
 
 ```
--> IU, LED, LED, BW(TSP), BW(ToA)  UU+1R+[1R] (4) 9 Storm
+-> IU, LED, LED, BW(TSP), BW(ToA)       UU+1R+[1R] (4)   9 Storm
 ```
 
 Actually, if you have no other cards in hand or your post-Doomsday 
@@ -137,37 +135,29 @@ to storm to well beyond 10. Also note, that the listed cost assumes that
 you can produce 1R with the lands that you untap with Time Spiral.
 
 Executing a Time Spiral pass the turn pile will become much easier if 
-you have some extra resources, like a Lion's Eye Diamond or a draw 
-effect. If you have both, a pass the turn pile would not be necessary 
-unless you're fighting through hate. Considering the following pile:
+you have some extra resources, like a Lion's Eye Diamond or a
+Conjurer's Bauble. If you have both a pass the turn pile would not be
+necessary unless you're fighting through hate. Considering the following
+piles:
 
 ```
 LED in play + 1 card:
--> IU, LED, LED, BW(TSP), BW(ToA)  UU+[1] (2) 10 Storm
-```
+-> IU, LED, LED, BW(TSP), BW(ToA)       2UU+[1] (4)      10 Storm
 
-One important advantage of having an LED is that you don't require any 
-lands that produce red. Having access to a draw effect rather than a 
-Lion's Eye Diamond is unfortunately less effective. Consider the 
-following examples:
-
-```
 CB in play + 1 card:
--> IU, LED, LED, BW(TSP), BW(ToA)  2UU+[1R] (4) 9 Storm
--> LED, IU, LED, BW(TSP), BW(ToA)  3R+[1R] (4) 9 Storm
-
--> IU, LED, LED, BW(TSP), BW(ToA)  2UU+[2R] (4) 10 Storm
--> LED, IU, LED, BW(TSP), BW(ToA)  3R+[2R] (4) 10 Storm
+-> IU, LED, LED, BW(TSP), BW(ToA)       2UU+[1] (4)      10 Storm
+-> LED, IU, LED, BW(TSP), BW(ToA)       3R+[1]  (4)      10 Storm
 ```
 
-These piles are actually too mana-inefficient, in these situations it is 
-probably better to build a Doomsday pass the turn pile. It is not 
-possible to turn additional draw effects into mana, because we don't 
-have enough room in the pile and the whole procedure is actually quite 
-expensive mana wise: IU=2 + BW=2 + TSP=6 = 10 mana, with another 1R 
-post-TSP. As the 2 Burning Wishes and the Ideas Unbound already take up 
-3 spots, we only have room for 2 Lion's Eye Diamonds and these can be 
-easily drawn by Ideas Unbound, extra draw is not going to help.
+These piles are actually a bit mana-inefficient. It is not possible to 
+turn additional draw effects into mana, because we don't have enough 
+room in the pile and the whole procedure is actually quite expensive 
+mana wise: IU=2 + BW=2 + TSP=6 = 10 mana, with another 1 post-TSP. As 
+the 2 Burning Wishes and the Ideas Unbound already take up 3 spots, we 
+only have room for 2 Lion's Eye Diamonds and these can be easily drawn 
+by Ideas Unbound, extra draw is not going to help. Note that the CB 
+piles assume that you play LED, LED, CB post-Time Spiral, crack both 
+LEDs and re-draw Burning Wish with CB from your empty library.
 
 This is of course no longer true if you already have Ideas Unbound or 
 Burning Wish, as you don't have to include them in the pile. Ideas 
@@ -178,24 +168,11 @@ fill up its slot in the pile with another Lion's Eye Diamond. Examples:
 
 ```
 CB in play + BW in hand or graveyard:
--> LED, TW, LED, LED, BW(TSP)  2+[1R] (2) 13 Storm
+-> LED, IU, LED, LED, BW(TSP)           R+[1]  (1)      12 Storm
 
 CB in play + IU in hand:
--> LED, LED, LED, BW(TSP), BW(ToA)  UU+[1] (2) 11 Storm
+-> LED, LED, LED, BW(TSP), BW(ToA)      UU+[1] (2)      12 Storm
 ```
-
-In summary, Time Spiral pass the turn piles are less specific to what 
-cards you need, but you need more (seven) cards in total. You need 2 
-cards in hand or post-DD graveyard to not kill yourself with Time 
-Spiral, the other 5 are searched with Doomsday. The only pile I usually 
-build is IU, LED, LED, BW, BW, unless I have IU or BW already in hand or 
-something. Winning on your next turn costs at most 1UUR. The extra 2 
-cards that you need can be used to lower the cost of the pile. It's 
-important to remember that after casting Time Spiral you need 1R for the 
-Burning Wish. Winning with the Time Spiral pile cost 1 more, when your 
-lands can't produce red mana. You can crack the 2 LEDs for RRRUUU, so if 
-you have 1 spare mana you can float R to ensure you'll be able to cast 
-Burning Wish post-Time Spiral.
 
 ## Double-Doomsday Pass the Turn Piles
 
@@ -210,10 +187,13 @@ this as either less or more expensive up for discussion.
 To convert a TSP pass the turn pile into a Doomsday pass the turn pile, 
 we replace a Burning Wish in the pile with a Doomsday. The problem is 
 that we also need some means of drawing into our second Doomsday pile. 
-If you did not have a Sensei's Divining Top in play already, you have to 
-replace some card in the pile with a draw effect. Preferably Conjurer's
-Bauble or AoI, as it allows us to sacrifice the 2nd LED in response to 
-Doomsday and include it in the second pile.  
+If you did not have a Conjurer's Bauble in play already, you have to 
+replace some card in the pile with a draw effect. Preferably Conjurer's 
+Bauble if using Ideas Unbound or in general when you're too low on life 
+to use Gitaxian Probe. Notice that you can safely use Gitaxian Probe as a
+stored draw for LED if playing Three Wishes or Act on Impulse.
+Most importantly, remember that in general you need a LED and three 
+mana next turn and you'll be able to figure to pile out on the spot.
 
 ```
 LED in play, PTT:
@@ -234,7 +214,9 @@ library you can loop them for the cost of (1) mana.
 
 ```
 LED in play, PTT:
--> IC, LED, CB, CB, ToA                  BBB+X (3+X)      9+X Storm
+-> IC, LED, CB, CB, ToA                 BBB+X (3+X)      9+X Storm
+-> CB, IU, LED, CB, ToA                 2+X              5+X storm
+-> CB, TW/AoI, LED, CB, ToA             1+X              7+X Storm
 ```
 
 In the above example, what looks like a poor setup of only five spells
@@ -255,3 +237,6 @@ loops (6,7,8). We can then use the final one to target ToA and cast it for 9 sto
 2. Pass the turn piles are effective when low on resource (cards or mana)   
 3. PTT piles do leave you susceptible to hand attack    
 4. There are tricks you can use to ensure you can build up enough storm so you don't always have to rely on LM    
+
+
+
