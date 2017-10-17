@@ -16,7 +16,7 @@ available in a deck.
 The most basic use of the card is of course simply as a cantrip that costs 1.
 It can also be used as a free cantrip if already in play however this does of
 course results in less storm being available for use. In any of the common piles
-that require a non-specilist cantrip (such as Brainstorm) this can be used 
+that require a non-specialist cantrip (such as Brainstorm) this can be used 
 instead of any others.
 
 
