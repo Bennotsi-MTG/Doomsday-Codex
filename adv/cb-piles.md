@@ -1,7 +1,7 @@
 # Conjurer's Bauble piles
 
 At the time of writing (July 2017) this is still a relatively new card 
-to play around with. Histroically Sensei's Divining Top held a place as
+to play around with. Historically Sensei's Divining Top held a place as
 a standard 4-of in the deck to act as deck filtering and a 'free saved'
 card draw for Doomsday piles. More information on how this was used can 
 be found in the <a href="https://github.com/Bennotsi-MTG/Doomsday-Library">Doomsday Library</a>. 
@@ -22,22 +22,22 @@ instead of any others.
 
 ## Storing a draw with CB
 
-Let's simply start off by looking at the basic function of Conjurer's 
+Let's start off by looking at the basic function of Conjurer's 
 Bauble as simply a tool to draw cards when using LED.   
 
 Example:
 ```
 GP:
--> IU, CB, GP, LED, LM.                  BBB+UU1 (6)      
+-> IU, CB, GP, LED, LM.                  BBB+1UU (6)
 ```
 
-Here you can see we can use CB to enable a draw card effect to be present
-even after we have activated an LED for mana.
+Here you can see we can use CB to have a draw card effect present
+even after we have activated LED for mana.
 
 This is most applicable when you have Conjurer's Bauble in your deck
 alongside an additional cantrip in hand post-Doomsday. You can use
 the cantrip to draw into the pile and save the Bauble draw for when
-you are deeper into the pile. This is effective, especially when you 
+you are deeper into the pile. This is effective, especially when you
 have to start the pile with low mana resources.  
 
 This is also enables things like Double Doomsday piles.
@@ -55,7 +55,7 @@ second pile in the play line.
 
 As can be observed, from the two above examples, it is much more effective
 to use CB when using IU as opposed to either TW or AoI (Both of which
-can allow the use of LED without needing to discard).     
+can allow the use of LED without needing to discard).
 This is not however the true strength of CB.   
 
 
@@ -63,7 +63,7 @@ This is not however the true strength of CB.
 
 This is where we start to discuss the real differences of Conjurer's Bauble
 and Sensei's Divining Top. We also get to read the rest of the text on
-Conjurer's Bauble other than "T, Sacrifice ~: Draw a card."   
+Conjurer's Bauble other than "T, Sacrifice ~: Draw a card.",
 Conjurer's Bauble allows you (as a may effect) to target a card in your graveyard
 and stack it at the bottom of our deck. Alongside the deck manipulation
 a resolved Doomsday provides, this lets us do some nifty tricks.
@@ -87,9 +87,9 @@ BBB for Doomsday.
 
 The way the piles work is to utilise CB to send the business spell
 back from the Graveyard to your hand. In the first example above,
-you use the GP to draw into the pile. You then play and activate 
-the LED with the BW still in hand. With the mana now floating you 
-activate CB sending BW to the bottom of your deck to draw IU.   
+you use the GP to draw into the pile. You then play and activate
+the LED with the BW still in hand. With the mana now floating you
+activate CB sending BW to the bottom of your deck to draw IU.
 You have now created a normal -> IU, LED, LED, GP, BW pile!
 
 We can also use this effect to play our finisher spell multiple times.
@@ -97,44 +97,46 @@ Even on a pass-the-turn pile.
 
 Example:
 ```
-ToA+DR+LED:
--> IC, DR, DR, LP, CB                  2B (3)         8+9 Storm
+LED in play, ToA in hand:
+-> IC, DR, DR, LP, CB                   BBB+1 (4)         6+7 Storm
 ```
 
-In this instance we can play ToA twice. Draw IC for turn. Play DR to play IC.
-Play out all your spells resulting in (2BBBBBB) mana being left. Cast ToA with
-storm count of 8 (2BB remaining). Then activate CB to return ToA to hand to cast
-it again for storm count of 9. This results in 17 copies of ToA being available
-across the pile. This example does require some quite specific circumstances
-but it does help illustrate tricks you can do with it. Even a low initial storm 
-count of 5 for the first copy allows for a total of 11 storm in total. 
+In this instance we can play ToA twice. Draw IC for turn. Play IC,
+sacrifice LED in response and play out all your spells resulting
+in 8 black mana being left. Cast ToA with storm count of 6 (and 4
+black floating). Then activate CB to return ToA to hand to cast it
+again for storm count of 7. This results in 13 copies of ToA being
+available off this pile. This example does require some quite
+specific circumstances but it does help illustrate tricks you can
+do with Conjurer's Bauble. Even a low initial storm count of 6 for
+the first copy allows for a total of 13 storm in total.
 
 
 ## Using CB to extend the pile
 
-You can use the theory of retrieving a card above to help build your pile up.   
-Five card decks do have limits even if we get to choose all five cards.   
+You can use the theory of retrieving a card above to help build your pile up.
+Five card decks do have limits even if we get to choose all five cards.
 CB allows you to extend that to a pseudo-six cards.
 
 Example:
 ```
-CB in play+GP:
--> LED, IC, LED, LP, BW                  BBB+1 (4)         8 Storm
+CB in play + GP:
+-> LED, IC, LED, LP, BW                 BBB+1 (4)         8 Storm
 ```
 
-Normally double cantrip piles into using Infernal Contract/Cruel Bargain/Meditate 
-would mean you draw yourself to death however with the CB in use, you can 
-use the same trick as with the IU pile. Use the GP to draw into the pile. 
-Cast and crack the LED for BBB. You then use the CB to send the LED to the 
-bottom of your deck and draw IC. Using BBB you now can draw the rest
-of the stack; LED, LP, BW, LED allowing you to storm to victory.
+Normally double cantrip piles that use Infernal Contract/Cruel Bargain/Meditate
+would mean that you draw yourself to death. However, with CB in the deck, you can
+use the same trick as with the IU pile. Use the GP to draw into the pile.
+Cast and crack the LED for BBB. You then use the CB to send the LED to the
+bottom of your deck and draw IC. Using the mana from LED, you now can draw the rest
+of the pile: LED, LP, BW, LED, allowing you to storm to victory.
 
 
 ## Using 2 CBs in a loop
 
 This section of discussion is one of the strongest arguments advocating
 the use of CB, especially in multiples. The more astute of you may have noticed
-one key inefficiency of two  of the piles discussed already.   
+one key inefficiency of two of the piles discussed already.
 I will copy them again here for convenience:
 
 Example:
@@ -166,8 +168,8 @@ We also see suddenly that the ToA pile, traditionally having a lower storm
 count than its BW cousin has suddenly overtake it in terms of storm generated.
 
 This is because we can make use of a Bauble loop. Much like the historic 
-looping of two SDT to generate storm we can do the same thing here.
-With the BW example; Post Doomsday you use the GP to draw LED. Play and 
+looping of two SDTs to generate storm we can do the same thing here.
+With the BW example, Post Doomsday you use the GP to draw LED. Play and 
 use LED dumping BW into the Graveyard. Now instead of sending BW to the 
 bottom of your deck when you crack it to draw IU, don't target anything.
 Draw IU and cast it drawing LED, LED, CB. You should have U floating from 
@@ -194,7 +196,8 @@ concepts. They are most suited for use with either IU or IC as AoI/TW act
 exactly the same way as IU but for one additional mana. They also facilitate 
 piles with ToA over BW.
 
-As CB enables many low mana cost, high storm piles it is perfect to use it for pass-the-turn piles.
+As CB enables many low mana cost, high storm piles it is perfect to use it
+for pass-the-turn piles.
 
 Example:
 ```
@@ -203,11 +206,10 @@ CB in play+ToA:
 -> LED, IC, LED, LED, CB                  BBB+1+X (4+X)      12+X Storm
 ```
 
-
 ## Using CB to play around hate
 
 CB has a few niche cases that allow it to mitigate opposing hate cards. Whilst
-many of its uses do have a weakness to severe Graveyard hate such as Rest in Peace,
+many of its uses do have a weakness to severe graveyard hate such as Rest in Peace,
 it can help against some of the softer hate cards or corner case scenarios.
 
 Surgical Extraction is very effective against Doomsday. It not only takes out 
@@ -254,7 +256,7 @@ incidentally hate cards against such piles.
 Example:
 ```
 Pass the turn:
--> SI, Emrakul, DR, DD, LM                  BBB+U (4)      
+-> SI, Emrakul, DR, DD, LM                  BBB+U (4)
 ```
 
 This is a very basic SI pile. The idea is it contains SI to play to then Hideaway 
@@ -268,7 +270,7 @@ to name a couple. You can play around these cards by making a subtle alteration 
 Example:
 ```
 Pass the turn:
--> CB, SI, DR, DD, Emrakul                  BBB+U (4)      
+-> CB, SI, DR, DD, Emrakul                  BBB+U (4)
 ```
 
 Adding CB means you can play around the cards all mentioned above. If they Jace 'fateseal'
