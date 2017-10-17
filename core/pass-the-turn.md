@@ -113,8 +113,8 @@ Chromatic Sphere and increase the mana cost accordingly.
 
 ## Time Spiral Pass the Turn Piles
 
-The cost listed in square brackets [..] is assumingly payed for by the 
-lands are untapped by Time Spiral.
+The cost listed in square brackets [..] is assumingly paid for by the 
+lands that are untapped by Time Spiral.
 
 A simple example of a pass the turn pile that uses Time Spiral is as follows:
 
