@@ -5,7 +5,7 @@ in the Legacy format at this time. There have been numerous articles
 written on this 'seemingly innocuous at first glance' one mana
 cantrip. I will be glossing over the main discussion of this card and
 instead focus on the specifics of using it as a part of or to initiate
-your doomsday piles. It many cases it can be used as any other cantrip.
+your doomsday piles. In many cases it can be used as any other cantrip.
 If you have say 2UR available post Doomsday then it is perfectly fine to
 build a very basic pile to win with.
 
