@@ -171,13 +171,16 @@ With the BW example:
 
 Doomsday has resolved, Storm = 1   
 Stack [LED, IU, LED, LED, CB]  
-Cast GP paying 2 life (2) draw [LED], -   
-Cast LED (3) and crack for UUU   
-Activate CB drawing IU   
-Cast IU (4) drawing [LED, LED, CB]   
-Use the final LED mana to cast CB (5)   
-Cast LED (6), LED (7) and crack for BBB RRR     
-Crack CB targeting BW, draw BW     
+Cast GP (2) paying 2 life, draw [LED]       
+Cast LED (3)   
+Crack LED for UUU   
+Activate CB targeting nothing, draw [IU]   
+Cast IU (4) draw [LED, LED, CB]   
+Cast CB (5)    
+Cast LED (6)    
+Cast LED (7)   
+Crack LEDs for BBB RRR    
+Crack CB targeting BW, draw [BW]     
 Cast BW (8) targeting ToA for 9 storm.     
 
 Simple enough right?
@@ -225,7 +228,7 @@ Cast CB (10), BBB remains in mana pool
 Crack CB targeting LED, draw [LED]     
 Cast LED (11)      
 Crack for RRR    
-Cast BW (12) targeting ToA for 13 storm         
+Cast BW (12) targeting ToA for 13 storm.         
 
 The key point here is the fact that both the second CB and the BW can be 
 cast via LED mana and we can make loops without effecting our exiled BW. 
@@ -270,7 +273,7 @@ Cast CB (10), BBB BB remains in mana pool
 Crack CB targeting CB, draw [CB]    
 Cast CB (11), BBB B remains in mana pool 
 Crack CB targeting ToA, draw [ToA]    
-Cast ToA for 12 storm     
+Cast ToA for 12 storm.     
 
 
 These tricks with CB allow for a number of iterations based on these simple
