@@ -4,20 +4,21 @@ At the time of writing (July 2017) this is still a relatively new card
 to play around with. Historically Sensei's Divining Top held a place as
 a standard 4-of in the deck to act as deck filtering and a 'free saved'
 card draw for Doomsday piles. More information on how this was used can 
-be found in the <a href="https://github.com/Bennotsi-MTG/Doomsday-Library">Doomsday Library</a>. 
+be found in the [Doomsday Library](https://github.com/Bennotsi-MTG/Doomsday-Library). 
 
 Conjurer's Bauble was identified as the closest equivalent for use in 
 Doomsday storm or Laboratory Maniac piles that would allow a free draw
 that was also resistant to having to discard as a result of using Lion's
-Eye Diamonds. In can be included as a singleton copy to act as a replacement SDT 
+Eye Diamonds. It can be included as a singleton copy to act as a replacement SDT 
 element however it has some interesting properties when multiples are 
 available in a deck. 
 
-The most basic use of the card is of course simply as a cantrip that costs 1.
+The most basic use of the card is of course simply as a cantrip that costs (1).
 It can also be used as a free cantrip if already in play however this does of
 course results in less storm being available for use. In any of the common piles
 that require a non-specialist cantrip (such as Brainstorm) this can be used 
-instead of any others.
+instead of any others which is handy if you only have B post DD for drawing into a
+pile.
 
 
 ## Storing a draw with CB
@@ -49,14 +50,11 @@ CB in play+GP:
 -> IU, LED, GP, LED, BW
 ```
 
-This has some overlap with what is described in the <a href="https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md">Double Doomsday section</a>. Just as historically you could with Sensei's 
+This has some overlap with what is described in the [Double Doomsday](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md) document. Just as historically you could with Sensei's 
 Divining Top, Conjurer's Bauble may be used save the draw for the 
 second pile in the play line.
 
-As can be observed, from the two above examples, it is much more effective
-to use CB when using IU as opposed to either TW or AoI (Both of which
-can allow the use of LED without needing to discard).
-This is not however the true strength of CB.   
+This simple use as a cantrip is not however the true strength of CB.   
 
 
 ## Using CB to retrieve the 'Finisher'
@@ -65,8 +63,8 @@ This is where we start to discuss the real differences of Conjurer's Bauble
 and Sensei's Divining Top. We also get to read the rest of the text on
 Conjurer's Bauble other than "T, Sacrifice ~: Draw a card.",
 Conjurer's Bauble allows you (as a may effect) to target a card in your graveyard
-and stack it at the bottom of our deck. Alongside the deck manipulation
-a resolved Doomsday provides, this lets us do some nifty tricks.
+and stack it at the bottom of our deck prior to you drawing a card with it.
+Alongside the deck manipulation a resolved Doomsday provides, this lets us do some nifty tricks.
 
 The first is to ignore the downside of Lion's Eye Diamond.   
 
@@ -149,7 +147,7 @@ CB in play+ToA+GP:
 ```
 
 If you notice, both result in wasted mana being left over. With the BW example
-you are left with U and with the ToA example you are left with U[B/R][B/R] left 
+you are left with U and with the ToA example you are left with U(B/R)(B/R) left 
 over. Is there a way we can maximise the use of this mana?  
 What if we were to swap the GP in the piles with a CB?
 
@@ -169,13 +167,18 @@ count than its BW cousin has suddenly overtake it in terms of storm generated.
 
 This is because we can make use of a Bauble loop. Much like the historic 
 looping of two SDTs to generate storm we can do the same thing here.
-With the BW example, Post Doomsday you use the GP to draw LED. Play and 
-use LED dumping BW into the Graveyard. Now instead of sending BW to the 
-bottom of your deck when you crack it to draw IU, don't target anything.
-Draw IU and cast it drawing LED, LED, CB. You should have U floating from 
-the first LED which you now use to cast CB. Cast the LEDs and crack them 
-for BBB, RRR. Now you can use the new CB to send BW to the bottom of your 
-deck to draw it and cast it with the LED mana up.
+With the BW example: 
+
+Doomsday has resolved, Storm = 1   
+Stack [LED, IU, LED, LED, CB]  
+Cast GP paying 2 life (2) draw [LED], -   
+Cast LED (3) and crack for UUU   
+Activate CB drawing IU   
+Cast IU (4) drawing [LED, LED, CB]   
+Use the final LED mana to cast CB (5)   
+Cast LED (6), LED (7) and crack for BBB RRR     
+Crack CB targeting BW, draw BW     
+Cast BW (8) targeting ToA for 9 storm.     
 
 Simple enough right?
 
@@ -191,13 +194,51 @@ The pile still has 2 mana left over after casting and using all of its LEDs
 so you can use that to generate two CB loops. As a result the ToA pile
 gains +2 storm compared to it's normal default.
 
-These tricks with CB allow for a number of iterations based on these simple
-concepts. They are most suited for use with either IU or IC as AoI/TW act
-exactly the same way as IU but for one additional mana. They also facilitate 
-piles with ToA over BW.
+You can also use this in conjuction with the exile effect of AoI/TW.   
+Let us consider this example:
+
+```
+BW, GP in hand, CB in play:
+-> BS, LED, AoI, LED, CB                  BBB+U+X (4+X)      13+X Storm 
+```
+
+For only a single mana post DD we have a very impressive potential stormcount
+which can additionally be increased. How do we go about achieving that?   
+Let's take a look:
+
+Doomsday has resolved, Storm = 1     
+Stack [BS, LED, AoI, LED, CB]  
+Cast GP (2) paying 2 life, draw (BS)   
+Pay U for BS (3), draw [LED, AoI, LED], replace [AoI, BW]    
+Cast LED (4)    
+Cast LED (5)    
+Crack LEDs for BBB RRR     
+Crack CB targeting LED, draw AoI     
+Cast AoI (6), exile [BW, CB, LED]     
+Cast LED (7)   
+Crack LED for RRR    
+Cast CB (8), BBBRR remains in mana pool     
+Crack CB targeting CB, draw [CB]     
+Cast CB (9), BBBR remains in mana pool   
+Crack CB targeting CB, draw [CB]     
+Cast CB (10), BBB remains in mana pool      
+Crack CB targeting LED, draw [LED]     
+Cast LED (11)      
+Crack for RRR    
+Cast BW (12) targeting ToA for 13 storm         
+
+The key point here is the fact that both the second CB and the BW can be 
+cast via LED mana and we can make loops without effecting our exiled BW. 
+This also means that we don't open up our BW to the risk of being hit by an
+opposing Deathrite Shaman or similar as we only care about our artifacts looping
+from the graveyard.
 
 As CB enables many low mana cost, high storm piles it is perfect to use it
-for pass-the-turn piles.
+for pass-the-turn piles. The above examples can be generated for -2 storm each
+as pass the turn piles however you likely have extra mana available to increase 
+your potential X value.   
+Let's have one last look at a pass the turn pile using CB looping this time using
+IC over IU or AoI/TW:
 
 Example:
 ```
@@ -205,6 +246,37 @@ Pass the turn.
 CB in play+ToA:
 -> LED, IC, LED, LED, CB                  BBB+1+X (4+X)      12+X Storm
 ```
+
+Doomsday has resolved, pass the turn.        
+Stack [LED, IC, LED, LED, CB]    
+Draw LED for turn    
+Cast LED (1)        
+Crack LED for BBB       
+Crack CB targeting LED, draw [IC]    
+Cast IC (2), draw [LED, LED, CB, LED]    
+Cast LED (3)    
+Cast LED (4)    
+Cast LED (5)   
+Cast CB (6)   
+Crack LEDs for BBB BBB BBB    
+Crack CB targeting CB, draw [CB]     
+Cast CB (7), BBB BBB BB remains in mana pool 
+Crack CB targeting CB, draw [CB]     
+Cast CB (8), BBB BBB B remains in mana pool 
+Crack CB targeting CB, draw [CB]     
+Cast CB (9), BBB BBB remains in mana pool 
+Crack CB targeting CB, draw [CB]     
+Cast CB (10), BBB BB remains in mana pool 
+Crack CB targeting CB, draw [CB]    
+Cast CB (11), BBB B remains in mana pool 
+Crack CB targeting ToA, draw [ToA]    
+Cast ToA for 12 storm     
+
+
+These tricks with CB allow for a number of iterations based on these simple
+concepts. They are useable with IU, IC or AoI/TW which means you can have 
+a lot of flexibility in terms of deckbuilding and card choices.   
+
 
 ## Using CB to play around hate
 
@@ -287,8 +359,6 @@ More information on SI + Emrakul piles may be found in the <a href="https://gith
 2. CB can be used to retrieve cards for multiple use in a pile   
 3. CB can be used to extend a pile   
 4. CB can be used to get around some hate cards   
+5. Be mindful of targeted graveyard hate if exposing your cards to the graveyard when using CB    
 
-Hopefully this will allow a greater understanding of how to play through more of the piles that make up the <a href="https://github.com/Bennotsi-MTG/DDFT-PileDoc">Pile Document</a>. Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles and of course, practice makes perfect.  
-
-I would strongly advise only running 1 or 2 CB with BW variants, if any, and with ToA variants running 3 or 4.  
-
+Hopefully this will allow a greater understanding of how to play through more of the piles that make up the [Pile Document](https://github.com/Bennotsi-MTG/DDFT-PileDoc). Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles and of course, practice makes perfect.  
