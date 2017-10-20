@@ -74,16 +74,16 @@ effect or a LED.
 ```
 LED:
 -> GP, IU, CB, DR, LM               B           2 life
--> GP, TW/AoI, LED, GP, LM          0           4 life
+-> GP, [TW/AoI], LED, GP, LM          0         4 life
 
 GP in hand:
 -> LED, IU, DR, CB, LM              B           2 life
 -> LED, IU, LP, GP, LM              1           4 life
--> LED, TW/AoI, LED, GP, LM         0           4 life
+-> LED, [TW/AoI], LED, GP, LM         0         4 life
 
 CB in play:
 -> LED, IU, DR, CB, LM              B           0 life
--> LED, TW/AoI, LED, GP, LM         0           2 life
+-> LED, [TW/AoI], LED, GP, LM       0           2 life
 ```
 
 Instead of using Lion's Eye Diamond to pay for Ideas Unbound we can also 
@@ -197,8 +197,8 @@ mana next turn and you'll be able to figure to pile out on the spot.
 
 ```
 LED in play, PTT:
--> TW/AoI, LED, GP, DD, BW          1UU/2R (3)         9 Storm
--> TW/AoI, LED, LED, BW(ToA), X
+-> [TW/AoI], LED, GP, DD, BW        1UU/2R (3)         9 Storm
+-> [TW/AoI], LED, LED, BW(ToA), X
 
 LED, CB in play, PTT:
 -> IU, LED, GP, BW, BW(DD)          1UUR   (4)         10 Storm
@@ -216,7 +216,7 @@ library you can loop them for the cost of (1) mana.
 LED in play, PTT:
 -> IC, LED, CB, CB, ToA                 BBB+X (3+X)      9+X Storm
 -> CB, IU, LED, CB, ToA                 2+X              5+X storm
--> CB, TW/AoI, LED, CB, ToA             1+X              7+X Storm
+-> CB, [TW/AoI], LED, CB, ToA           1+X              7+X Storm
 ```
 
 In the above example, what looks like a poor setup of only five spells
