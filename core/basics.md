@@ -84,11 +84,11 @@ really matter and we'll just assume that you have a GP in hand.
 
 GP in hand:
 1. Cast Doomsday build: -> IU, LED, LED, GP, BW(ToA)
-2. Cast GP, draw IU
-3. Cast IU, draw LED, LED, GP
+2. Cast GP, draw (IU)
+3. Cast IU, draw (LED, LED, GP)
 4. Cast LED
 5. Cast LED
-6. Cast GP, hold priority, sacrifice LEDs for BBB+RRR, pass priority, draw BW
+6. Cast GP, hold priority, sacrifice LEDs for BBB+RRR, pass priority, draw (BW)
 7. Cast BW, get ToA from sideboard
 8. Cast ToA
 
@@ -109,14 +109,14 @@ you can avoid discussions during tournament play.
 *Three Wishes*
 
 GP in hand:
-1. cast Doomsday build: -> TW, LED, LED, GP, BW(ToA)
-2. cast GP, draw TW
-3. cast TW, exile LED, LED, GP
-4. cast LED, sacrifice it for BBB
-5. cast LED, sacrifice if for RRR
-6. cast GP, draw BW
-7. cast BW, get ToA from sideboard
-8. cast ToA
+1. Cast Doomsday build: -> TW, LED, LED, GP, BW(ToA)
+2. Cast GP, draw (TW)
+3. Cast TW, exile (LED, LED, GP)
+4. Cast LED, sacrifice it for BBB
+5. Cast LED, sacrifice if for RRR
+6. Cast GP, draw (BW)
+7. Cast BW, get ToA from sideboard
+8. Cast ToA
 
 This pile costs BBB+1UU and 4 life and results in 8 storm, which is 16 
 lifeloss. Like with Ideas Unbound, the mana cost for the draw spell 
@@ -134,15 +134,15 @@ with Three Wishes, this will produce once less storm.
 *Ideas Unbound*
 
 2x GP in hand:
-1. cast Doomsday build: -> LED, IU, LP, LED, BW(ToA)
-2. cast GP, draw LED
-3. cast LED
-4. hold priority, cast GP, sacrifice LED for UUU, draw IU
-5. cast IU, draw LP, LED, BW
-6. cast LP, crack for R
-7. cast LED
-8. hold priority, cast BW, sacrifice LED for BBB, wish for ToA
-9. cast ToA
+1. Cast Doomsday build: -> LED, IU, LP, LED, BW(ToA)
+2. Cast GP, draw (LED)
+3. Cast LED
+4. Hold priority, cast GP, sacrifice LED for UUU, (draw IU)
+5. Cast IU, draw (LP, LED, BW)
+6. Cast LP, crack for R
+7. Cast LED
+8. Hold priority, cast BW, sacrifice LED for BBB, wish for ToA
+9. Cast ToA
 
 This pile has cost only BBB+1 and 4 life to execute and results in 9 
 storm, which is 18 lifeloss. This pile is quite efficient when it comes 
@@ -162,15 +162,15 @@ mana and pays for all but 1 mana of Tendrils of Agony.
 *Three Wishes*
 
 2x GP in hand:
-1. cast Doomsday build: -> LED, TW, LED, LED, BW
-2. cast GP, draw LED
-3. cast LED
-4. hold priority, cast GP, sacrifice LED for UUU, draw TW
-5. cast TW, exile LED, LED, BW(ToA)
-6. cast LED, sacrifice LED for BBB
-7. cast LED, sacrifice LED for RRR
-8. cast BW, wish for ToA
-9. cast ToA
+1. Cast Doomsday build: -> LED, TW, LED, LED, BW
+2. Cast GP, draw (LED)
+3. Cast LED
+4. Hold priority, cast GP, sacrifice LED for UUU, draw (TW)
+5. Cast TW, exile LED, LED, BW(ToA)
+6. Cast LED, sacrifice LED for BBB
+7. Cast LED, sacrifice LED for RRR
+8. Cast BW, wish for ToA
+9. Cast ToA
 
 This pile is very efficient at BBB and 4 life for 9 storm. The key 
 idea is that, strictly speaking we only needed TW, LED, LED, BW in our 
@@ -215,6 +215,11 @@ large number of combinations of Brainstorm + some other cards in hand
 that enable different Doomsday piles for different mana costs and storm 
 counts.
 
+## Summary
+
+1. You generally need a card to draw or exile you three cards into your stack.     
+2. Lethal storm via Tendrils of Agony is the most common win condition for the deck.   
+3. Holding priority when cantripping with LED in play is key, make sure to get into this habit.    
 
 ## Get Started
 
@@ -223,8 +228,8 @@ proven decklist and start goldfishing trying to figure out what piles
 to build and how to execute them. There are several documents 
 available that list Doomsday piles which you can use to get to know 
 more piles. These are very important tools when learning to how play 
-the deck. See the [DDFT Pile 
-Document](https://github.com/Bennotsi-MTG/ddft-pileDoc/blob/master/README.md).
+the deck.    
+See the [DDFT Pile Document](https://github.com/Bennotsi-MTG/ddft-pileDoc/blob/master/README.md) for a more basic list of different piles.
 
 
 

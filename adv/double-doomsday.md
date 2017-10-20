@@ -32,21 +32,21 @@ LED in play, PTT:
 ```
 
 Plays out as follows:
-1. Cast Doomsday build: TW/AoI, LED, GP, DD, BW
-2. Pass the turn.
-4. Cast TW/AoI and crack LED whilst holding priority. Exiling LED, GP, DD.
-5. Cast LED
-6. Crack LED for BBB and UUU/RRR
-7. Cast Doomsday build: TW/AoI, LED, LED, BW, X
-8. Cast GP
-9. Cast TW/AoI, exiling LED, LED, BW
-10. Cast LEDs, crack for BBB RRR
-11. Cast BW
-12. Cast ToA for 9 storm. 
+Cast Doomsday build: [TW/AoI, LED, GP, DD, BW]
+Pass the turn.
+1. Cast TW/AoI and crack LED whilst holding priority. Exiling LED, GP, DD   
+2. Cast LED  
+3. Crack LED for BBB and UUU/RRR  
+4. Cast Doomsday build: TW/AoI, LED, LED, BW, X     
+5. Cast GP  
+6. Cast TW/AoI, exiling LED, LED, BW   
+7. Cast LEDs, crack for BBB RRR  
+8. Cast BW   
+9. Cast ToA for 9 storm.   
 
-You have to realize that from part 7. and on it's just a regular pile. 
+You have to realize that from part 4. and on it's just a regular pile. 
 So the procedure that happened up to the point that you cast the second 
-Doomsday has cost you 1UU/2R+BBB to execute, but also produced 1UU/2R, which 
+Doomsday has cost you [1UU/2R]+BBB to execute, but also produced [1UU/2R], which 
 allows you to execute a regular pile afterwards. The key thing here is the unique
 effect of TW/AoI allowing you to save a draw through the exiled GP even when 
 using LED for mana. 
@@ -61,22 +61,24 @@ CB in play, GP in hand:
 ```
 
 Plays out as follows:
-1. Cast Doomsday build: IU, LED, LED, BW, BW
-2. Cast GP, draw IU
-4. Cast IU
-5. Cast LEDs
-6. Cast BW for DD, crack LEDs for BBB and UUU holding priority
-7. Cast Doomsday build: IU, LED, LED, GP, BW
-8. Activate CB targeting nothing
-9. Cast IU, draw LED, LED, GP
-10. Cast LEDs
-11. Cast GP, crack LEDs for BBB RRR
-12. Cast BW targeting ToA
-13. Cast ToA for 13 storm
+1. Cast Doomsday build: [IU, LED, LED, BW, BW]   
+2. Cast GP, draw (IU)   
+4. Cast IU  
+5. Cast LED  
+6. Cast LED  
+7. Cast BW for DD, hold priority and crack LEDs for UUU BBB  
+7. Cast Doomsday build: [IU, LED, LED, GP, BW]   
+Activate CB targeting nothing, draw (IU)  
+8. Cast IU, draw (LED, LED, GP)  
+9. Cast LED   
+10. Cast LED  
+11. Cast GP, hold priority and crack LEDs for BBB RRR, draw (BW)  
+12. Cast BW targeting ToA   
+13. Cast ToA for 13 storm  
 
 This time we have used both the fact that we have wishes and
 a draw effect stored to be able to execute the pile. You can
-also achieve a similar effect even without wishes. 
+also achieve a similar effect even without wishes.    
 
 Example:
 ```
@@ -158,4 +160,10 @@ some high storm count. That's exactly why many people including myself
 think we should not strive to create a full listing of all possible 
 doomsday piles, but rather create a deep understanding of how to combo 
 off using Doomsday.
+
+## Summary
+
+1. You can use a Double Doomsday pile to enable higher storm piles   
+2. Double Doomsday piles are handy for pass-the-turn piles    
+3. Be mindful of the life loss involved in casting Doomsday twice and potentially using multiple GP    
 
