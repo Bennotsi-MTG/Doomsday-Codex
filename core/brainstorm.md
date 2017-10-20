@@ -47,12 +47,12 @@ BS, BW in hand.
 
 Example one:   
 Storm Count = 1   
-1. Cast BS for U (2). Draw LED, (TW/AoI), GP and replace (TW/AoI) and BW   
+1. Cast BS for U (2). Draw (LED, [TW/AoI], GP) and replace ([TW/AoI], BW)   
 2. Cast LED (3)   
 3. Cast GP (4) and hold priority cracking for UUU or RRR   
-4. Draw (TW/AoI)   
-5. Cast (TW/AoI) (5)   
-6. Exile BW, LED, LED   
+4. Draw ([TW/AoI])   
+5. Cast ([TW/AoI]) (5)   
+6. Exile (BW, LED, LED)   
 7. Cast LED (6)   
 8. Cast LED (7)   
 9. Crack LEDs for BBB and RRR   
@@ -63,18 +63,18 @@ Thanks to BS we are able to exchange the BW in the pile with another LED. This
 concept of swapping can be used for many aspects of piles. In this example it means
 we can go off with just U open with any number of the following cards in hand:    
 
-LED, GP, (TW/AoI), BW, LM    
+LED, GP, [TW/AoI], BW, LM    
 
 Example two:    
 This follows exactly the same as example one however we require an additional 2 generic
 to pull it off.   
 Storm Count = 1
-1. Cast BS for U (2). Draw LED, IU, GP and replace IU and BW   
+1. Cast BS for U (2). Draw (LED, IU, GP) and replace (IU, BW)   
 2. Cast LED (3)   
 3. Cast GP (4) and hold priority cracking for UUU   
-4. Draw IU   
+4. Draw (IU)   
 5. Cast IU (5)   
-6. Draw BW, LP, LED   
+6. Draw (BW, LP, LED)   
 7. Cast LP (6)   
 8. Cast LED (7)   
 9. Crack LP for R   
@@ -116,12 +116,12 @@ BS, IU, X in hand.
 ```
 
 Storm Count =1   
-1. Cast BS for U (2). Draw LED, LED, GP and replace IU and X   
+1. Cast BS for U (2). Draw (LED, LED, GP) and replace (IU, X)   
 2. Cast LED (3)  
 3. Cast LED (4)   
 4. Cast GP, hold priority and crack LEDs for UUU, RRR   
-5. Draw IU   
-6. Cast IU (5) drawing X, LED, BW   
+5. Draw (IU)   
+6. Cast IU (5) drawing (X, LED, BW)   
 7. Cast LED (6)   
 8. Cast BW (7), hold priority and crack LED for BBB, targetting ToA   
 9. Cast ToA for Storm = 8. 
@@ -140,11 +140,11 @@ BS, BW in hand.
 ```
 
 Storm Count =1   
-1. Cast BS for U (2). Draw LED, GP, LED and replace BW and LED   
+1. Cast BS for U (2). Draw (LED, GP, LED) and replace (BW, LED)   
 2. Cast LED (3)   
-3. Cast GP (4), hold priority and crack LED for RRR, draw BW   
+3. Cast GP (4), hold priority and crack LED for RRR, draw (BW)   
 4. Cast BW (5) targetting AoI in the SB   
-5. Cast AoI (6) exiling LED, LED, BW   
+5. Cast AoI (6) exiling (LED, LED, BW)   
 6. Cast LED (7)   
 7. Cast LED (8)   
 8. Crack LEDs for BBB and RRR   
