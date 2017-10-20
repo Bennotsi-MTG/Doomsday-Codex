@@ -96,7 +96,7 @@ from your hand back into the stack.
 ## Chromatic Sphere
 
 Chromatic Sphere can be used to enable Laboratory Maniac piles even when 
-your opponent is holding creature removal.The key idea is to draw your 
+your opponent is holding creature removal. The key idea is to draw your 
 entire library and get Chromatic Sphere and Laboratory Maniac in play, 
 then with 1 mana floating you activate Chromatic Sphere to win the game 
 at mana-ability speed, without your opponent being able to respond. 
@@ -119,6 +119,7 @@ I hope this gives a good overview for the use of Laboratory maniac.
 Obviously, I have only touched upon the subject and the total 
 number of piles that may be created is much larger. So things to 
 remember are:
+
 1. LM is an alternate wincon which carries the risk of facing removal
 2. You need enough mana to cast LM safely as well as a draw effect for when he is in play
 3. You can use a 'free' double cantrip pile using AoI/TW
