@@ -47,11 +47,11 @@ BS, BW in hand.
 
 Example one:   
 Storm Count = 1   
-1. Cast BS for U (2). Draw (LED, [TW/AoI], GP) and replace ([TW/AoI], BW)   
+1. Cast BS for U (2). Draw (LED, TW/AoI, GP) and replace (TW/AoI, BW)   
 2. Cast LED (3)   
 3. Cast GP (4) and hold priority cracking for UUU or RRR   
-4. Draw ([TW/AoI])   
-5. Cast ([TW/AoI]) (5)   
+4. Draw (TW/AoI)   
+5. Cast (TW/AoI) (5)   
 6. Exile (BW, LED, LED)   
 7. Cast LED (6)   
 8. Cast LED (7)   
