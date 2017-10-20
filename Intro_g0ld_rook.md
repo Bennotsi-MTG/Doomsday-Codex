@@ -64,6 +64,7 @@ BW -> ToA
 ```
 
 Note that the Gitaxian Probe acted mostly as a space filler. Check this out:
+
 Ex.2
 ```
 DR -> DD (GP and GP in hand)
