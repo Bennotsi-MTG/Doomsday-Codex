@@ -34,17 +34,19 @@ LED in play, PTT:
 Plays out as follows:
 Cast Doomsday build: [TW/AoI, LED, GP, DD, BW]
 Pass the turn.
-1. Cast TW/AoI and crack LED whilst holding priority. Exiling LED, GP, DD   
+1. Cast TW/AoI, Exile (LED, GP, DD)   
 2. Cast LED  
-3. Crack LED for BBB and UUU/RRR  
-4. Cast Doomsday build: TW/AoI, LED, LED, BW, X     
-5. Cast GP  
-6. Cast TW/AoI, exiling LED, LED, BW   
-7. Cast LEDs, crack for BBB RRR  
-8. Cast BW   
+Crack LEDs for BBB and UUU/RRR  
+3. Cast Doomsday build [TW/AoI, LED, LED, BW, X]     
+4. Cast GP, draw (TW/AoI)  
+5. Cast TW/AoI, exile (LED, LED, BW)   
+6. Cast LED
+7. Cast LED
+Crack LEDs for BBB RRR
+8. Cast BW targeting ToA   
 9. Cast ToA for 9 storm.   
 
-You have to realize that from part 4. and on it's just a regular pile. 
+You have to realise that from part 4. and on it's just a regular pile. 
 So the procedure that happened up to the point that you cast the second 
 Doomsday has cost you [1UU/2R]+BBB to execute, but also produced [1UU/2R], which 
 allows you to execute a regular pile afterwards. The key thing here is the unique
@@ -63,7 +65,7 @@ CB in play, GP in hand:
 Plays out as follows:
 1. Cast Doomsday build: [IU, LED, LED, BW, BW]   
 2. Cast GP, draw (IU)   
-4. Cast IU  
+4. Cast IU, draw (LED, LED, BW)  
 5. Cast LED  
 6. Cast LED  
 7. Cast BW for DD, hold priority and crack LEDs for UUU BBB  
@@ -86,6 +88,7 @@ CB in play, GP in hand:
 -> IU, LED, DR, DD, ToA         UUBB   (4)         10 Storm
 -> IU, LED, DR, GP, ToA
 ```
+
 Of course this is much less effective due to the lack of extra
 'cards' available from wishes. 
 
@@ -95,7 +98,7 @@ further cantrips or mana being available in helping facilitate greater
 storm counts. 
 
 
-## Double-Doomsday without Sensei's Divining Top
+## Double-Doomsday without TW/AoI or CB
 
 You might wonder whether we can execute a double-Doomsday pile without 
 CB or TW/AoI. The answer is yes! But you probably won't ever go for a pile like 
@@ -113,8 +116,7 @@ the draw spells in the next pile, but also to allow the LED to be
 included in the second pile. If you can't sacrifice LED because you are 
 still holding a draw spell, you will have to build your 2nd pile without 
 it. Thus, increasing the cost of going in to the double-Doomsday 
-procedure with another LED. Note that we already required a LED because 
-we did not have SDT. So the whole pile becomes:
+procedure with another LED. So the whole pile becomes:
 
 ```
 GP + 2x LED:
