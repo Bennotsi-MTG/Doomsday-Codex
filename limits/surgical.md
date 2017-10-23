@@ -56,7 +56,7 @@ Doomsday has resolved.
 This is a very similar set of circumstances however we actually have a higher chance of 
 success despite a resolved SE. Point 1 we have a few more permutations that will work as
 opposed to a single potential iteration of the stack.  
-We now have success if AoI is the first card or the second card after the GP as the first.
+We now have success if AoI is the first card or the second card if GP is the first.
 Beyond that is does not actually matter on the ordering of the cards.
 
 Likewise point 2 is pretty much guaranteed to succeed as even if they re-order you will 
@@ -121,7 +121,7 @@ CB in play. Cantrip in hand:
 -> AoI/TW, LED, LED, GP, BW              BBB+R2    (6)    8 Storm
 ```
 
-This pile is already touched upon [HERE](Link).   
+This pile is already touched upon in [CB_Piles](Link).   
 No matter when they play Surgical post DD here, you can respond and negate 
 its efficacy.
 
