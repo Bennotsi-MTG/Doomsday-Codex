@@ -37,17 +37,15 @@ that we use when writing down piles.
 Mana costs are represented as follows:  
 W White - U Blue - B Black - R Red - G Green  
 1 one generic mana  
-BBB means three black mana  
-
-=======   
+BBB means three black mana   
 1UU means two blue mana and one generic mana   
 X means a variable amount of any generic mana    
-
+========================================================================================================================================
 
 Consider the following example of a Doomsday pile in this notation:    
 
 ```
--> IU, LED, GP, LED, BW(ToA) BBB+1UU (6) 8 Storm
+-> IU, LED, GP, LED, BW(ToA)                BBB+UU (5)   8 Storm
 ```
 
 This means that IU is the top card and BW is the bottom card. BBB+1UU 
@@ -82,15 +80,19 @@ really matter and we'll just assume that you have a GP in hand.
 
 *Ideas Unbound*
 
-GP in hand:
-1. Cast Doomsday build: -> IU, LED, LED, GP, BW(ToA)
-2. Cast GP, draw (IU)
-3. Cast IU, draw (LED, LED, GP)
-4. Cast LED
-5. Cast LED
-6. Cast GP, hold priority, sacrifice LEDs for BBB+RRR, pass priority, draw (BW)
-7. Cast BW, get ToA from sideboard
-8. Cast ToA
+```
+GP in hand.
+-> IU, LED, GP, LED, BW(ToA)                BBB+UU (5)   8 Storm
+```
+
+1. Cast Doomsday build: [IU, LED, LED, GP, BW]    
+2. Cast GP, draw (IU)   
+3. Cast IU, draw (LED, LED, GP)   
+4. Cast LED    
+5. Cast LED    
+6. Cast GP, hold priority crack LEDs for BBB+RRR, draw (BW)   
+7. Cast BW targeting ToA     
+8. Cast ToA    
 
 This pile has cost you BBB+UU and 4 life and results in 8 storm, that 
 is 16 lifeloss. Note that UU is often paid for by a Lion's Eye 
@@ -108,15 +110,19 @@ you can avoid discussions during tournament play.
 
 *Three Wishes*
 
-GP in hand:
-1. Cast Doomsday build: -> TW, LED, LED, GP, BW(ToA)
-2. Cast GP, draw (TW)
-3. Cast TW, exile (LED, LED, GP)
-4. Cast LED, sacrifice it for BBB
-5. Cast LED, sacrifice if for RRR
-6. Cast GP, draw (BW)
-7. Cast BW, get ToA from sideboard
-8. Cast ToA
+```
+GP in hand.
+-> TW, LED, GP, LED, BW(ToA)                BBB+1UU (6)   8 Storm
+```
+
+1. Cast Doomsday build: [TW, LED, LED, GP, BW]   
+2. Cast GP, draw (TW)  
+3. Cast TW, dexile (LED, LED, GP)  
+4. Cast LED     
+5. Cast LED    
+6. Cast GP, hold priority crack LEDs for BBB+RRR, draw (BW)   
+7. Cast BW targeting ToA      
+8. Cast ToA    
 
 This pile costs BBB+1UU and 4 life and results in 8 storm, which is 16 
 lifeloss. Like with Ideas Unbound, the mana cost for the draw spell 
@@ -126,23 +132,29 @@ Wishes not actually draws but exiles the cards. This means that
 Lion's Eye Diamond's activation cost will not affect your ability to 
 cast the cards 'drawn' with Three Wishes. If you are low on life can 
 also build -> TW, LED, LED, BW, X and directly 'draw' Burning Wish 
-with Three Wishes, this will produce once less storm.
+with Three Wishes, this will produce once less storm however it does let you
+'hide' a card in your Doomsday stack from your opponent.
 
 
 ### Double cantrip piles
 
 *Ideas Unbound*
 
-2x GP in hand:
-1. Cast Doomsday build: -> LED, IU, LP, LED, BW(ToA)
-2. Cast GP, draw (LED)
-3. Cast LED
-4. Hold priority, cast GP, sacrifice LED for UUU, (draw IU)
-5. Cast IU, draw (LP, LED, BW)
-6. Cast LP, crack for R
-7. Cast LED
-8. Hold priority, cast BW, sacrifice LED for BBB, wish for ToA
-9. Cast ToA
+```
+GP, GP in hand.
+-> LED, IU, LP, LED, BW(ToA)                BBB+2 (5)   9 Storm
+```
+
+1. Cast Doomsday build: [LED, IU, LP, LED, BW]   
+2. Cast GP, draw (LED)  
+3. Cast LED    
+4. Cast GP, hold priority crack LED for UUU, draw (IU)   
+5. Cast IU, draw (LP, LED, BW)    
+6. Cast LP     
+7. Cast LED    
+Crack LP for R   
+8. Cast BW targeting ToA, hold priority crack LED for BBB    
+9. Cast ToA for 9 storm.       
 
 This pile has cost only BBB+1 and 4 life to execute and results in 9 
 storm, which is 18 lifeloss. This pile is quite efficient when it comes 
@@ -161,16 +173,21 @@ mana and pays for all but 1 mana of Tendrils of Agony.
 
 *Three Wishes*
 
-2x GP in hand:
-1. Cast Doomsday build: -> LED, TW, LED, LED, BW
-2. Cast GP, draw (LED)
-3. Cast LED
-4. Hold priority, cast GP, sacrifice LED for UUU, draw (TW)
-5. Cast TW, exile LED, LED, BW(ToA)
-6. Cast LED, sacrifice LED for BBB
-7. Cast LED, sacrifice LED for RRR
-8. Cast BW, wish for ToA
-9. Cast ToA
+```
+GP, GP in hand.
+-> LED, TW, LP, LED, BW(ToA)                BBB+0 (3)   9 Storm
+```
+
+1. Cast Doomsday build: [LED, TW, LED, LED, BW]   
+2. Cast GP, draw (LED)  
+3. Cast LED    
+4. Cast GP, hold priority crack LED for UUU, draw (TW)   
+5. Cast TW, exile (LED, LED, BW)    
+6. Cast LED     
+7. Cast LED    
+Crack LEDs for BBB RRR   
+8. Cast BW targeting ToA    
+9. Cast ToA for 9 storm.  
 
 This pile is very efficient at BBB and 4 life for 9 storm. The key 
 idea is that, strictly speaking we only needed TW, LED, LED, BW in our 
