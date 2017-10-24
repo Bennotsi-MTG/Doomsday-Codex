@@ -14,7 +14,7 @@ simple Doomsday piles. And since this is the starting point for reading
 about Doomsday piles in general, we will first explain a bit about the notation 
 that we use when writing down piles. 
 
-## Notation
+## Notation 
 
 | Shorthand | Cardname |
 | --------- | ---- |
@@ -34,13 +34,15 @@ that we use when writing down piles.
 | IC | Infernal Contract |
 | CB | Conjurer's Bauble |
 
+       
 Mana costs are represented as follows:  
 W White - U Blue - B Black - R Red - G Green  
 1 one generic mana  
 BBB means three black mana   
 1UU means two blue mana and one generic mana   
-X means a variable amount of any generic mana    
-========================================================================================================================================
+X means a variable amount of any generic mana  
+
+-----------
 
 Consider the following example of a Doomsday pile in this notation:    
 
