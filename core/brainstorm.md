@@ -42,22 +42,20 @@ BS, BW in hand.
 -> LED, [TW/AoI], GP, LED, LED          BBB+U (4)             9 Storm
 
 BS, BW in hand.
--> LED, IU, GP, LP, LED                 BBB+1U (5)            9 Storm
+-> LED, IU, GP, LP, LED                 BBB+2U (6)            9 Storm
 ```
 
 Example one:   
-Storm Count = 1   
-1. Cast BS for U (2). Draw (LED, TW/AoI, GP) and replace (TW/AoI, BW)   
-2. Cast LED (3)   
-3. Cast GP (4) and hold priority cracking for UUU or RRR   
-4. Draw (TW/AoI)   
-5. Cast (TW/AoI) (5)   
-6. Exile (BW, LED, LED)   
-7. Cast LED (6)   
-8. Cast LED (7)   
-9. Crack LEDs for BBB and RRR   
-10. Cast BW (8) for ToA  
-11. Cast ToA for Storm = 9.   
+1. Cast Doomsday, build: [LED, TW/AoI, GP, LED, LED]   
+2. Cast BS, draw (LED, TW/AoI, GP) and replace (TW/AoI, BW)   
+3. Cast LED      
+4. Cast GP, hold priority cracking LED for UUU or RRR, draw (TW/AoI)   
+5. Cast TW/AoI, exile (BW, LED, LED)   
+6. Cast LED (6)   
+7. Cast LED (7)   
+Crack LEDs for BBB and RRR   
+8. Cast BW targeting ToA  
+9. Cast ToA for 9 Storm.   
 
 Thanks to BS we are able to exchange the BW in the pile with another LED. This
 concept of swapping can be used for many aspects of piles. In this example it means
@@ -66,20 +64,18 @@ we can go off with just U open with any number of the following cards in hand:
 LED, GP, [TW/AoI], BW, LM    
 
 Example two:    
-This follows exactly the same as example one however we require an additional 2 generic
+This follows exactly the same as example one however we require an additional 2 generic mana
 to pull it off.   
-Storm Count = 1
-1. Cast BS for U (2). Draw (LED, IU, GP) and replace (IU, BW)   
-2. Cast LED (3)   
-3. Cast GP (4) and hold priority cracking for UUU   
-4. Draw (IU)   
-5. Cast IU (5)   
-6. Draw (BW, LP, LED)   
-7. Cast LP (6)   
-8. Cast LED (7)   
-9. Crack LP for R   
-10. Cast BW (8) for ToA, hold priority and crack LED for BBB   
-11. Cast ToA for Storm = 9.   
+1. Cast Doomsday, build: [LED, IU, GP, LED, LP]   
+2. Cast BS, draw (LED, TW/AoI, GP) and replace (IU, BW)   
+3. Cast LED      
+4. Cast GP, hold priority cracking LED for UUU or RRR, draw (IU)   
+5. Cast IU, draw (BW, LED, LLP)   
+6. Cast LED (6)   
+7. Cast LP (7)   
+Crack LP for R   
+8. Cast BW targeting ToA, hold priority and crack LED for BBB      
+9. Cast ToA for 9 Storm.   
 
 Again the same concept applies however we do need one extra mana. The difference comes
 from the fact that we draw BW with IU, as opposed to exiling it with TW or AoI. The fact
@@ -88,15 +84,17 @@ pile is used to generate R, which together with the U left floating after IU is 
 to cast BW. LED is sacrificed for black in response to produce black mana, where one
 additional generic mana is needed to cast ToA.
 
-Nevertheless both the above examples are cheap piles requiring relatively low resources.  
+Nevertheless both the above examples are cheap piles requiring relatively low resources. 
+Assuming the opponent is at enough life and you have ToA in your maindeck you can also build 
+the following as pile:
 
 ```
-BS, BW in hand.
--> LED, [TW/AoI], GP, LED, LED               BBB+U (4)    9 Storm
-
-BS, BW in hand.
--> LED, IU, GP, LP, LED                      BBB+1U (5)   9 Storm
+BS, ToA in hand.
+-> LED, IU, GP, DR, LP                       BBB+U (4)   8 Storm
 ```
+
+It follows the same lines of play as the above examples but does not require LED after the initial
+one used to cast IU as LP, DR and the U remaining after IU is enough to cast ToA. 
 
 Sometimes, we can get around the IU LED mana restriction simply by having extra cards in
 our hands. Notice that in the example above we drew IU only to put it back with
@@ -110,21 +108,21 @@ back two cards with BS, if those cards have to be IU and BW we cannot exchange a
 additional cards in hand with cards in the pile.
 
 Say we have BS, IU, and one card in hand. We cast Doomsday and build:
+
 ```
 BS, IU, X in hand.
 -> LED, LED, GP, LED, BW 
 ```
 
-Storm Count =1   
-1. Cast BS for U (2). Draw (LED, LED, GP) and replace (IU, X)   
-2. Cast LED (3)  
-3. Cast LED (4)   
-4. Cast GP, hold priority and crack LEDs for UUU, RRR   
-5. Draw (IU)   
-6. Cast IU (5) drawing (X, LED, BW)   
-7. Cast LED (6)   
-8. Cast BW (7), hold priority and crack LED for BBB, targetting ToA   
-9. Cast ToA for Storm = 8. 
+1. Cast Doomsday, build: [LED, LED, GP, LED, BW]  
+2. Cast BS, draw (LED, LED, GP) and replace (IU, X)   
+3. Cast LED     
+4. Cast LED      
+5. Cast GP, hold priority and crack LEDs for UUU, RRR, draw (IU)      
+6. Cast IU draw (X, LED, BW)   
+7. Cast LED     
+8. Cast BW targetting ToA, hold priority and crack LED for BBB       
+9. Cast ToA for Storm = 9. 
 
 Obviously storm can be +1 if you are able to cast X prior to BW. 
 
@@ -139,16 +137,16 @@ BS, BW in hand.
 -> LED, GP, LED, LED, BW               BBB+1UR   (6) 9 Storm
 ```
 
-Storm Count =1   
-1. Cast BS for U (2). Draw (LED, GP, LED) and replace (BW, LED)   
-2. Cast LED (3)   
-3. Cast GP (4), hold priority and crack LED for RRR, draw (BW)   
-4. Cast BW (5) targetting AoI in the SB   
-5. Cast AoI (6) exiling (LED, LED, BW)   
-6. Cast LED (7)   
-7. Cast LED (8)   
-8. Crack LEDs for BBB and RRR   
-9. Cast BW (9) targetting ToA   
+1. Cast Doomsday, build: [LED, GP, LED, LED, BW]   
+2. Cast BS, draw (LED, GP, LED) and replace (BW, LED)   
+3. Cast LED    
+4. Cast GP, hold priority and crack LED for RRR, draw (BW)   
+5. Cast BW targeting AoI in the SB   
+6. Cast AoI, exile (LED, LED, BW)   
+7. Cast LED    
+8. Cast LED    
+Crack LEDs for BBB and RRR   
+9. Cast BW  targetting ToA   
 10. Cast ToA for Storm = 10.  
 
 Again this playline can be followed with two BW in hand, BW and GP in hand or 
