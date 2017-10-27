@@ -57,7 +57,7 @@ Pass the turn and pray.
 
 ```
 GP in hand, CB in play
--> AoI, Salvagers, LED, LED, Walking Ballista/Pyrite Spellbomb/Lodestone Bauble          BBB+R2   (6)
+-> LED, AoI, Salvagers, LED, Walking Ballista/Pyrite Spellbomb/Lodestone Bauble/BW/ToA          BBB+3   (6)
 ```
 
 ## Dragons
