@@ -69,3 +69,8 @@ GP in hand, CB in play
 
 Also Second Sunrise. 
 [Predict, Grapeshot (or Brain freeze), LED, CB, Second Sunrise]
+
+## Fury
+
+GP+RR4 needed.
+[Hazoret's Undying Fury, LM, BS, Any Split Second Spell, X]
