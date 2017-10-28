@@ -50,7 +50,7 @@ CB in play+GP:
 -> IU, LED, GP, LED, BW
 ```
 
-This has some overlap with what is described in the [Double Doomsday](https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md) document. Just as historically you could with Sensei's 
+This has some overlap with what is described in the [Double Doomsday](http://ddft.wiki/pages-output/double-doomsday/) document. Just as historically you could with Sensei's 
 Divining Top, Conjurer's Bauble may be used save the draw for the 
 second pile in the play line.
 
@@ -208,7 +208,7 @@ For only a single mana post DD we have a very impressive potential stormcount
 which can additionally be increased. How do we go about achieving that?   
 Let's take a look:
 
-1. Cast Doomsday build -> [BS, LED, AoI, LED, CB]  
+1. Cast Doomsday build -> [BS, LED, AoI, LED, CB]    
 2. Cast GP, draw (BS)   
 3. Cast BS, draw (LED, AoI, LED), replace (AoI, BW)    
 4. Cast LED     
@@ -221,12 +221,12 @@ Crack LED for RRR
 8. Cast CB, BBBRR remains in mana pool     
 Crack CB targeting CB, draw (CB)     
 9. Cast CB, BBBR remains in mana pool     
-Crack CB targeting CB, draw (CB)
+Crack CB targeting CB, draw (CB)    
 10. Cast CB, BBB remains in mana pool     
-Crack CB targeting CB, draw (CB)
+Crack CB targeting CB, draw (CB)    
 11. Cast LED       
 Crack LED for RRR    
-12. Cast BW targeting ToA
+12. Cast BW targeting ToA    
 13. Cast ToA for 13 storm.         
 
 The key point here is the fact that both the second CB and the BW can be 
@@ -259,18 +259,18 @@ Crack CB targeting LED, draw (IC)
 3. Cast LED     
 4. Cast LED     
 5. Cast LED    
-6. Cast CB   
+6. Cast CB    
 Crack LEDs for BBB BBB BBB    
 Crack CB targeting CB, draw (CB)     
-7. Cast CB, BBB BBB BB remains in mana pool 
+7. Cast CB, BBB BBB BB remains in mana pool   
 Crack CB targeting CB, draw (CB)     
-8. Cast CB, BBB BBB B remains in mana pool 
+8. Cast CB, BBB BBB B remains in mana pool   
 Crack CB targeting CB, draw (CB)     
-9. Cast CB, BBB BBB remains in mana pool 
+9. Cast CB, BBB BBB remains in mana pool   
 Crack CB targeting CB, draw (CB)     
-10. Cast CB, BBB BB remains in mana pool 
+10. Cast CB, BBB BB remains in mana pool    
 Crack CB targeting CB, draw (CB)     
-11. Cast CB, BBB B remains in mana pool 
+11. Cast CB, BBB B remains in mana pool   
 Crack CB targeting ToA, draw (ToA)    
 12. Cast ToA for 12 storm.     
 
@@ -353,7 +353,7 @@ Goblin Guide no longer draws you a card and thus causes you to lose a turn worth
 When you draw CB you simply play it and use it to draw into SI. You can target the Doomsday 
 that you used to make the pile with in order to give yourself an additional turn worth of 
 Emrakul attacks.
-More information on SI + Emrakul piles may be found in the <a href="https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/shelldock-emrakul.md">Shelldock section</a>.
+
 
 ## Summary  
 
@@ -363,4 +363,4 @@ More information on SI + Emrakul piles may be found in the <a href="https://gith
 4. CB can be used to get around some hate cards   
 5. Be mindful of targeted graveyard hate if exposing your cards to the graveyard when using CB    
 
-Hopefully this will allow a greater understanding of how to play through more of the piles that make up the [Pile Document](https://github.com/Bennotsi-MTG/DDFT-PileDoc). Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles and of course, practice makes perfect.  
+Hopefully this will allow a greater understanding of how to play through more of the piles that make up the [Pile Document](http://ddft.wiki/pages-output/pile-doc/). Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles and of course, practice makes perfect.  
