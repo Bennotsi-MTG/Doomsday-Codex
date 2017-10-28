@@ -208,7 +208,7 @@ For only a single mana post DD we have a very impressive potential stormcount
 which can additionally be increased. How do we go about achieving that?   
 Let's take a look:
 
-1. Cast Doomsday build -> [BS, LED, AoI, LED, CB]  
+1. Cast Doomsday build -> [BS, LED, AoI, LED, CB]    
 2. Cast GP, draw (BS)   
 3. Cast BS, draw (LED, AoI, LED), replace (AoI, BW)    
 4. Cast LED     
@@ -221,12 +221,12 @@ Crack LED for RRR
 8. Cast CB, BBBRR remains in mana pool     
 Crack CB targeting CB, draw (CB)     
 9. Cast CB, BBBR remains in mana pool     
-Crack CB targeting CB, draw (CB)
+Crack CB targeting CB, draw (CB)    
 10. Cast CB, BBB remains in mana pool     
-Crack CB targeting CB, draw (CB)
+Crack CB targeting CB, draw (CB)    
 11. Cast LED       
 Crack LED for RRR    
-12. Cast BW targeting ToA
+12. Cast BW targeting ToA    
 13. Cast ToA for 13 storm.         
 
 The key point here is the fact that both the second CB and the BW can be 
@@ -259,18 +259,18 @@ Crack CB targeting LED, draw (IC)
 3. Cast LED     
 4. Cast LED     
 5. Cast LED    
-6. Cast CB   
+6. Cast CB    
 Crack LEDs for BBB BBB BBB    
 Crack CB targeting CB, draw (CB)     
-7. Cast CB, BBB BBB BB remains in mana pool 
+7. Cast CB, BBB BBB BB remains in mana pool   
 Crack CB targeting CB, draw (CB)     
-8. Cast CB, BBB BBB B remains in mana pool 
+8. Cast CB, BBB BBB B remains in mana pool   
 Crack CB targeting CB, draw (CB)     
-9. Cast CB, BBB BBB remains in mana pool 
+9. Cast CB, BBB BBB remains in mana pool   
 Crack CB targeting CB, draw (CB)     
-10. Cast CB, BBB BB remains in mana pool 
+10. Cast CB, BBB BB remains in mana pool    
 Crack CB targeting CB, draw (CB)     
-11. Cast CB, BBB B remains in mana pool 
+11. Cast CB, BBB B remains in mana pool   
 Crack CB targeting ToA, draw (ToA)    
 12. Cast ToA for 12 storm.     
 
