@@ -32,17 +32,17 @@ LED in play, PTT:
 ```
 
 Plays out as follows:
-Cast Doomsday build: [TW/AoI, LED, GP, DD, BW]
+Cast Doomsday build [TW/AoI, LED, GP, DD, BW]
 Pass the turn.
 1. Cast TW/AoI, Exile (LED, GP, DD)   
 2. Cast LED  
-Crack LEDs for BBB and UUU/RRR  
+   - Crack LEDs for BBB and UUU/RRR  
 3. Cast Doomsday build [TW/AoI, LED, LED, BW, X]     
 4. Cast GP, draw (TW/AoI)  
 5. Cast TW/AoI, exile (LED, LED, BW)   
 6. Cast LED
 7. Cast LED
-Crack LEDs for BBB RRR
+   - Crack LEDs for BBB RRR
 8. Cast BW targeting ToA   
 9. Cast ToA for 9 storm.   
 
@@ -70,13 +70,13 @@ Plays out as follows:
 6. Cast LED  
 7. Cast BW for DD, hold priority and crack LEDs for UUU BBB  
 7. Cast Doomsday build: [IU, LED, LED, GP, BW]   
-Activate CB targeting nothing, draw (IU)  
+    - Crack CB targeting nothing, draw (IU)  
 8. Cast IU, draw (LED, LED, GP)  
 9. Cast LED   
 10. Cast LED  
 11. Cast GP, hold priority and crack LEDs for BBB RRR, draw (BW)  
 12. Cast BW targeting ToA   
-13. Cast ToA for 13 storm  
+13. Cast ToA for 13 storm.  
 
 This time we have used both the fact that we have wishes and
 a draw effect stored to be able to execute the pile. You can

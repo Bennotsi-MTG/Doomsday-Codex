@@ -172,13 +172,13 @@ With the BW example:
 1. Cast Doomsday build -> [LED, IU, LED, LED, CB]
 2. Cast GP, draw (LED)       
 3. Cast LED, crack LED for UUU   
-Activate CB targeting nothing, draw (IU)   
+    - Crack CB targeting nothing, draw (IU)   
 4. Cast IU, draw (LED, LED, CB)   
 5. Cast CB   
 6. Cast LED     
 7. Cast LED    
-Crack LEDs for BBB RRR    
-Crack CB targeting BW, draw (BW)     
+    - Crack LEDs for BBB RRR    
+    - Crack CB targeting BW, draw (BW)     
 8. Cast BW (8) targeting ToA
 9. Cast ToA for 9 storm.     
 
@@ -213,19 +213,19 @@ Let's take a look:
 3. Cast BS, draw (LED, AoI, LED), replace (AoI, BW)    
 4. Cast LED     
 5. Cast LED    
-Crack LEDs for BBB RRR     
-Crack CB targeting LED, draw (AoI)     
+    - Crack LEDs for BBB RRR     
+    - Crack CB targeting LED, draw (AoI)     
 6. Cast AoI, exile (BW, CB, LED)     
 7. Cast LED    
-Crack LED for RRR    
+    - Crack LED for RRR    
 8. Cast CB, BBBRR remains in mana pool     
-Crack CB targeting CB, draw (CB)     
+    - Crack CB targeting CB, draw (CB)     
 9. Cast CB, BBBR remains in mana pool     
-Crack CB targeting CB, draw (CB)    
+    - Crack CB targeting CB, draw (CB)    
 10. Cast CB, BBB remains in mana pool     
-Crack CB targeting CB, draw (CB)    
+    - Crack CB targeting CB, draw (CB)    
 11. Cast LED       
-Crack LED for RRR    
+    - Crack LED for RRR    
 12. Cast BW targeting ToA    
 13. Cast ToA for 13 storm.         
 
@@ -253,25 +253,25 @@ Cast Doomsday build -> [LED, IC, LED, LED, CB]
 Pass the turn        
 Draw (LED) for turn    
 1. Cast LED         
-Crack LED for BBB       
-Crack CB targeting LED, draw (IC)    
+    - Crack LED for BBB       
+    - Crack CB targeting LED, draw (IC)    
 2. Cast IC, draw (LED, LED, CB, LED)    
 3. Cast LED     
 4. Cast LED     
 5. Cast LED    
 6. Cast CB    
-Crack LEDs for BBB BBB BBB    
-Crack CB targeting CB, draw (CB)     
+    - Crack LEDs for BBB BBB BBB    
+    - Crack CB targeting CB, draw (CB)     
 7. Cast CB, BBB BBB BB remains in mana pool   
-Crack CB targeting CB, draw (CB)     
+    - Crack CB targeting CB, draw (CB)     
 8. Cast CB, BBB BBB B remains in mana pool   
-Crack CB targeting CB, draw (CB)     
+    - Crack CB targeting CB, draw (CB)     
 9. Cast CB, BBB BBB remains in mana pool   
-Crack CB targeting CB, draw (CB)     
+    - Crack CB targeting CB, draw (CB)     
 10. Cast CB, BBB BB remains in mana pool    
-Crack CB targeting CB, draw (CB)     
+    - Crack CB targeting CB, draw (CB)     
 11. Cast CB, BBB B remains in mana pool   
-Crack CB targeting ToA, draw (ToA)    
+    - Crack CB targeting ToA, draw (ToA)    
 12. Cast ToA for 12 storm.     
 
 
