@@ -76,7 +76,7 @@ Plays out as follows:
 10. Cast LED  
 11. Cast GP, hold priority and crack LEDs for BBB RRR, draw (BW)  
 12. Cast BW targeting ToA   
-13. Cast ToA for 13 storm  
+13. Cast ToA for 13 storm.  
 
 This time we have used both the fact that we have wishes and
 a draw effect stored to be able to execute the pile. You can
