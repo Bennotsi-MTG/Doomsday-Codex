@@ -172,7 +172,7 @@ With the BW example:
 1. Cast Doomsday build -> [LED, IU, LED, LED, CB]
 2. Cast GP, draw (LED)       
 3. Cast LED, crack LED for UUU   
-Activate CB targeting nothing, draw (IU)   
+    - Crack CB targeting nothing, draw (IU)   
 4. Cast IU, draw (LED, LED, CB)   
 5. Cast CB   
 6. Cast LED     
