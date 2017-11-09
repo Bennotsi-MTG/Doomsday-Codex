@@ -18,23 +18,23 @@ when writing down piles.
 
 ## Notation
 
-| Shorthand | Cardname |
-| --------- | ---- |
-| TW | Three Wishes |
-| AoI | Act on Impulse |
-| IU | Ideas Unbound |
-| LED | Lion's Eye Diamond |
-| GP | Gitaxian Probe |
-| BW | Burning Wish |
-| ToA | Tendrils of Agony |
-| LM | Laboratory Maniac |
-| BS | Brainstorm |
-| P | Ponder |
-| LP | Lotus Petal |
-| DD | Doomsday |
-| DR | Dark Ritual |
-| IC | Infernal Contract |
-| CB | Conjurer's Bauble |
+| Shorthand | Cardname           |
+| --------- | ------------------ |
+| TW        | Three Wishes       |
+| AoI       | Act on Impulse     |
+| IU        | Ideas Unbound      |
+| LED       | Lion's Eye Diamond |
+| GP        | Gitaxian Probe     |
+| BW        | Burning Wish       |
+| ToA       | Tendrils of Agony  |
+| LM        | Laboratory Maniac  |
+| BS        | Brainstorm         |
+| P         | Ponder             |
+| LP        | Lotus Petal        |
+| DD        | Doomsday           |
+| DR        | Dark Ritual        |
+| IC        | Infernal Contract  |
+| CB        | Conjurer's Bauble  |
 
 Mana costs are represented as follows:  
 W White - U Blue - B Black - R Red - G Green  
@@ -242,5 +242,6 @@ decklist and start goldfishing trying to figure out what piles to build and how
 to execute them. There are several documents available that list Doomsday piles
 which you can use to get to know more piles. These are very important tools when
 learning to how play the deck.  
-See the [DDFT Pile Document](https://github.com/Bennotsi-MTG/ddft-pileDoc/blob/master/README.md) for a more basic list of different piles.
+See the [DDFT Pile Document] for a more basic list of different piles.
 
+[DDFT Pile Document]: https://github.com/Bennotsi-MTG/ddft-pileDoc/blob/master/README.md
