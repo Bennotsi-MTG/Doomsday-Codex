@@ -119,7 +119,7 @@ GP in hand.
 
 1. Cast Doomsday build: [TW, LED, LED, GP, BW]   
 2. Cast GP, draw (TW)  
-3. Cast TW, dexile (LED, LED, GP)  
+3. Cast TW, exile (LED, LED, GP)  
 4. Cast LED     
 5. Cast LED    
 6. Cast GP, hold priority crack LEDs for BBB+RRR, draw (BW)   
