@@ -12,6 +12,7 @@ combo!
 
 A very simple example of its use is as follows. Consider your opening hand
 contains Underground Sea, Dark Ritual, Doomsday, you play all three and build:
+
 ```
 -> Shelldock Isle, Emrakul, the Aeons Torn, card 1, card 2, card 3.
 ```

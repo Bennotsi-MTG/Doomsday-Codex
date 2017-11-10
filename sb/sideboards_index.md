@@ -14,7 +14,6 @@ combat us. We change our deck to alter the speed, resiliency, level of
 aggressiveness and level of protection it gives us. It can also let us
 completely curve ball our opponent and change up how we win entirely.
 
-
 ## Proactive vs Reactive
 
 We can simplify the number of types of cards we have to sideboard into two broad
@@ -76,14 +75,12 @@ opponent deal with your guys. They also require you to start commiting into the
 fight on what is on the board and racing can often lead to the non-dedicated
 creature deck being too slow despite the benefits of MM.
 
-
 ### Show and Tell
 
 Something more from the old Rev lists where SI+Emrakul was more of the plan, you
 could just jam in four Show and Tells and try to drop the giant Spaghetti
 monster whilst still having the ability to DD into SI. As stated this plan is
 somewhat out of favour and therefore may not be suitable to the current meta.
-
 
 In terms of what you actually board in and out in a certain match up; I am a
 poor choice of teacher. I am still learning this art and who's to say I will

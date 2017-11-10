@@ -115,6 +115,7 @@ mana. Starting from SDT and GP in hand, build:
 ```
 -> LED, IU, LED, LP, BW BBB+3 (5) 9 or 10 Storm
 ```
+
 Cast DD, GP, LED, SDT, sac LED in response, tap SDT to draw IU. Either your SDT
 is destroyed now or it isn't. If so, you draw LED, LP, BW and still have 2U
 floating. If not, you draw SDT, LED, LP, in which case you cast LP and crack it
@@ -148,10 +149,12 @@ Teeg postboard.
 
 With 1 of the Tendrils boarded in you can do the following for the basic SDT
 pile:
+
 ```
 SDT in hand:
 -> IU, LED, GP, LP, ToA BBB+2UU (6) 7/8 Storm
 ```
+
 This pile has the same cost requirements of a normal win with Burning Wish, the
 two mana for Burning Wish is normally produced by a LED in the pile. Only
 because having 2 LEDs in play is problematic, we can change a LED for a Lotus
@@ -161,19 +164,23 @@ IU. Since you won't replay the SDT after IU you also leave 1 mana unused. If
 your opponent doesn't do anything you make 8 storm.
 
 We can build the same pile and do the same trick for a single cantrip pile:
+
 ```
 GP in hand:
 -> IU, LED, GP, LP, ToA BBB+UU (6) 7 Storm
 ```
+
 This pile is a bit low on the storm count but is immune to artifact destruction
 for no additional cost.
 
 The more difficult case is the one where we use SDT and a cantrip, because we
 have less space in the pile. You can however build:
+
 ```
 SDT + GP in hand:
 -> LED, IU, LP, DR, ToA BBB+2 (5) 8/9 Storm
 ```
+
 You play your cantrip to draw LED, play the SDT from hand and use it to draw IU.
 Now SDT is potentially destroyed. If so, IU will draw you LP, DR, ToA and you
 have enough mana to win. If not, you will draw SDT, LP, DR and you need 1

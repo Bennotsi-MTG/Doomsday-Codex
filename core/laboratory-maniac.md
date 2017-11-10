@@ -21,6 +21,7 @@ you have additional instant-speed draw, for example a second Conjurer's Bauble
 in play or a Chromatic Sphere to win at mana-ability speed.
 
 Playing a 1-off Laboratory Maniac comes with a number of perks:
+
 - Win through any number of Leyline of Sanctity and/or Gaddock Teeg at very
   little extra cost.
 - Win through heavy discard with a number of extremely cheap pass the turn
@@ -30,6 +31,7 @@ Playing a 1-off Laboratory Maniac comes with a number of perks:
 - Sacrifices to Cabal Therapy Flashback in a pinch.
 
 And a couple of downsides:
+
 - Vulnerable to removal
 - Pretty dead card when you draw it pre-Doomsday*.
 
@@ -40,6 +42,7 @@ And a couple of downsides:
 Now let's look into what winning with Laboratory Maniac looks like in Doomsday.
 Assuming you have 1 Laboratory Maniac somewhere in your maindeck, the standard
 piles are:
+
 ```
 GP in hand:
 -> IU, CB, LED, GP, LM BBB+1UU (6) 4 life
@@ -49,8 +52,6 @@ CB in play + GP in hand:
 
 2x GP in hand:
 -> LED, IU, CB, DR, LM BBB+B (4)   4 life
-
-
 ```
 
 Most of these piles speak for themselves. Somehow draw and cast Ideas Unbound
@@ -69,9 +70,11 @@ Like with regular Ideas Unbound piles there is a whole range of very cheap piles
 that use Brainstorm, Gitaxian Probe, Ideas Unbound, and/or Laboratory Maniac in
 hand. Learning all these piles takes some practice but may allow for fast wins,
 although not cheaper than a normal Tendrils-based wins.
+
 ## Winning with Laboratory Maniac Using TW/AoI
 
 The use of TW/AoI allows for some subtle changes in the way you build LM piles:
+
 ```
 GP in hand:
 -> GP, [TW/AoI], LED, GP, LM BBB+[1UU/2R] (6) 6 life
@@ -84,9 +87,8 @@ CB in play + GP in hand:
 
 2x GP in hand:
 -> LED, [TW/AoI], GP, LED, LM BBB (3)         6 life
-
-
 ```
+
 The key difference with these is that you can use the fact TW/AoI exile LM to
 then be able to cast him using mana from an LED rather than having to rely on
 drawing into him. This is great especially when using Brainstorm to take him

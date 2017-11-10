@@ -19,13 +19,13 @@ that require a non-specialist cantrip (such as Brainstorm) this can be used
 instead of any others which is handy if you only have B post DD for drawing into
 a pile.
 
-
 ## Storing a draw with CB
 
 Let's start off by looking at the basic function of Conjurer's
 Bauble as simply a tool to draw cards when using LED.
 
 Example:
+
 ```
 GP:
 -> IU, CB, GP, LED, LM.                  BBB+1UU (6)
@@ -44,6 +44,7 @@ This is effective, especially when you have to start the pile with low mana reso
 This is also enables things like Double Doomsday piles.
 
 Example:
+
 ```
 CB in play+GP:
 -> IU, LED, LED, BW, BW                  BBB+1UUR (7)         13 Storm
@@ -56,7 +57,6 @@ as historically you could with Sensei's Divining Top, Conjurer's Bauble may be
 used save the draw for the second pile in the play line.
 
 This simple use as a cantrip is not however the true strength of CB.
-
 
 ## Using CB to retrieve the 'Finisher'
 
@@ -71,6 +71,7 @@ The first is to ignore the downside of Lion's Eye Diamond's discard when we have
 other cards in hand we need.
 
 Example:
+
 ```
 CB in play+BW+GP:
 -> LED, IU, LED, LED, GP                  BBB+0 (3)         9 Storm
@@ -94,6 +95,7 @@ We can also use this effect to play our finisher spell multiple times. Even on a
 pass-the-turn pile.
 
 Example:
+
 ```
 LED in play, ToA in hand:
 -> IC, DR, DR, LP, CB                   BBB+1 (4)         6+7 Storm
@@ -101,6 +103,7 @@ LED in play, ToA in hand:
 
 In this instance we can play ToA twice.
 We draw IC for our turn.
+
 1. Cast IC, draw (DR, DR, LP, CB)
 2. Cast LP
     - Crack LP for B
@@ -118,7 +121,6 @@ illustrate tricks you can do with Conjurer's Bauble. Even a low initial storm
 count of 5 for the first copy allows for a total of 11 storm in total.
 This is great for when you have excess mana but low spell or card resources available.
 
-
 ## Using CB to extend the pile
 
 You can use the theory of retrieving a card above to help build your pile up.
@@ -126,6 +128,7 @@ Five card decks do have limits even if we get to choose all five cards. CB
 allows you to extend that to a pseudo-six cards.
 
 Example:
+
 ```
 CB in play + GP:
 -> LED, IC, LED, LP, BW                 BBB+1 (4)         8 Storm
@@ -138,7 +141,6 @@ Cast and crack the LED for BBB. You then use the CB to send the LED to the
 bottom of your deck and draw IC. Using the mana from LED, you now can draw the
 rest of the pile: LED, LP, BW, LED, allowing you to storm to victory.
 
-
 ## Using 2 CBs in a loop
 
 This section of discussion is one of the strongest arguments advocating the use
@@ -147,6 +149,7 @@ inefficiency of two of the piles discussed already. I will copy them again here
 for convenience:
 
 Example:
+
 ```
 CB in play+BW+GP:
 -> LED, IU, LED, LED, GP                  BBB+0 (3)         9 Storm
@@ -161,6 +164,7 @@ over. Is there a way we can maximise the use of this mana?
 What if we were to swap the GP in the piles with a CB?
 
 Example:
+
 ```
 CB in play+BW+GP:
 -> LED, IU, LED, LED, CB                  BBB+0+X (3+X)      9+X Storm
@@ -252,6 +256,7 @@ Let's have one last look at a pass the turn pile using CB looping this time
 using IC over IU or [AoI/TW]:
 
 Example:
+
 ```
 Pass the turn.
 CB in play+ToA:
@@ -283,11 +288,9 @@ Draw (LED) for turn
     - Crack CB targeting ToA, draw (ToA)
 12. Cast ToA for 12 storm.
 
-
 These tricks with CB allow for a number of iterations based on these simple
 concepts. They are useable with IU, IC or AoI/TW which means you can have
 a lot of flexibility in terms of deckbuilding and card choices.
-
 
 ## Using CB to play around hate
 
@@ -312,6 +315,7 @@ into your Doomsday pile. If you can plan around this you should be able to null
 and void their Surgical.
 
 Example:
+
 ```
 CB in play+GP:
 -> AoI, LED, LED, GP, BW                  BBB+2R (6)         8 Storm
@@ -335,6 +339,7 @@ card" spell that nullifies the R-blasts completely. Especially when paired with
 AoI or IC.
 
 Example:
+
 ```
 CB in play:
 -> IC, LED, LED, BW, CB                  BBB+1+X (4+X)      7+X Storm
@@ -345,6 +350,7 @@ You can use CB to protect the pile against a couple of Legacy staples that are a
 incidentally hate cards against such piles.
 
 Example:
+
 ```
 Pass the turn:
 -> SI, Emrakul, DR, DD, LM                  BBB+U (4)
@@ -360,6 +366,7 @@ Goblin Guide to name a couple. You can play around these cards by making a
 subtle alteration to the pile.
 
 Example:
+
 ```
 Pass the turn:
 -> CB, SI, DR, DD, Emrakul                  BBB+U (4)
@@ -371,7 +378,6 @@ send it to the bottom. Goblin Guide no longer draws you a card and thus causes
 you to lose a turn worth of attacking. When you draw CB you simply play it and
 use it to draw into SI. You can target the Doomsday that you used to make the
 pile with in order to give yourself an additional turn worth of Emrakul attacks.
-
 
 ## Summary
 

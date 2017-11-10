@@ -35,4 +35,4 @@ play.
 
 Let's look at these hands more closely:
 
-1. 
+1.

@@ -37,6 +37,7 @@ around/through hate later.
 
 Consider the following (intentionally) bad example: You cast Doomsday, but lack
 a draw effect and therefore build:
+
 ```
 -> IU, LED, LED, GP, BW(ToA)         UU (2)      6 Storm
 ```
@@ -54,12 +55,14 @@ There are however some more solid ways of winning the game even after passing
 the turn, that still work if passing the turn is primarily an anti-discard plan.
 The ones I will talk about in more detail are using Laboratory Maniac, Time
 Spiral, and Doomsday.
+
 ## Pass the turn piles with Laboratory Maniac
 
 Laboratory Maniac enables some very mana efficient pass the turn piles that may
 offer an out in situations where no other lethal pile would. When you have no
 other cards in hand or play, for example because you've used Lion's Eye Diamond
 to pay for Doomsday, the simplest piles are:
+
 ```
 -> IU, CB, LED, GP, LM              1UU (3)     2 life
 -> TW, LED, GP, GP, LM              1UU (3)     4 life
@@ -107,6 +110,7 @@ perhaps even a Massacre.
 For all Laboratory Maniac pass the turn piles, you can replace the card that
 draws from an empty library in the Doomsday pile with Chromatic Sphere and
 increase the mana cost accordingly.
+
 ## Time Spiral Pass the Turn Piles
 
 The cost listed in square brackets [..] is assumingly paid for by the lands that
@@ -221,7 +225,6 @@ CB in the graveyard and loop them playing them again and again until we only
 have BBBB in our mana pool. In this base example this is for three loops
 (6,7,8). We can then use the final one to target ToA and cast it for 9 storm.
 
-
 ## Summary
 
 1. You don't always have to win the turn you cast Doomsday
@@ -229,6 +232,3 @@ have BBBB in our mana pool. In this base example this is for three loops
 3. PTT piles do leave you susceptible to hand attack
 4. There are tricks you can use to ensure you can build up enough storm so you
    don't always have to rely on LM
-
-
-

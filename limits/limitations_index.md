@@ -1,4 +1,5 @@
 # Playing with Limitations
+
 "What if our opponent has X?"
 
 This is a series of short-(ish) articles dedicated to the various types of hate
@@ -150,6 +151,7 @@ targets. The main trick to getting around these is just not play Blue spells
 into nothing but a R: +1 Storm effect.
 
 Example:
+
 ```
 BW (IC) in hand:
 -> CB, LED, LED, LP, BW (ToA)          BBB+1BBBR   (8)  8 Storm
@@ -169,6 +171,7 @@ likely will need at least one draw effect though so make sure to have an excess
 card available to bin to enabling the draw.
 
 Example:
+
 ```
 BW (AoI)+GP+1 Card in hand:
 -> LED, LED, LED, BW, X                BBB+1R   (5)  9 Storm

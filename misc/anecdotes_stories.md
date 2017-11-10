@@ -1,4 +1,3 @@
-
 ## Sample games from tournament reports
 
 These snippets from older tournament reports demonstrate a couple of real

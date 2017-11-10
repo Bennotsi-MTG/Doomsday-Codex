@@ -15,6 +15,7 @@ generated
 by an LED.   
 
 Examples:
+
 ```
 GP in hand.
 -> IU, LED, LED, GP, BW               BBB+UU    (5)    8 Storm
@@ -123,6 +124,7 @@ or circumstances that will facilitate this in addition to the examples mentioned
 at the start.
 
 Example:
+
 ```
 CB in play. Cantrip in hand:
 -> AoI/TW, LED, LED, GP, BW              BBB+R2    (6)    8 Storm

@@ -16,6 +16,7 @@ are counted towards storm, in order to list the lowest possible post-Time Spiral
 mana cost.
 
 A simple example of a pile that uses Time Spiral is as follows:
+
 ```
 GP + 1 card (in hand or post-DD graveyard):
 -> IU, LED, LED, BW, BW BBB+1UUR+[1R] (7) 11 Storm
@@ -119,6 +120,7 @@ but this usually isn't a problem.
 Since we need some extra cards to not kill ourselves with Time Spiral anyways,
 we can use Brainstorm to efficiently draw multiple cards. Consider the following
 pile:
+
 ```
 BS in hand + 2 cards:
 -> P, LED, LED, BW, BW BBB+2UU+[1R] (7) 11 Storm
@@ -139,6 +141,7 @@ Ideas Unbound entirely. The problem is that in the above pile Ideas Unbound was
 replaced by a Ponder, which doesn't bring us any closer to lowering the cost of
 the pile. However if we already have a cantrip we can stuff another LED in the
 pile.
+
 ```
 BS/Ponder + Brainstorm + 2 cards:
 -> LED, LED, LED, BW, BW BBB+UU+[1] (5) 13 Storm
@@ -158,6 +161,7 @@ BS + BW + GP:
 BS + GP + 1 card:
 -> LED, LED, BW, BW, LP BBB+2U+[1] (6) 12 Storm
 ```
+
 +1 storm if you cast GP post-TSP. The Lotus Petals can be included to lower the
 post-TS cost of the pile, but when you have sufficient lands you may also
 include other cards like Silence or even Chain of Vapor.
@@ -167,6 +171,7 @@ include other cards like Silence or even Chain of Vapor.
 I hope this gives a good overview of what Doomsday-Time Spiral piles are out
 there. Obviously, I have only touched upon the subject and the total number of
 piles that may be created is much larger. So things to remember are:
+
 1. You want at least 2 cards, beyond what you search with Doomsday
 2. You need 2 Burning Wishes, one for Time Spiral, one for Tendrils of Agony
 3. Additional cantrips can lower the manacost if you can replace either IU or

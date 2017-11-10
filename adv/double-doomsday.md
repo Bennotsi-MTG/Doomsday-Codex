@@ -32,6 +32,7 @@ LED in play, PTT:
 Plays out as follows:
 Cast Doomsday build [TW/AoI, LED, GP, DD, BW]
 Pass the turn.
+
 1. Cast TW/AoI, Exile (LED, GP, DD)
 2. Cast LED
    - Crack LEDs for BBB and UUU/RRR
@@ -61,6 +62,7 @@ CB in play, GP in hand:
 ```
 
 Plays out as follows:
+
 1. Cast Doomsday build: [IU, LED, LED, BW, BW]
 2. Cast GP, draw (IU)
 4. Cast IU, draw (LED, LED, BW)
@@ -81,6 +83,7 @@ stored to be able to execute the pile. You can
 also achieve a similar effect even without wishes.
 
 Example:
+
 ```
 CB in play, GP in hand:
 -> IU, LED, DR, DD, ToA         UUBB   (4)         10 Storm
@@ -90,10 +93,8 @@ CB in play, GP in hand:
 Of course this is much less effective due to the lack of extra 'cards' available
 from wishes.
 
-
 All the above piles can of course be improved through addition of further
 cantrips or mana being available in helping facilitate greater storm counts.
-
 
 ## Double-Doomsday without TW/AoI or CB
 
@@ -102,6 +103,7 @@ TW/AoI. The answer is yes! But you probably won't ever go for a pile like this
 unless some very funky circumstances occur.
 
 Example:
+
 ```
 -> IU, GP, DD, LED, BW
 -> IU, LED, LED, GP, BW(ToA)
@@ -128,6 +130,7 @@ replace one of those Lion's Eye Diamonds with the Burning Wish that you would
 otherwise have to tutor up with Doomsday.
 
 To give you some examples:
+
 ```
 GP + LED + BW:
 -> IU, GP, DD, LED, LED          BBB+[1UU/BBB] (6)  13 Storm
@@ -162,5 +165,3 @@ understanding of how to combo off using Doomsday.
 2. Double Doomsday piles are handy for pass-the-turn piles
 3. Be mindful of the life loss involved in casting Doomsday twice and
    potentially using multiple GP
-
-

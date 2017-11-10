@@ -31,8 +31,7 @@ Cast CoF, untap SI + U Source
 Activate SI, cast Worldfire  
 Pass the turn  
 Draw (Pirahna Marsh) for turn  
-Play Pirahna Marsh.  
-
+Play Pirahna Marsh.
 
 ## Pass the turn and pray
 
@@ -50,7 +49,7 @@ Cast LED
 Cast LED  
 Crack LEDs for W  
 Cast Barren Glory  
-Pass the turn and pray.  
+Pass the turn and pray.
 
 ## Bomberman
 
@@ -64,7 +63,6 @@ GP in hand, CB in play
 [Mental note, Dragon, Oona, Animate Date, X]
 
 ## Doomsday Sunrise
-
 
 Also Second Sunrise. [Predict, Grapeshot (or Brain freeze), LED, CB, Second
 Sunrise]

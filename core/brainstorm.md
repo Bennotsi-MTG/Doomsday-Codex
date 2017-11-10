@@ -36,6 +36,7 @@ the BW from our hand into the pile. As a result, we have obtained the finisher,
 we just need to consider mana and a way to 'draw' our cards.
 
 Examples:
+
 ```
 BS, BW in hand.
 -> LED, [TW/AoI], GP, LED, LED          BBB+U (4)             9 Storm
@@ -44,8 +45,8 @@ BS, BW in hand.
 -> LED, IU, GP, LP, LED                 BBB+2U (6)            9 Storm
 ```
 
-
 Example one:
+
 1. Cast Doomsday, build: [LED, TW/AoI, GP, LED, LED]
 2. Cast BS, draw (LED, TW/AoI, GP) and replace (TW/AoI, BW)
 3. Cast LED
@@ -56,6 +57,7 @@ Example one:
     - Crack LEDs for BBB and RRR
 8. Cast BW targeting ToA
 9. Cast ToA for 9 Storm.
+
 Thanks to BS we are able to exchange the BW in the pile with another LED. This
 concept of swapping can be used for many aspects of piles. In this example it
 means we can go off with just U open with any number of the following cards in
@@ -64,8 +66,10 @@ hand:
 LED, GP, [TW/AoI], BW, LM
 
 Example two:
+
 This follows exactly the same as example one however we require an additional 2
 generic mana to pull it off.
+
 1. Cast Doomsday, build: [LED, IU, GP, LED, LP]
 2. Cast BS, draw (LED, TW/AoI, GP) and replace (IU, BW)
 3. Cast LED
@@ -134,6 +138,7 @@ For argument's sake let us also state that your maindeck draw spell (IU, TW, AoI
 has been exiled for whatever reasons. We can still work with this scenario.
 
 Example:
+
 ```
 BS, BW in hand.
 -> LED, GP, LED, LED, BW               BBB+1UR   (6) 9 Storm
