@@ -35,7 +35,7 @@ some form of hate. Let's first talk about building pass the turn piles because
 we lack resources, such as a draw effect or mana. We'll focus on playing
 around/through hate later.
 
-Consider the following (intentionally) bad example: You cast Doomsday, but lack
+Consider the following (intentionally) bad example: you cast Doomsday, but lack
 a draw effect and therefore build:
 
 ```

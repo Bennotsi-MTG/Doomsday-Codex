@@ -70,7 +70,7 @@ a resolved Doomsday provides, this lets us do some nifty tricks.
 The first is to ignore the downside of Lion's Eye Diamond's discard when we have
 other cards in hand we need.
 
-Example:
+Examples:
 
 ```
 CB in play+BW+GP:
@@ -149,7 +149,7 @@ of CB, especially in multiples. The more astute of you may have noticed one key
 inefficiency of two of the piles discussed already. I will copy them again here
 for convenience:
 
-Example:
+Examples:
 
 ```
 CB in play+BW+GP:
@@ -164,7 +164,7 @@ you are left with U and with the ToA example you are left with U(B/R)(B/R) left
 over. Is there a way we can maximise the use of this mana?  
 What if we were to swap the GP in the piles with a CB?
 
-Example:
+Examples:
 
 ```
 CB in play+BW+GP:
