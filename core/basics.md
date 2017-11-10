@@ -175,7 +175,7 @@ for three black mana and pays for all but 1 mana of Tendrils of Agony.
 
 ```
 GP, GP in hand.
--> LED, TW, LP, LED, BW(ToA)                BBB+0 (3)   9 Storm
+-> LED, TW, LED, LED, BW(ToA)                BBB+0 (3)   9 Storm
 ```
 
 1. Cast Doomsday build: [LED, TW, LED, LED, BW]
