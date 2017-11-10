@@ -29,10 +29,20 @@ Pile notation.
 
 Second line of pile notation begins with an arrow formed from
 ->. It then states the cards using standard notation as per
-the table under the 'basics' article. These are divided by commas
-and end with a full stop.  
+the table under the 'basics' article. These are divided by commas.    
 Example:  
 ```
 GP and BS in hand, CB in play.
 -> LED, AoI, BW, LED, LED.
 ```
+
+For any use of tutoring effects or wish effects the target, 
+other than the final finishing spell, should be denoted next to
+the tutor/wish through the use of rounded brackets.  
+Example:  
+```
+-> BW (IC), LP, DR, DR, ToA
+```
+
+After the pile notation there should be X spaces inputted followed
+by 
