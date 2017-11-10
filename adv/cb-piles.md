@@ -105,21 +105,22 @@ In this instance we can play ToA twice.
 We draw IC for our turn.
 
 1. Cast IC, draw (DR, DR, LP, CB)
-2. Cast LP
-    - Crack LP for B
+2. - Cast LP
+   - Crack LP for B
 3. Cast DR
 4. Cast DR
 5. Cast CB
 6. Cast ToA for 6 storm
-    - Crack LED for BBB
-    - Crack CB targeting ToA, draw (ToA)
+   - Crack LED for BBB
+   - Crack CB targeting ToA, draw (ToA)
 7. Cast ToA for 7 storm.
 
 This playline results in 13 copies of ToA being available off this pile. This
 example does require some quite specific circumstances but it does help
 illustrate tricks you can do with Conjurer's Bauble. Even a low initial storm
 count of 5 for the first copy allows for a total of 11 storm in total.
-This is great for when you have excess mana but low spell or card resources available.
+This is great for when you have excess mana but low spell or card resources
+available.
 
 ## Using CB to extend the pile
 
@@ -185,13 +186,13 @@ example:
 1. Cast Doomsday build -> [LED, IU, LED, LED, CB]
 2. Cast GP, draw (LED)
 3. Cast LED, crack LED for UUU
-    - Crack CB targeting nothing, draw (IU)
+   - Crack CB targeting nothing, draw (IU)
 4. Cast IU, draw (LED, LED, CB)
 5. Cast CB
 6. Cast LED
 7. Cast LED
-    - Crack LEDs for BBB RRR
-    - Crack CB targeting BW, draw (BW)
+   - Crack LEDs for BBB RRR
+   - Crack CB targeting BW, draw (BW)
 8. Cast BW (8) targeting ToA
 9. Cast ToA for 9 storm.
 
@@ -226,15 +227,15 @@ Let's take a look:
 3. Cast BS, draw (LED, AoI, LED), replace (AoI, BW)
 4. Cast LED
 5. Cast LED
-    - Crack LEDs for BBB RRR
-    - Crack CB targeting LED, draw (AoI)
+   - Crack LEDs for BBB RRR
+   - Crack CB targeting LED, draw (AoI)
 6. Cast AoI, exile (BW, CB, LED)
 7. Cast LED
-    - Crack LED for RRR
+   - Crack LED for RRR
 8. Cast CB, BBBRR remains in mana pool
-    - Crack CB targeting CB, draw (CB)
+   - Crack CB targeting CB, draw (CB)
 9. Cast CB, BBBR remains in mana pool
-    - Crack CB targeting CB, draw (CB)
+   - Crack CB targeting CB, draw (CB)
 10. Cast CB, BBB remains in mana pool
     - Crack CB targeting LED, draw (LED)
 11. Cast LED
@@ -267,21 +268,21 @@ Cast Doomsday build -> [LED, IC, LED, LED, CB]
 Pass the turn  
 Draw (LED) for turn  
 1. Cast LED
-    - Crack LED for BBB
-    - Crack CB targeting LED, draw (IC)
+   - Crack LED for BBB
+   - Crack CB targeting LED, draw (IC)
 2. Cast IC, draw (LED, LED, CB, LED)
 3. Cast LED
 4. Cast LED
 5. Cast LED
 6. Cast CB
-    - Crack LEDs for BBB BBB BBB
-    - Crack CB targeting CB, draw (CB)
+   - Crack LEDs for BBB BBB BBB
+   - Crack CB targeting CB, draw (CB)
 7. Cast CB, BBB BBB BB remains in mana pool
-    - Crack CB targeting CB, draw (CB)
+   - Crack CB targeting CB, draw (CB)
 8. Cast CB, BBB BBB B remains in mana pool
-    - Crack CB targeting CB, draw (CB)
+   - Crack CB targeting CB, draw (CB)
 9. Cast CB, BBB BBB remains in mana pool
-    - Crack CB targeting CB, draw (CB)
+   - Crack CB targeting CB, draw (CB)
 10. Cast CB, BBB BB remains in mana pool
     - Crack CB targeting CB, draw (CB)
 11. Cast CB, BBB B remains in mana pool
@@ -385,7 +386,8 @@ pile with in order to give yourself an additional turn worth of Emrakul attacks.
 2. CB can be used to retrieve cards for multiple use in a pile
 3. CB can be used to extend a pile
 4. CB can be used to get around some hate cards
-5. Be mindful of targeted graveyard hate if exposing your cards to the graveyard when using CB
+5. Be mindful of targeted graveyard hate if exposing your cards to the graveyard
+   when using CB
 
 Hopefully this will allow a greater understanding of how to play through more of
 the piles that make up the

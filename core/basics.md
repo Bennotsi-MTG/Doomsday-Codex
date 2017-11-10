@@ -153,7 +153,7 @@ GP, GP in hand.
 5. Cast IU, draw (LP, LED, BW)
 6. Cast LP
 7. Cast LED
-    - Crack LP for R
+   - Crack LP for R
 8. Cast BW targeting ToA, hold priority crack LED for BBB
 9. Cast ToA for 9 storm.
 
@@ -185,7 +185,7 @@ GP, GP in hand.
 5. Cast TW, exile (LED, LED, BW)
 6. Cast LED
 7. Cast LED
-    - Crack LEDs for BBB RRR
+   - Crack LEDs for BBB RRR
 8. Cast BW targeting ToA
 9. Cast ToA for 9 storm.
 

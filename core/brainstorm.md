@@ -54,7 +54,7 @@ Example one:
 5. Cast TW/AoI, exile (BW, LED, LED)
 6. Cast LED (6)
 7. Cast LED (7)
-    - Crack LEDs for BBB and RRR
+   - Crack LEDs for BBB and RRR
 8. Cast BW targeting ToA
 9. Cast ToA for 9 Storm.
 
@@ -77,7 +77,7 @@ generic mana to pull it off.
 5. Cast IU, draw (BW, LED, LLP)
 6. Cast LED (6)
 7. Cast LP (7)
-    - Crack LP for R
+   - Crack LP for R
 8. Cast BW targeting ToA, hold priority and crack LED for BBB
 9. Cast ToA for 9 Storm.
 
@@ -152,7 +152,7 @@ BS, BW in hand.
 6. Cast AoI, exile (LED, LED, BW)
 7. Cast LED
 8. Cast LED
-    - Crack LEDs for BBB and RRR
+   - Crack LEDs for BBB and RRR
 9. Cast BW  targetting ToA
 10. Cast ToA for Storm = 10.
 

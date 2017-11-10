@@ -70,7 +70,7 @@ Plays out as follows:
 6. Cast LED
 7. Cast BW for DD, hold priority and crack LEDs for UUU BBB
 7. Cast Doomsday build: [IU, LED, LED, GP, BW]
-    - Crack CB targeting nothing, draw (IU)
+   - Crack CB targeting nothing, draw (IU)
 8. Cast IU, draw (LED, LED, GP)
 9. Cast LED
 10. Cast LED

@@ -195,12 +195,12 @@ the Tendrils. But you have to be extra careful to produce sufficient storm. An
 overview for the basic piles and the cost of playing around artifact destruction
 with or without Tendrils is given by this table:
 
-| |In hand | Basic Pile   |    Artifact destruction |       ToA boarded in| |
-| -- | -- | -- | -- |
-| SDT      | IU,LED,GP,LED,BW  BBB+2UU |     same    +1      | IU,LED,GP,LP,ToA    +0 |
-| GP       | IU,LED,GP,LED,BW  BBB+UU  | IU,LED,GP,DR,BW  +B | IU,LED,GP,LP,ToA    +0 |
-| SDT + GP | LED,IU,LED,LED,BW BBB+1   | LED,IU,LED,LP,BW +2 | LED,IU,LP,DR,ToA    +1 |
-| 2x GP    | LED,IU,LED,LP,BW  BBB+1   | same    +0          | LED,IU,LP,DR,ToA    -1 |
+| In hand  | Basic Pile                | Artifact destruction | ToA boarded in         |
+| -------- | ------------------------- | -------------------- | ---------------------- |
+| SDT      | IU,LED,GP,LED,BW  BBB+2UU | same +1              | IU,LED,GP,LP,ToA    +0 |
+| GP       | IU,LED,GP,LED,BW  BBB+UU  | IU,LED,GP,DR,BW  +B  | IU,LED,GP,LP,ToA    +0 |
+| SDT + GP | LED,IU,LED,LED,BW BBB+1   | LED,IU,LED,LP,BW +2  | LED,IU,LP,DR,ToA    +1 |
+| 2x GP    | LED,IU,LED,LP,BW  BBB+1   | same    +0           | LED,IU,LP,DR,ToA    -1 |
 
 ## Playing around a hatebear+artifact destruction
 
