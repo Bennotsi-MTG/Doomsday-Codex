@@ -56,12 +56,12 @@ CB in play. Cantrip in hand:
 -> DR, IC, DR, CB, BW                  BBB+BBR1+X  (7+X)  9+X Storm
 
 CB in play. Cantrip in hand:
--> DR, IC, DR, CB, ToA                 BBB+B+X     (4+X)  8+X Storm
+-> DR, IC, DR, CB, ToA                 BBB+BB+X    (4+X)  8+X Storm
 ```
 
-The general concept to remember is that our main method of mana increase is DR.
-This means we need both B to enable the casting of these rituals and also R
-available to cast BW at the end. Alternatively if you are aiming for a LM pile
+The general concept to remember is that our main method of fast mana generation
+is DR. This means we need both B to enable the casting of these rituals and also
+R available to cast BW at the end. Alternatively if you are aiming for a LM pile
 you need U to help cast him. As all our cantrips are not affected we can still
 easliy draw into what we need. If you happen to be playing with maindeck ToA
 then you don't need to worry about these additional colour requirements but for
@@ -155,6 +155,15 @@ Example:
 ```
 BW (IC) in hand:
 -> CB, LED, LED, LP, BW (ToA)          BBB+1BBBR   (8)  8 Storm
+```
+
+Better example:
+
+```
+CB+LED in play:
+-> AoI, BW, LED, CB, LED                BBB+R3      (7) 7 Storm
+CB+LED in play:
+-> AoI, ToA, LED, CB, CB                BBB+R2+X    (6+X) 7+X Storm
 ```
 
 ### Playing against Thalia and other Sphere effects
