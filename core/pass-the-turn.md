@@ -27,6 +27,12 @@ situation is a good question, in general, it's not a good idea to keep a
 hand without sufficient filter/draw spells or use your cantrips too 
 aggressively and be a left with a Doomsday and no draw effect.
 
+Something else to note is that many of the techniques or cards involved
+in pass the turn piles have not been properly touched upon yet. Think
+of this document more as an introduction to these playlines and the concept
+of it being okay to not win the turn you cast Doomsday rather than a
+comprehensive breakdown of how they work.
+
 Now that we've made clear that pass the turn piles are a last 
 resort, but may serve as an out in some situations, we are ready 
 to get started:
@@ -39,15 +45,17 @@ We'll focus on playing around/through hate later.
 
 Consider the following (intentionally) bad example: You cast 
 Doomsday, but lack a draw effect and therefore build:
+
 ```
--> IU, LED, LED, GP, BW(ToA)         UU (2)      6 Storm
+-> AoI, LED, LED, GP, BW(ToA)         R2 (3)      6 Storm
 ```
-Next turn, for only UU you can draw and cast Ideas Unbound, followed 
+
+Next turn, for only R2 you can draw and cast Act on Impulse, followed 
 by 2 Lion's Eye Diamonds and Gitaxian Probe into Burning Wish for 
 Tendrils of Agony for 6 storm. Although the mana cost of this 
 procedure is very low, the storm count is a bit of a disappointment. 
 Fortunately, it's easy to increase the storm count from this point 
-on. If you have 1 more mana you can build IU, LED, GP, CB, BW as a 
+on. If you have 1 more mana you can build AoI, BW, GP, CB, LED as a 
 pile for 7 storm for example. Together with some cards in hand to 
 play out and some self-inflicted damage from your opponent's 
 fetchlands, that might just be enough.
@@ -55,35 +63,38 @@ fetchlands, that might just be enough.
 There are however some more solid ways of winning the game even after 
 passing the turn, that still work if passing the turn is primarily an 
 anti-discard plan. The ones I will talk about in more detail are 
-using Laboratory Maniac, Time Spiral, and Doomsday.
+using Laboratory Maniac, Time Spiral, Double Doomsday, Conjurer's
+Bauble and Shelldock Isle piles. All of these will be broached upon in
+greater detail later in the Codex.
 
-## Pass the turn piles with Laboratory Maniac
+## Pass the turn Laboratory Maniac piles
 
 Laboratory Maniac enables some very mana efficient pass the turn piles 
 that may offer an out in situations where no other lethal pile would. 
 When you have no other cards in hand or play, for example because you've 
 used Lion's Eye Diamond to pay for Doomsday, the simplest piles are:
+
 ```
 -> IU, CB, LED, GP, LM              1UU (3)     2 life
--> TW, LED, GP, GP, LM              1UU (3)     4 life
+-> AoI, LED, GP, GP, LM             R2  (3)     4 life
 ```
 
 The following piles are even cheaper for when you have an extra draw
 effect or a LED.
 
 ```
-LED:
--> GP, IU, CB, DR, LM               B           2 life
--> GP, [TW/AoI], LED, GP, LM          0         4 life
+LED in play:
+-> GP, IU, CB, DR, LM               B (1)          2 life
+-> GP, [TW/AoI], LED, GP, LM        0 (1)          4 life
 
 GP in hand:
--> LED, IU, DR, CB, LM              B           2 life
--> LED, IU, LP, GP, LM              1           4 life
--> LED, [TW/AoI], LED, GP, LM         0         4 life
+-> LED, IU, DR, CB, LM              B (1)          2 life
+-> LED, IU, LP, GP, LM              1 (1)          4 life
+-> LED, [TW/AoI], LED, GP, LM       0 (1)          4 life
 
 CB in play:
--> LED, IU, DR, CB, LM              B           0 life
--> LED, [TW/AoI], LED, GP, LM       0           2 life
+-> LED, IU, DR, CB, LM              B (1)          0 life
+-> LED, [TW/AoI], LED, GP, LM       0 (0)          2 life
 ```
 
 Instead of using Lion's Eye Diamond to pay for Ideas Unbound we can also 
@@ -107,11 +118,26 @@ I've listed Silence because of its distinct mana cost, but you can
 obviously replace the Silence with any other card. Examples are Duress, 
 Karakas, or perhaps even a Massacre.
 
+One very nice pile to build, especially with an uncracked fetchland in hand
+or in play post DD is the following:  
+
+```
+Fetchland available, PTT.
+-> AoI, LM, LED, GP, Fetchable R source    R2 (3)     2 life
+```
+
+In this example you cast DD and pass the turn. You draw AoI for your turn.
+You then use your fetchland to find the R source (or just 3rd mana to cast AoI
+with) to cast it. This allows both casting of AoI and thinning of your five
+card library into a three card library. This then means that LM, LED and GP become
+a win. This pile can also be resistant to an opponent possibly thinking of casting
+a Surgical Extraction in response to the "Draw in" spell (in this case AoI).  
+
 For all Laboratory Maniac pass the turn piles, you can replace the 
 card that draws from an empty library in the Doomsday pile with 
 Chromatic Sphere and increase the mana cost accordingly.
 
-## Time Spiral Pass the Turn Piles
+## Pass the Turn Time Spiral Piles
 
 The cost listed in square brackets [..] is assumingly paid for by the 
 lands that are untapped by Time Spiral.
@@ -174,7 +200,7 @@ CB in play + IU in hand:
 -> LED, LED, LED, BW(TSP), BW(ToA)      UU+[1] (2)      12 Storm
 ```
 
-## Double-Doomsday Pass the Turn Piles
+## Pass the Turn Double-Doomsday Piles
 
 Compared to Time Spiral pass the turn piles, these are more expensive in 
 terms of life, but have different requirements in terms of mana and 
@@ -230,6 +256,19 @@ CB targeting the CB in the graveyard and loop them playing them again and again
 until we only have BBBB in our mana pool. In this base example this is for three 
 loops (6,7,8). We can then use the final one to target ToA and cast it for 9 storm.
 
+## Pass the Turn Shelldock Isle piles
+
+Shelldock Isle is a very, potentially, powerful tool in our aresenal. It allows for
+pass the turn play lines which, after the initial DD, do not need to cast a spell
+that can be countered. It also allows the building of resilient piles whereby you
+can have multiple threats present such as Shelldock Isle (allowing the casting of
+Emrakul, the Aeons Torn), LM and even another DD for redundancy/as a 'reset'.
+
+Example:  
+```
+PTT:
+-> SI, LM, Emrakul, DD, X                0 (0)
+```
 
 ## Summary   
 
