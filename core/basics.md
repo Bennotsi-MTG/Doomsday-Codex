@@ -71,8 +71,8 @@ There are some key rules you can use to help remember things like storm count.
 If the intended pile is meant to win without passing the turn then you always
 have 1 storm to begin with from Doomsday itself. Additionally if you plan on
 casting all cards used in the Doomsday pile then you get to add 5 storm from
-that. Breaking down the cards sets of pre-pile, pile and wish targets helps the
-mind easily compute what storm count you will end up with a certain line of
+that. Breaking down the card sets of pre-pile, pile and wish targets helps the
+mind easily compute what storm count you will end up with from a certain line of
 play.
 
 ### Single cantrip piles
@@ -130,12 +130,12 @@ GP in hand.
 This pile costs BBB+1UU and 4 life and results in 8 storm, which is 16 lifeloss.
 Like with Ideas Unbound, the mana cost for the draw spell (1UU) can be - and
 often is - paid for by a Lion's Eye Diamond in response to the first GP. The
-most important difference is that Three Wishes not actually draws but exiles the
-cards. This means that Lion's Eye Diamond's activation cost will not affect your
-ability to cast the cards 'drawn' with Three Wishes. If you are low on life can
-also build -> TW, LED, LED, BW, X and directly 'draw' Burning Wish with Three
-Wishes, this will produce once less storm however it does let you 'hide' a card
-in your Doomsday stack from your opponent.
+most important difference is that Three Wishes does not actually draw but exiles
+the cards. This means that Lion's Eye Diamond's activation cost will not affect
+your ability to cast the cards 'drawn' with Three Wishes. If you are low on
+life, you can also build -> TW, LED, LED, BW, X and directly 'draw' Burning Wish
+with Three Wishes. This will produce one less storm however it does let you
+'hide' a card in your Doomsday stack from your opponent.
 
 ### Double cantrip piles
 
@@ -194,8 +194,8 @@ strictly speaking we only needed TW, LED, LED, BW in our single cantrip pile.
 Meaning that if we shift this 4 card pile to the bottom, we can put any card on
 top. In this case we put a Lion's Eye Diamond on top, which we draw with
 Gitaxian Probe. The Lion's Eye Diamond then pays for the Three Wishes, which
-exiles the other two LEDs and the Burning Wish we need to produce mana and wish
-for and cast Tendrils.
+exiles the other two LEDs and the Burning Wish we need to produce mana, wish for
+Tendrils of Agony and cast it.
 
 ## Variations
 
@@ -211,7 +211,7 @@ during the play line.
 
 The most important part of learning how to cast Doomsday, is to think how you
 would like to cast a lethal Tendrils of Agony, and then think of the cards
-you'll need to get there. Doomsday is essentially a 5 card tutor.
+you'll need to get there. Doomsday is essentially a 5 cards tutor.
 
 The trick is to try not to think of the specifics too much. Try to break
 everything down into resources. The key ones are the cards you hold in hand, the
@@ -229,7 +229,7 @@ different mana costs and storm counts.
 
 ## Summary
 
-1. You generally need a card to draw or exile you three cards into your stack.
+1. You generally need a card to draw or exile three cards into your stack.
 2. Lethal storm via Tendrils of Agony is the most common win condition for the
    deck.
 3. Holding priority when cantripping with LED in play is key, make sure to get
@@ -241,7 +241,7 @@ You now have sufficient information to start practicing! Just take a proven
 decklist and start goldfishing trying to figure out what piles to build and how
 to execute them. There are several documents available that list Doomsday piles
 which you can use to get to know more piles. These are very important tools when
-learning to how play the deck.  
+learning how to play the deck.  
 See the [DDFT Pile Document] for a more basic list of different piles.
 
 [DDFT Pile Document]: https://github.com/Bennotsi-MTG/ddft-pileDoc/blob/master/README.md
