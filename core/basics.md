@@ -6,7 +6,7 @@ the piles that you will execute most frequently and likely win most of your
 games with.
 
 There will however, be times where you will build piles that win with Laboratory
-Maniac, or build up a higher storm count with a Time Spiral or double-Doomsday
+Maniac, or build up a higher Storm count with a Time Spiral or double-Doomsday
 pile, or build a pile that plays around Pyroblast on one of your draw spells, or
 even optimize for the highest probability of being successful against a Surgical
 Extraction in your opponent's hand.
@@ -53,7 +53,7 @@ Consider the following example of a Doomsday pile in this notation:
 
 This means that IU is the top card and BW is the bottom card. BBB+1UU represents
 the mana cost, (6) is the total converted mana cost required to complete the
-pile. 8 Storm represents the amount of storm that executing this pile will
+pile. 8 Storm represents the amount of Storm that executing this pile will
 generate, this includes the Doomsday you've cast to create this pile as well as
 the Tendrils of Agony (including the non-copy original spell) at the end of the
 pile. The original Tendrils is included for simplicity, because we simply count
@@ -67,15 +67,15 @@ The Doomsday piles that we will explain here are all based on using either Ideas
 Unbound or Three Wishes as the big draw spell. We will first consider the single
 cantrip piles, followed by the double cantrip piles.
 
-There are some key rules you can use to help remember things like storm count.
+There are some key rules you can use to help remember things like Storm count.
 If the intended pile is meant to win without passing the turn then you always
-have 1 storm to begin with from Doomsday itself. Additionally if you plan on
-casting all cards used in the Doomsday pile then you get to add 5 storm from
+have 1 Storm to begin with from Doomsday itself. Additionally if you plan on
+casting all cards used in the Doomsday pile then you get to add 5 Storm from
 that. Breaking down the cards sets of pre-pile, pile and wish targets helps the
-mind easily compute what storm count you will end up with a certain line of
+mind easily compute what Storm count you will end up with a certain line of
 play.
 
-### Single cantrip piles
+### Single Cantrip Piles
 
 There are basically two variants to this pile. You either have a spell that
 draws a single card in hand ready to cast, or a Conjurer's Bauble in play. For
@@ -98,10 +98,10 @@ GP in hand.
 7. Cast BW targeting ToA
 8. Cast ToA
 
-This pile has cost you BBB+UU and 4 life and results in 8 storm, that is 16
+This pile has cost you BBB+UU and 4 life and results in 8 Storm, that is 16
 lifeloss. Note that UU is often paid for by a Lion's Eye Diamond. With a Dark
 Ritual (to cast Doomsday) and a Lion's Eye Diamond preceding the Doomsday you
-already generate enough storm to cause 20 lifeloss. If you are low on life
+already generate enough Storm to cause 20 lifeloss. If you are low on life
 you'll need more mana to cast GP for mana instead of life.
 
 As for the remarks about priority in step 6, It's best to announce that you
@@ -127,17 +127,17 @@ GP in hand.
 7. Cast BW targeting ToA
 8. Cast ToA
 
-This pile costs BBB+1UU and 4 life and results in 8 storm, which is 16 lifeloss.
+This pile costs BBB+1UU and 4 life and results in 8 Storm, which is 16 lifeloss.
 Like with Ideas Unbound, the mana cost for the draw spell (1UU) can be - and
 often is - paid for by a Lion's Eye Diamond in response to the first GP. The
 most important difference is that Three Wishes not actually draws but exiles the
 cards. This means that Lion's Eye Diamond's activation cost will not affect your
 ability to cast the cards 'drawn' with Three Wishes. If you are low on life can
 also build -> TW, LED, LED, BW, X and directly 'draw' Burning Wish with Three
-Wishes, this will produce once less storm however it does let you 'hide' a card
+Wishes, this will produce once less Storm however it does let you 'hide' a card
 in your Doomsday stack from your opponent.
 
-### Double cantrip piles
+### Double Cantrip Piles
 
 *Ideas Unbound*
 
@@ -155,9 +155,9 @@ GP, GP in hand.
 7. Cast LED
    - Crack LP for R
 8. Cast BW targeting ToA, hold priority crack LED for BBB
-9. Cast ToA for 9 storm.
+9. Cast ToA for 9 Storm.
 
-This pile has cost only BBB+1 and 4 life to execute and results in 9 storm,
+This pile has cost only BBB+1 and 4 life to execute and results in 9 Storm,
 which is 18 lifeloss. This pile is quite efficient when it comes to mana. We use
 the additional cantrip to draw a Lion's Eye Diamond before executing the rest of
 the pile and use that Lion's Eye Diamond to pay for much of the rest of the
@@ -187,9 +187,9 @@ GP, GP in hand.
 7. Cast LED
    - Crack LEDs for BBB RRR
 8. Cast BW targeting ToA
-9. Cast ToA for 9 storm.
+9. Cast ToA for 9 Storm.
 
-This pile is very efficient at BBB and 4 life for 9 storm. The key idea is that,
+This pile is very efficient at BBB and 4 life for 9 Storm. The key idea is that,
 strictly speaking we only needed TW, LED, LED, BW in our single cantrip pile.
 Meaning that if we shift this 4 card pile to the bottom, we can put any card on
 top. In this case we put a Lion's Eye Diamond on top, which we draw with
@@ -206,7 +206,7 @@ Ponder, or simply use blue mana to pay for it rather than 2 life. Also, since
 Act on Impulse and Three Wishes function very similarly, all piles involving
 Three Wishes can be executed with Act on Impulse all the same, except for a
 different mana cost. The use of Conjurer's Bauble to draw into the piles allows
-for lower mana or life costs but does result in less storm being generated
+for lower mana or life costs but does result in less Storm being generated
 during the play line.
 
 The most important part of learning how to cast Doomsday, is to think how you
@@ -225,12 +225,12 @@ to draw some cards and put some other cards back. This particular trick allows
 you to exchange cards in hand with cards that you've tutored up with Doomsday.
 As you can imagine this results in a large number of combinations of
 Brainstorm + some other cards in hand that enable different Doomsday piles for
-different mana costs and storm counts.
+different mana costs and Storm counts.
 
 ## Summary
 
 1. You generally need a card to draw or exile you three cards into your stack.
-2. Lethal storm via Tendrils of Agony is the most common win condition for the
+2. Lethal Storm via Tendrils of Agony is the most common win condition for the
    deck.
 3. Holding priority when cantripping with LED in play is key, make sure to get
    into this habit.
