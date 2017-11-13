@@ -111,31 +111,34 @@ waited too long between announcing the spell and stating that you want to hold
 priority after casting it. This may be a bit overly cautious, but there's no
 harm and in this way you can avoid discussions during tournament play.
 
-*Three Wishes*
+*Act on Impulse*
 
 ```
 GP in hand.
--> TW, LED, GP, LED, BW(ToA)                BBB+1UU (6)   8 Storm
+-> AoI, LED, GP, LED, BW(ToA)               BBB+R2 (6)   8 Storm
 ```
 
-1. Cast Doomsday build: [TW, LED, LED, GP, BW]
-2. Cast GP, draw (TW)
-3. Cast TW, exile (LED, LED, GP)
+1. Cast Doomsday build: [AoI, LED, LED, GP, BW]
+2. Cast GP, draw (AoI)
+3. Cast AoI, exile (LED, LED, GP)
 4. Cast LED
 5. Cast LED
 6. Cast GP, hold priority crack LEDs for BBB+RRR, draw (BW)
 7. Cast BW targeting ToA
 8. Cast ToA
 
-This pile costs BBB+1UU and 4 life and results in 8 storm, which is 16 lifeloss.
-Like with Ideas Unbound, the mana cost for the draw spell (1UU) can be - and
+This pile costs BBB+R2 and 4 life and results in 8 storm, which is 16 lifeloss.
+Like with Ideas Unbound, the mana cost for the draw spell (R2) can be - and
 often is - paid for by a Lion's Eye Diamond in response to the first GP. The
-most important difference is that Three Wishes not actually draws but exiles the
+most important difference is that Act on Impulse not actually draws but exiles the
 cards. This means that Lion's Eye Diamond's activation cost will not affect your
-ability to cast the cards 'drawn' with Three Wishes. If you are low on life can
-also build -> TW, LED, LED, BW, X and directly 'draw' Burning Wish with Three
+ability to cast the cards 'drawn' with Act on Impulse. If you are low on life can
+also build -> AoI, LED, LED, BW, X and directly 'draw' Burning Wish with Three
 Wishes, this will produce once less storm however it does let you 'hide' a card
 in your Doomsday stack from your opponent.
+
+Something key to note is any instance of AoI can be replaced with TW by simply changing
+any associated costs from R2 to UU1.
 
 ### Double cantrip piles
 
@@ -171,18 +174,18 @@ Lotus Petal, which together with one blue mana left from the first Lion's Eye
 Diamond pays for the Burning Wish. The second Lion's Eye Diamond is sacrificed
 for three black mana and pays for all but 1 mana of Tendrils of Agony.
 
-*Three Wishes*
+*Act on Impulse
 
 ```
 GP, GP in hand.
--> LED, TW, LED, LED, BW(ToA)                BBB+0 (3)   9 Storm
+-> LED, AoI, LED, LED, BW(ToA)                BBB+0 (3)   9 Storm
 ```
 
-1. Cast Doomsday build: [LED, TW, LED, LED, BW]
+1. Cast Doomsday build: [LED, AoI, LED, LED, BW]
 2. Cast GP, draw (LED)
 3. Cast LED
-4. Cast GP, hold priority crack LED for UUU, draw (TW)
-5. Cast TW, exile (LED, LED, BW)
+4. Cast GP, hold priority crack LED for UUU, draw (AoI)
+5. Cast AoI, exile (LED, LED, BW)
 6. Cast LED
 7. Cast LED
     - Crack LEDs for BBB RRR
@@ -190,10 +193,10 @@ GP, GP in hand.
 9. Cast ToA for 9 storm.
 
 This pile is very efficient at BBB and 4 life for 9 storm. The key idea is that,
-strictly speaking we only needed TW, LED, LED, BW in our single cantrip pile.
+strictly speaking we only needed AoI, LED, LED, BW in our single cantrip pile.
 Meaning that if we shift this 4 card pile to the bottom, we can put any card on
 top. In this case we put a Lion's Eye Diamond on top, which we draw with
-Gitaxian Probe. The Lion's Eye Diamond then pays for the Three Wishes, which
+Gitaxian Probe. The Lion's Eye Diamond then pays for the AoI, which
 exiles the other two LEDs and the Burning Wish we need to produce mana and wish
 for and cast Tendrils.
 
@@ -204,7 +207,7 @@ There are many variations of each pile and it doesn't really make sense to list
 them all. In each of the above piles you may replace Gitaxian Probe with a
 Ponder, or simply use blue mana to pay for it rather than 2 life. Also, since
 Act on Impulse and Three Wishes function very similarly, all piles involving
-Three Wishes can be executed with Act on Impulse all the same, except for a
+Act on Impulse can be executed with Three Wishes all the same, except for a
 different mana cost. The use of Conjurer's Bauble to draw into the piles allows
 for lower mana or life costs but does result in less storm being generated
 during the play line.
@@ -243,5 +246,6 @@ to execute them. There are several documents available that list Doomsday piles
 which you can use to get to know more piles. These are very important tools when
 learning to how play the deck.  
 See the [DDFT Pile Document] for a more basic list of different piles.
+For some "Proven" decklists check out some lists [HERE](http://tcdecks.net/archetype.php?archetype=Doomsday&format=Legacy).
 
 [DDFT Pile Document]: https://github.com/Bennotsi-MTG/ddft-pileDoc/blob/master/README.md
