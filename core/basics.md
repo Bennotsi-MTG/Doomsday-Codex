@@ -20,21 +20,21 @@ when writing down piles.
 
 | Shorthand | Cardname           |
 | --------- | ------------------ |
-| TW        | Three Wishes       |
 | AoI       | Act on Impulse     |
-| IU        | Ideas Unbound      |
-| LED       | Lion's Eye Diamond |
-| GP        | Gitaxian Probe     |
-| BW        | Burning Wish       |
-| ToA       | Tendrils of Agony  |
-| LM        | Laboratory Maniac  |
 | BS        | Brainstorm         |
-| P         | Ponder             |
-| LP        | Lotus Petal        |
+| BW        | Burning Wish       |
+| CB        | Conjurer's Bauble  |
 | DD        | Doomsday           |
 | DR        | Dark Ritual        |
+| GP        | Gitaxian Probe     |
 | IC        | Infernal Contract  |
-| CB        | Conjurer's Bauble  |
+| IU        | Ideas Unbound      |
+| LED       | Lion's Eye Diamond |
+| LM        | Laboratory Maniac  |
+| LP        | Lotus Petal        |
+| P         | Ponder             |
+| TW        | Three Wishes       |
+| ToA       | Tendrils of Agony  |
 
 Mana costs are represented as follows:  
 W White - U Blue - B Black - R Red - G Green  
