@@ -51,8 +51,8 @@ Consider the following example of a Doomsday pile in this notation:
 -> IU, LED, GP, LED, BW(ToA)                BBB+UU (5)   8 Storm
 ```
 
-This means that IU is the top card and BW is the bottom card. BBB+1UU represents
-the mana cost, (6) is the total converted mana cost required to complete the
+This means that IU is the top card and BW is the bottom card. BBB+UU represents
+the mana cost, (5) is the total converted mana cost required to complete the
 pile. 8 Storm represents the amount of storm that executing this pile will
 generate, this includes the Doomsday you've cast to create this pile as well as
 the Tendrils of Agony (including the non-copy original spell) at the end of the
@@ -143,7 +143,7 @@ in your Doomsday stack from your opponent.
 
 ```
 GP, GP in hand.
--> LED, IU, LP, LED, BW(ToA)                BBB+2 (5)   9 Storm
+-> LED, IU, LP, LED, BW(ToA)                BBB+1 (4)   9 Storm
 ```
 
 1. Cast Doomsday build: [LED, IU, LP, LED, BW]
@@ -175,7 +175,7 @@ for three black mana and pays for all but 1 mana of Tendrils of Agony.
 
 ```
 GP, GP in hand.
--> LED, TW, LED, LED, BW(ToA)                BBB+0 (3)   9 Storm
+-> LED, TW, LED, LED, BW(ToA)                BBB (3)   9 Storm
 ```
 
 1. Cast Doomsday build: [LED, TW, LED, LED, BW]
