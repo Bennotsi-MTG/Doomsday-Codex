@@ -20,21 +20,21 @@ when writing down piles.
 
 | Shorthand | Cardname           |
 | --------- | ------------------ |
-| TW        | Three Wishes       |
 | AoI       | Act on Impulse     |
-| IU        | Ideas Unbound      |
-| LED       | Lion's Eye Diamond |
-| GP        | Gitaxian Probe     |
-| BW        | Burning Wish       |
-| ToA       | Tendrils of Agony  |
-| LM        | Laboratory Maniac  |
 | BS        | Brainstorm         |
-| P         | Ponder             |
-| LP        | Lotus Petal        |
+| BW        | Burning Wish       |
+| CB        | Conjurer's Bauble  |
 | DD        | Doomsday           |
 | DR        | Dark Ritual        |
+| GP        | Gitaxian Probe     |
 | IC        | Infernal Contract  |
-| CB        | Conjurer's Bauble  |
+| IU        | Ideas Unbound      |
+| LED       | Lion's Eye Diamond |
+| LM        | Laboratory Maniac  |
+| LP        | Lotus Petal        |
+| P         | Ponder             |
+| TW        | Three Wishes       |
+| ToA       | Tendrils of Agony  |
 
 Mana costs are represented as follows:  
 W White - U Blue - B Black - R Red - G Green  
@@ -48,18 +48,19 @@ X means a variable amount of any generic mana
 Consider the following example of a Doomsday pile in this notation:
 
 ```
+GP in hand.
 -> IU, LED, GP, LED, BW(ToA)                BBB+UU (5)   8 Storm
 ```
 
-This means that IU is the top card and BW is the bottom card. BBB+1UU represents
-the mana cost, (6) is the total converted mana cost required to complete the
-pile. 8 Storm represents the amount of Storm that executing this pile will
+This means that IU is the top card and BW is the bottom card. BBB+UU represents
+the mana cost, (5) is the total converted mana cost required to complete the
+pile. 8 Storm represents the amount of storm that executing this pile will
 generate, this includes the Doomsday you've cast to create this pile as well as
-the Tendrils of Agony (including the non-copy original spell) at the end of the
-pile. The original Tendrils is included for simplicity, because we simply count
-to ten if we want to cause 20 lifeloss. I will frequently leave out the wish
-target for BW at the end of the pile, because it is obvious that it is used for
-Tendrils of Agony.
+the Gitaxian Probe and the Tendrils of Agony (including the non-copy original
+spell) at the end of the pile. The original Tendrils is included for simplicity,
+because we simply count to ten if we want to cause 20 lifeloss. I will
+frequently leave out the wish target for BW at the end of the pile, because it
+is obvious that it is used for Tendrils of Agony.
 
 ## Basic Doomsday Piles
 
@@ -80,7 +81,8 @@ play.
 There are basically two variants to this pile. You either have a spell that
 draws a single card in hand ready to cast, or a Conjurer's Bauble in play. For
 the moment, the difference does not really matter and we'll just assume that you
-have a GP in hand.
+have a castable GP in hand, either with 2 life or by taking into account the
+extra U cost.
 
 *Ideas Unbound*
 
@@ -101,8 +103,8 @@ GP in hand.
 This pile has cost you BBB+UU and 4 life and results in 8 Storm, that is 16
 lifeloss. Note that UU is often paid for by a Lion's Eye Diamond. With a Dark
 Ritual (to cast Doomsday) and a Lion's Eye Diamond preceding the Doomsday you
-already generate enough Storm to cause 20 lifeloss. If you are low on life
-you'll need more mana to cast GP for mana instead of life.
+already generate enough storm to cause 20 lifeloss. If you are low on life
+you'll need more mana to cast GP with actual mana instead of life.
 
 As for the remarks about priority in step 6, It's best to announce that you
 would like to hold priority when casting the next spell, before you actually
@@ -133,8 +135,8 @@ often is - paid for by a Lion's Eye Diamond in response to the first GP. The
 most important difference is that Three Wishes not actually draws but exiles the
 cards. This means that Lion's Eye Diamond's activation cost will not affect your
 ability to cast the cards 'drawn' with Three Wishes. If you are low on life can
-also build -> TW, LED, LED, BW, X and directly 'draw' Burning Wish with Three
-Wishes, this will produce once less Storm however it does let you 'hide' a card
+also build [TW, LED, LED, BW, X] and directly 'draw' Burning Wish with Three
+Wishes, this will produce once less storm however it does let you 'hide' a card
 in your Doomsday stack from your opponent.
 
 ### Double Cantrip Piles
@@ -143,7 +145,7 @@ in your Doomsday stack from your opponent.
 
 ```
 GP, GP in hand.
--> LED, IU, LP, LED, BW(ToA)                BBB+2 (5)   9 Storm
+-> LED, IU, LP, LED, BW(ToA)                BBB+1 (4)   9 Storm
 ```
 
 1. Cast Doomsday build: [LED, IU, LP, LED, BW]
@@ -175,7 +177,7 @@ for three black mana and pays for all but 1 mana of Tendrils of Agony.
 
 ```
 GP, GP in hand.
--> LED, TW, LED, LED, BW(ToA)                BBB+0 (3)   9 Storm
+-> LED, TW, LED, LED, BW(ToA)                BBB (3)   9 Storm
 ```
 
 1. Cast Doomsday build: [LED, TW, LED, LED, BW]
