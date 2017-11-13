@@ -174,7 +174,7 @@ Lotus Petal, which together with one blue mana left from the first Lion's Eye
 Diamond pays for the Burning Wish. The second Lion's Eye Diamond is sacrificed
 for three black mana and pays for all but 1 mana of Tendrils of Agony.
 
-*Act on Impulse
+*Act on Impulse*
 
 ```
 GP, GP in hand.
