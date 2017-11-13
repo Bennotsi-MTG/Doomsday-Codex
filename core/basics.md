@@ -84,7 +84,7 @@ the moment, the difference does not really matter and we'll just assume that you
 have a castable GP in hand, either with 2 life or by taking into account the
 extra U cost.
 
-*Ideas Unbound*
+#### Ideas Unbound
 
 ```
 GP in hand.
@@ -113,7 +113,7 @@ waited too long between announcing the spell and stating that you want to hold
 priority after casting it. This may be a bit overly cautious, but there's no
 harm and in this way you can avoid discussions during tournament play.
 
-*Three Wishes*
+#### Three Wishes
 
 ```
 GP in hand.
@@ -141,7 +141,7 @@ in your Doomsday stack from your opponent.
 
 ### Double cantrip piles
 
-*Ideas Unbound*
+#### Ideas Unbound
 
 ```
 GP, GP in hand.
@@ -173,7 +173,7 @@ Lotus Petal, which together with one blue mana left from the first Lion's Eye
 Diamond pays for the Burning Wish. The second Lion's Eye Diamond is sacrificed
 for three black mana and pays for all but 1 mana of Tendrils of Agony.
 
-*Three Wishes*
+#### Three Wishes
 
 ```
 GP, GP in hand.
