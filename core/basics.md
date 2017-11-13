@@ -115,7 +115,7 @@ harm and in this way you can avoid discussions during tournament play.
 
 ```
 GP in hand.
--> AoI, LED, GP, LED, BW(ToA)               BBB+R2 (6)   8 Storm
+-> AoI, LED, GP, LED, BW(ToA)               BBB+2R (6)   8 Storm
 ```
 
 1. Cast Doomsday build: [AoI, LED, LED, GP, BW]
@@ -127,8 +127,8 @@ GP in hand.
 7. Cast BW targeting ToA
 8. Cast ToA
 
-This pile costs BBB+R2 and 4 life and results in 8 storm, which is 16 lifeloss.
-Like with Ideas Unbound, the mana cost for the draw spell (R2) can be - and
+This pile costs BBB+2R and 4 life and results in 8 storm, which is 16 lifeloss.
+Like with Ideas Unbound, the mana cost for the draw spell (2R) can be - and
 often is - paid for by a Lion's Eye Diamond in response to the first GP. The
 most important difference is that Act on Impulse not actually draws but exiles the
 cards. This means that Lion's Eye Diamond's activation cost will not affect your
@@ -138,7 +138,7 @@ Wishes, this will produce once less storm however it does let you 'hide' a card
 in your Doomsday stack from your opponent.
 
 Something key to note is any instance of AoI can be replaced with TW by simply changing
-any associated costs from R2 to UU1.
+any associated costs from 2R to 1UU.
 
 ### Double cantrip piles
 
