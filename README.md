@@ -29,25 +29,35 @@ This repository, and all of its contents, is licensed under
 
 # Table of Contents
 
-Part 1:  
-[The Basics]()  
-[Brainstorm]()  
-[Laboratory Maniac]()  
-[Pass the Turn piles]()  
+Chapter 1, the Fundamentals:  
+[Basics](/pages-output/ch1/basics)  
+[Brainstorm in Doomsday](/pages-output/ch1/brainstorm)  
+[Laboratory Maniac](/pages-output/ch1/laboratory-maniac)  
+[Pass the Turn](/pages-output/ch1/pass-the-turn)  
 
-Part 2:  
-[Double Doomsday Piles]()  
-[Time Spiral Piles]()  
-[Shelldock Isle + Emrakul]()  
-[Conjurer's Bauble]()  
+Chapter 2, Supplementary Techniques:  
+[Double Doomsday Piles](/pages-output/ch2/double-doomsday)   
+[Time Spiral Piles](/pages-output/ch2/doomsday-timespiral)    
+[Conjurer's Bauble](/pages-output/ch2/cb-piles)  
+[Shelldock Isle/Emrakul](/pages-output/ch2/shelldock-emrakul)  
 
-Part 3:  
-[Removal]()  
-[Surgical Extraction]()  
 
-Part 4:  
-[Sideboarding]()  
-[Matchup Specifics]()  
+Chapter 3, Limitations:  
+[Playing Around Surgical](/pages-output/ch3/surgical)  
 
-Part 5:  
-[Deck History]()  
+Chapter 4, Deck Construction:  
+Under Construction  
+
+Chapter 5, Gameplay Strategies:  
+Under Construction  
+
+Chapter 6, Puzzles:  
+Under Construction  
+
+Chapter 7, Miscellaneous:  
+Under Construction  
+
+Appendices:  
+I. [Pile Document](/pages-output/appendix/pile-doc)  
+II. Puzzle answers (Under Construction)  
+III. Sample Decklists (Under Construction)
