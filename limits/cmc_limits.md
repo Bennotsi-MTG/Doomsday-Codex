@@ -10,6 +10,11 @@ the relevancy these cards have against us and some strategies to face them.
 For each value examples will be given on what hate you might face and how to 
 get around the listed limitation.
 
+In addition to these 'work around' piles, we'll also discuss the catch all
+requirements for removing these restrictive permanents. As some numbers being
+named restrict certain removal cards, it's good to have at least two available
+to allow yourself an out for these card if you were to face them.
+
 ## 0 Cost spells
 
 In terms of 0 costs spells we have two main ones that are played. Lion's
@@ -40,6 +45,11 @@ are aiming for a LM pile you need U to help cast him. As all our cantrips are no
 affected we can still easliy draw into what we need. If you happen to be playing with maindeck
 ToA then you don't need to worry about these additional colour requirements but
 for most DDFT lists you do.
+
+CMC 0 basically only stops Engineered Explosives in terms of cards we can bring in
+to fight it. Anything else such as By Force, Hurkyl's Recall or similar can all deal
+with a chalice on 0 with no issue and similarly, Massacre, Abrupt Decay, Pyroclasm
+can all easily deal with Sanctum Prelate.
 
 ## 1 Cost spells
 
@@ -75,7 +85,12 @@ BW(IC) in hand, CB in play:
 -> LED, LED, LP, LP, BW               BBB+2R   (6)  9 Storm
 ```
 
-#### 2 Cost spells
+In terms of removal there is very little actually limited here. Only Chain of Vapor
+or Void Snare are affected here. This is where By Force shines over some other artifact
+removal as casting By Force with X = 1 means that it becomes a CMC 2 card that then allows
+you to destroy a single Chalice set to 1.
+
+## 2 Cost spells
 
 This is less likely to be faced in terms of Chalice of the Void but significant in that
 it includes playing around Spell Snare, a semi common card in many Ux decks. The main things
@@ -87,7 +102,7 @@ ToA.
 As you can see this is already a fairly straightforwards limitation to get around so I won't
 include any examples for it.
 
-#### 3 Cost spells
+## 3 Cost spells
 
 Congratulations to whomever has cast their Chalice on 4 or more however that is more than
 likely not what has happened. Instead it's probably a Sanctum Prelate on 
@@ -95,7 +110,7 @@ the opposing battlefield. Prelate is a little more tricky as that can lock off y
 (DD, AoI, TW, IC) which can make going off with our namesake spell difficult but not impossible. 
 Thankfully Prelate is a 3 drop itself and therefore a little bit slower to come down. 
 
-#### 4 Cost spells
+## 4 Cost spells
 
 In this category we introduce, in addition to Prelate and Chalice, Gaddock Teeg
 as another limitation permanent we could face. The main thing here is that this
