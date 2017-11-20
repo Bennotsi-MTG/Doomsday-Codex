@@ -115,13 +115,20 @@ misplaying Surgicals as a result of not being used to facing DDFT.
 If they do have a Surgical still and you need to combo off there are some piles or 
 circumstances that will facilitate this in addition to the examples mentioned at the start. 
 
+This pile is already touched upon in [CB_Piles](http://ddft.wiki/pages-output/cb-piles/).  
+
+Let us look at the following example:  
+
 Example:
 ```
-CB in play. Cantrip in hand:
--> AoI/TW, LED, LED, GP, BW              BBB+R2    (6)    8 Storm
+CB in play+GP:
+-> AoI, LED, LED, GP, BW                  BBB+2R (6)         8 Storm
 ```
 
-This pile is already touched upon in [CB_Piles](http://ddft.wiki/pages-output/cb-piles/).   
+If they cast Surgical in response to GP, you can use CB to send the target back into 
+the deck. If they cast it in response to AoI you can do the same trick. Once AoI
+has resolved, it does not matter if they cast Surgical as we have one card left in 
+our Library and no copies of it to extract in the Graveyard.   
 No matter when they play Surgical post DD here, you can respond and negate 
 its efficacy.
 
