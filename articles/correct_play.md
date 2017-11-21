@@ -40,11 +40,22 @@ by different people, to help highlight how different people think and to
 hopefully provide meaningful examples that give lessons others can take
 away and apply to their own play.
 
-In this first ritual meeting we have two members of the super-secret-shadowy-Doomsday-cabal* (TM)
-d8dk32 and Doishy playing through some games of an MTGO league.
+In this first ritual meeting we have two members of the super-secret-shadowy-Doomsday-cabal (TM)*   
+d8dk32 and Doishy playing through some games of an MTGO league. The league began
+with a 1-2 start against Czech Pile  and it's the day after starting with Match 2 that
+we begin.  
+
+It's d8dk32 who is playing and the list he is on is here:
+
+[LIST IMAGE]()
 
 
-`*`*super-secret-shadowy-Doomsday-cabal (TM) might not exist....*
+
+
+`*`*super-secret-shadowy-Doomsday-cabal (TM) might not exist....*  
+
+
+
 Scenario:
 
 1. On the play. Opponent leads T1 Verdant, Go. Have option to go off T2 with no Discard. Due to high storm count you have a choice:
@@ -54,6 +65,9 @@ B. Use the spare card to GP to see what they are on
 What is the correct play?
 
 Probably the information. [REASONS]
+
+`make a point about noticing how always SB out Ct for in a TS and discussion thereof`
+`Discuss at some point the line of being able to BW for BW for EtW`
 
 2. Game 2 vs Elves. They have Cradle, Cavern, Wirewood and Quirion Ranger in play. Dryad Arbor and CT in hand. You have an easy
 opening for a PTT LM pile. 
