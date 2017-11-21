@@ -87,8 +87,6 @@ You could build something to utilise the BS in hand? But with a B source they ca
 Correct is to probably Brainstorm in their turn, leave Volc in hand. This resists  Rec sage and the CT if they were to cast it.
 You can then AoI without worry for a R source and win. 
 
-More examples:
 
-T1 on the play vs Flooded Strand.
-
-You have a T1 kill with no protection. Do you jam?
+[Discussion on swapping TS and CT and the observation that led to it]
+[Discussion over boarding in Swarm vs RUG.]
