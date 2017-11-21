@@ -22,9 +22,9 @@ Make our power tears of night."
 "And whose fault is that...?"  
 "Enough! Look, Eye of twilight is the best otherworldly entity that may be willing to grant unholy power that we have currently. So he is what we will reach out to. Understand?"  
 "Fine."  
-"Sure."
-"Okay."
-"Where were we....Eye of twilight, give us sight..."
+"Sure."  
+"Okay."  
+"Where were we....Eye of twilight, give us sight..."  
 
 ...  
 
@@ -40,9 +40,11 @@ by different people, to help highlight how different people think and to
 hopefully provide meaningful examples that give lessons others can take
 away and apply to their own play.
 
+In this first ritual meeting we have two members of the super-secret-shadowy-Doomsday-cabal* (TM)
+d8dk32 and Doishy playing through some games of an MTGO league.
 
-Jon Finkel Quote
 
+`*`*super-secret-shadowy-Doomsday-cabal (TM) might not exist....*
 Scenario:
 
 1. On the play. Opponent leads T1 Verdant, Go. Have option to go off T2 with no Discard. Due to high storm count you have a choice:
