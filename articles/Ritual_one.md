@@ -54,7 +54,11 @@ It's d8dk32 who is playing and the list he is on is here:
 
 `*`*super-secret-shadowy-Doomsday-cabal (TM) might not exist....*  
 
-
+Now instead of doing a full narrative of the league instead we'll focus on some key
+points, decisions and thought processes that occurred whilst we played through. We'll
+also discuss whether the choices we made were correct, well thought out and if they worked.
+Now that we have the longwinded unskippable (I lie you can totally skip ahead) intro cutscene
+done d8dk32 can take it away....
 
 Scenario:
 
