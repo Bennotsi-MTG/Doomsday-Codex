@@ -179,6 +179,9 @@ GP in hand:
 GP + BW(IC):
 -> LED, NC, DR, LP, ToA                 BBB+2RG   (7)  9 Storm
 
+BW+BS in hand, CB in play:
+-> NC, AoI, LED, LED, LED               BBB+UG    (5)  9 Storm
+
 GP + BW(AoI)
 -> LED, NC, LED, GP, ToA                BBB+2RG   (7)  9 Storm
 
