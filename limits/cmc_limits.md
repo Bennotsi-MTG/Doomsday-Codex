@@ -158,10 +158,62 @@ available, need to be considered.
 Teeg also shuts off the use of By Force in the instance that he is used in Tandem with 
 Chalice or Similar (think Aggro Loam) so this could advocate the use of other removal.
 
+## Limitation removal in your piles
 
+Although we have touched on some examples of playing around these limitations and also
+the relative effectiveness of certain removal cards, we haven't discussed simply 
+incorporating these cards into piles to allow us to win. Obviously certain limitations
+will prevent you getting to these piles in the first place but these should still give you
+an idea of how to swap out pile elements for the required removal. For ease of clarity I
+shall present the use of Nature's Claim (NC) for it's unique mana cost of 'G' which you can
+swap out for the appropriate removal spell by substituting the mana cost accordingly.
+
+Examples:  
+
+```
+GP in hand:
+-> IU, LED, GP, NC, ToA                 BBB+1UUG  (7)  7 Storm
+-> TW, LED, GP, NC, ToA                 BBB+2UUG  (8)  7 Storm
+-> AoI, LED, GP, NC, ToA                BBB+3RG   (8)  7 Storm
+
+GP + BW(IC):
+-> LED, NC, DR, LP, ToA                 BBB+2RG   (7)  9 Storm
+
+GP + BW(AoI)
+-> LED, NC, LED, GP, ToA                BBB+2RG   (7)  9 Storm
+
+GP in hand, PTT:
+-> NC, IU, LP, GP, LM                   G+2UU        4 life
+-> NC, TW, LED, GP, LM                  G+1UU        4 life
+-> NC, AoI, LED, GP, LM                 G+2R         4 life
+-> NC, IU, Silence, GP, LM              G+2          4 life
+
+LED, PTT:
+-> GP, IU, NC, GP, LM                   G+2          4 life
+-> GP, AoI, NC, GP, LM                  G+2U         4 life
+```
+
+## Pass the turn Piles using Chain of Vapor
+
+One somewhat unique piece of potential removal for anything not set to preventing 1 CMC spells
+being cast is Chain of Vapor (CoV). This allows you to bounce your own 0 cost artifacts to further
+increase storm count before using it to remove a limitation. 
+
+Examples:
+
+```
+GP in hand:
+-> IU, LED, LED, CoV, BW             UUU (3)      9 Storm
+
+LED in play:
+-> IU, LED, GP, CoV, BW              UUU (3)      8 Storm
+
+BW + GP + 1 card:
+-> GP, BS, LED, LED, CoV             UU (2)       10 Storm
+```
 
 ## Summary
 
 1. There is always a winning line available  
 2. Strong sideboarding is key to mitigating these issues  
-3. Variable CMCs for your removal is advised  
+3. Variable CMCs for your removal is advised to some extent 
