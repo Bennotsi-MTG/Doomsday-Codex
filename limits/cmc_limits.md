@@ -220,13 +220,29 @@ BW + GP + 1 card:
 With so many sets having seen print, there is now a veritable plethora of different removal options for
 getting rid of things like Chalice, Trinisphere and Thorn of Amethyst with many being able to get rid
 of multiple at the same time. Below you can find a table detailing the various costs of the most common 
-removal spells, that can be fetched with BW, in terms of removing certain limitation pieces.  
+removal spells, that can be fetched with BW, in terms of removing certain limitation pieces. X denotes it
+cannot achieve the function of removing the lock piece/(s) listed.  
+
+*A more complete version of this table may be found in Appendix [[ ]] *
 
 
 |          |By Force|Consign|Crash|Pulverize|Void Snare|
 |:--------:|:------:|:-----:|:---:|:-------:|:--------:|
-|Chalice @0|
-
+|Chalice @0|1R|
+|Chalice @1|1R|
+|Chalice @2|X|
+|Chalice @0+1|2R|
+|Chalice @0+2|2R|
+|Chalice @1+2|2R|
+|Trinisphere|2R|
+|Trinisphere + Chalice@0|2R|
+|Trinisphere + Chalice@1|2R|
+|Trinisphere + Chalice@2|2R|
+|Thorn of Amethyst|2R|
+|2 Thorns of Amethyst|3R|
+|Thorn of Amethyst + Chalice@0|3R|
+|Thorn of Amethyst + Chalice@1|3R|
+|Thorn of Amethyst + Chalice@2|3R|
 
 
 ## Summary
