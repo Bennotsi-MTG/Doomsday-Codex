@@ -222,9 +222,9 @@ getting rid of things like Chalice, Trinisphere and Thorn of Amethyst with many 
 of multiple at the same time. Below you can find a table detailing the various costs of the most common 
 removal spells, that can be fetched with BW, in terms of removing certain limitation pieces.  
 
-|:--------:|Cardname                                   |
-|Limitation|:-----------------------------------------:|
-|:--------:|By Force|Consign|Crash|Pulverize|Void Snare|
+
+|          |By Force|Consign|Crash|Pulverize|Void Snare|
+|:--------:|:------:|:-----:|:---:|:-------:|:--------:|
 |Chalice @0|
 
 
