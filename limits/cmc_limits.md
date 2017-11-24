@@ -227,22 +227,22 @@ cannot achieve the function of removing the lock piece/(s) listed.
 
 
 |          |By Force|Consign|Crash|Pulverize|Void Snare|
-|:--------:|:------:|:-----:|:---:|:-------:|:--------:|
-|Chalice @0|1R|
-|Chalice @1|1R|
-|Chalice @2|X|
-|Chalice @0+1|2R|
-|Chalice @0+2|2R|
-|Chalice @1+2|2R|
-|Trinisphere|2R|
-|Trinisphere + Chalice@0|2R|
-|Trinisphere + Chalice@1|2R|
-|Trinisphere + Chalice@2|2R|
-|Thorn of Amethyst|2R|
-|2 Thorns of Amethyst|3R|
-|Thorn of Amethyst + Chalice@0|3R|
-|Thorn of Amethyst + Chalice@1|3R|
-|Thorn of Amethyst + Chalice@2|3R|
+|--------|:------:|:-----:|:---:|:-------:|:--------:|
+|**Chalice @ 0**|1R|
+|**Chalice @ 1**|1R|
+|**Chalice @ 2**|X|
+|**Chalices @ 0+1**|2R|
+|**Chalices @ 0+2**|2R|
+|**Chalices @ 1+2**|2R|
+|**Trinisphere**|2R|
+|**Trinisphere + Chalice @ 0**|2R|
+|**Trinisphere + Chalice @ 1**|2R|
+|**Trinisphere + Chalice @ 2**|2R|
+|**Thorn of Amethyst**|2R|
+|**2 Thorns of Amethyst**|3R|
+|**Thorn of Amethyst + Chalice @ 0**|3R|
+|**Thorn of Amethyst + Chalice @ 1**|3R|
+|**Thorn of Amethyst + Chalice @ 2**|3R|
 
 
 ## Summary
