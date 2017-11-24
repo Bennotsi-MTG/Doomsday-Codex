@@ -1,4 +1,4 @@
-# Playing with a Chalice of the Void on X
+# Limited Numbers
 
 This is a generic title. This section discusses all cards that selectively
 lock off a certain CMC cost of a spell. This can include things like Chalice
@@ -214,6 +214,20 @@ LED in play:
 BW + GP + 1 card:
 -> GP, BS, LED, LED, CoV             UU (2)       10 Storm
 ```
+
+## Removal Choices
+
+With so many sets having seen print, there is now a veritable plethora of different removal options for
+getting rid of things like Chalice, Trinisphere and Thorn of Amethyst with many being able to get rid
+of multiple at the same time. Below you can find a table detailing the various costs of the most common 
+removal spells, that can be fetched with BW, in terms of removing certain limitation pieces.  
+
+|:--------:|Cardname                                   |
+|Limitation|:-----------------------------------------:|
+|:--------:|By Force|Consign|Crash|Pulverize|Void Snare|
+|Chalice @0|
+
+
 
 ## Summary
 
