@@ -1,4 +1,4 @@
-"Eye of twilight, give us sight.  
+```"Eye of twilight, give us sight.  
 Take our offer, give us might.  
 Make our power tears of night."  
 ...   
@@ -23,7 +23,8 @@ Make our power tears of night."
 "Okay."  
 "Where were we....Eye of twilight, give us sight..."  
 ...  
-"Do we really always have to wear black?"   
+"Do we really always have to wear black?" 
+```
 
 ## Doomsday by Committee, setting the scene
 
