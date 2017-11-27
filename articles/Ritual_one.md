@@ -43,7 +43,8 @@ some insight into our respective discussion of those points and how the
 decision came about, whether it was correct and whether it worked (because
 those two can be mutually exclusive!).
 
-It's d8dk32's list and he is the primary pilot. Doishy is watching.
+It's d8dk32's list and he is the primary pilot and will be explaining
+most of the scenarios. Doishy is watching and will add further commentary.
 
 The decklist:  
 
@@ -53,8 +54,9 @@ The decklist:
 
 
 ### Scenario 1:
+
 We are on the play and started with a Misty Rainforest.
-Opponent leads T1 Verdant Catacombs and passes. We play a 
+Opponent leads Turn one Verdant Catacombs and passes. We play a 
 Badlands, crack the fetch for an Island, and cast Preordain,
 which brings us to here:
 
@@ -66,7 +68,7 @@ and win that way if it resolves, and if not we Brainstorm into
 a Burning Wish for a lethal Tendrils (including the extra storm
 from the counterspell). In this case, Doomsday resolved and we
 had to decide how to build our pile. Our storm count was already
-plenty high so we only needed 4 cards in the pile to achieve
+plenty high so we only needed four cards in the pile to achieve
 lethal storm. There were two options available to us for what
 to do with the 5th slot:  
 
@@ -76,25 +78,26 @@ B. Use the spare card to Gitaxian Probe to see what they are on.
 
 **What is the correct play?**  
 
-We decided on option 1, to hide the Lab Man, thinking that there
+We decided on choice A, to hide the Lab Man, thinking that there
 was more to be gained from having a trick up our sleeve. We only
 briefly discussed what the opponent could be on and sort of
 assumed it was Czech Pile and they got caught with their pants
-down†. For game 2 we sideboarded conservatively, swapping a 
+down. For game two we sideboarded conservatively, swapping a 
 Therapy for the sideboard Thoughtseize. Unfortunately, game
-2 was a bit of a blowout that started with a turn 1 Chalice@1
-from the opponent, who of course is playing 4c Loam (Aggro Loam).
-In hindsight this potentially could have been avoided by choosing option 2.
+two was a bit of a blowout that started with a turn one Chalice@1
+from the opponent, who of course is playing 4C Loam (Aggro Loam).
+In hindsight this potentially could have been avoided by choosing choice B.
+
 Knowing how to sideboard properly is important, and losing the
 suprise factor of the Lab Man plan is insignificant in comparison,
 especially considering the matchup. Compared to Czech Pile, a deck
-like 4c Loam requires much more specific sideboarding to fight back
-in games 2 and 3. Furthermore, this is a good example of how format
+like 4C Loam requires much more specific sideboarding to fight back
+in games two and three. Furthermore, this is a good example of how format
 familiarity goes beyond simply knowing what spells a deck plays.
-Czech Pile rarely plays more than 1 or 2 Verdant Catacombs, if
-any, whereas it is essentially always a 4-of in 4c Loam.
+Czech Pile rarely plays more than one or two Verdant Catacombs, if
+any, whereas it is essentially always a four-of in 4C Loam.
 
-† Doishy's comments: *Our discussion was a tad more in depth here. From
+Doishy's comments: *Our discussion was a tad more in depth here. From
 a previous match we had faced an elves opponent who had
 started with a dramatically slow opening and so pondered
 whether this was another elves start. It could also have 
@@ -103,15 +106,15 @@ or even some sort of Aggro Loam or Maverick build. Small
 mention was also put towards Turbo Depths however most of
 these decks have enough one drops to make it strange to not
 play something. In hindsight we for sure should have gone for
-Option 2, especially given most relevant boarding from our
-opponent is based upon the other 59 cards they will see over
+Option B, especially given most relevant boarding from our
+opponent is based upon the other fifty nine cards they will see over
 the one they won't. Information is crucial and seeing seven
 points of information is much better than hiding one.*
 
 
 ### Scenario 2:  
 
-It is our turn 3 in game 2 vs Elves. They have Gaea's Cradle,
+It is our turn three in game two vs Elves. They have Gaea's Cradle,
 Cavern of Souls, Wirewood Symbiote and Quirion Ranger in play,
 with Dryad Arbor and Cabal Therapy in hand. Our board consists
 of tapped Tropical Island, untapped Swamp, and Lotus Petal,
@@ -127,7 +130,7 @@ The pile that quickly jumps to mind is a 'basic' pile like
 and the 4 life paid is fine in this situation. The problem
 with this pile is it requires the use of the Petal to cast
 AoI, meaning they'll have a turn to find something like
-Reclamation Sage for the blowout†. 
+Reclamation Sage for the blowout. 
 
 You could build [LED, AoI, LED, GP, LM] and use the Brainstorm
 in hand to kick things off next turn. This doesn't require
@@ -152,9 +155,9 @@ next turn. Otherwise, we'll hang onto the brainstorm until our
 next turn. Draw the Volc, crack the petal to brainstormn into AoI,
 play the Volc and win. If at any point they cast Surgical, we
 Brainstorm after it resolves and hope the pieces we need are in
-the top 3. 
+the top three. 
 
-† Doishy's comments: *We dicussed the different interactions that could be found
+Doishy's comments: *We dicussed the different interactions that could be found
 with Natural Order being the primary one. Natural order finding
 a Craterhoof would just kill us there and then so that is one thing
 we basically had to ignore (assuming the opponent had retained the 
@@ -169,13 +172,13 @@ nowehere.*
 
 ### Scenario 3:
 
-We've just lost game 1 to RUG Delver and are in the process of sideboarding.
+We've just lost game one to RUG Delver and are in the process of sideboarding.
 The question of whether to bring in Xantid Swarm comes up. It is obviously
 powerful if it sticks around, but dies easily to Bolt. This can be
 a difficult matchup if the RUG player has a countermagic-loaded hand.
 After some discussion we decide to bring in Swarm, reasoning that Bolt
-is only 4 cards and their only good way to remove it. Our game 2 mull
-to 6 let us cast Swarm on turn one, with Ritual and a Wish already in hand,
+is only four cards and their only good way to remove it. Our game two mull
+to six let us cast Swarm on turn one, with Ritual and a Wish already in hand,
 a good start. However the Swarm immediately dies to Bolt, leaving us way
 behind on tempo and vulnerable to Wastelands since we had to use Tropical
 Island. It's possible that playing Swarm right away was incorrect, but since
@@ -186,7 +189,7 @@ So back to the question at hand, is Xantid Swarm good against RUG Delver,
 and Delver decks more broadly? I think the answer is "no". I used to
 think of Swarm as an easy solution for all manner of blue decks but
 this discussion has started to change my opinion. Xantid Swarm is a
-less popular choice for Storm sideboards lately† but Delver will often
+less popular choice for Storm sideboards lately but Delver will often
 keep Bolts anyway as a hedge against Xantid Swarm and as reach. Swarm
 can also be blocked by flipped Delvers, which decreases its usefulness
 in the pre-combo turns. Finally, against Delver variants in general,
@@ -196,7 +199,7 @@ and in Grixis, this is discard. Swarm doesn't really help against either
 of these. I think these sideboard slots could be used in a better way, although
 I'm not quite sure how yet.
 
-† Doishy's comments: *I personally was against Swarm coming in. Locally
+Doishy's comments: *I personally was against Swarm coming in. Locally
 my meta is full of Grixis Delver variants and all run Bolt, even post board
 as, if nothing else, it's forces us to consider whether we can go off and lose
 half our life in the face of a potential three damage, especially if relying on 
@@ -212,13 +215,13 @@ maybe not many were being played because Bolt was so prevalent.*
 ### Bonus Discussion:
 
 Over the course of the four rounds we played, Doishy noticed that I was bringing
-in Thoughtseize every round and suggested I play it maindeck†. In the past
+in Thoughtseize every round and suggested I play it maindeck. In the past
 I have been averse to playing Thoughtseize anywhere in the seventy-five because I 
 thought the two life would relevant. It took a lot to convince me to even play
 it in the sideboard, so the idea of maindecking it never crossed my mind. 
 However, if you're sideboarding something in every single match, you ought
-to at least consider maindecking it. As such, I am now testing 3 Duress, 
-3 Therapy, 1 Thoughtseize main, with the 4th Therapy in the board. 
+to at least consider maindecking it. As such, I am now testing three Duress, 
+three Therapy, one Thoughtseize main, with the fourth Therapy in the board. 
 The two life from Thoughtseize has not been as relevant as I anticipated 
 and the flexibility it provides is useful. Not needing to guess what 
 hatebear an opponent is holding, being able to take a Snapcaster that 
@@ -228,14 +231,14 @@ are realistic scenarios where Thoughtseize is potentially better than
 Duress or Therapy. However, the life loss would quickly add up so I 
 don't think I want it in multiples just yet.
 
-† Doishy's comments: *This observation was in some part due to the fact
+Doishy's comments: *This observation was in some part due to the fact
 that d8 would not simply add in an extra discard spell but swap it out for
 a Therapy. There was also some bias here as for the last year I have been running
 a Miser's Thoughtseize main and it whas been very strong, especially in the face of
-Thalias or Eidolons so much so that I have consider switching from 3 Therapy, 2 Duress
-1 Thoughtseize main to 3 Therapy, 1 Duress, 2 Thoughtseize main.*
+Thalias or Eidolons so much so that I have consider switching from three Therapy, two Duress
+one Thoughtseize main to three Therapy, one Duress and two Thoughtseize main.*
 
-### Parting Thoughts at the end of the Doomsday:
+### Parting Thoughts:
 
 d8dk32's comments:
 
