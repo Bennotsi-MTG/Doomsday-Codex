@@ -17,7 +17,9 @@ Make our power tears of night."
 "Hanarsh the soul taker?"  
 "No virgins available."  
 "And whose fault is that...?"  
-"Enough! Look, Eye of twilight is the best otherworldly entity that may be willing to grant unholy power that we have currently. So he is what we will reach out to. Understand?"  
+"Enough! Look, Eye of twilight is the best otherworldly entity that 
+may be willing to grant unholy power that we have currently.
+So he is what we will reach out to. Understand?"  
 "Fine."  
 "Sure."  
 "Okay."  
