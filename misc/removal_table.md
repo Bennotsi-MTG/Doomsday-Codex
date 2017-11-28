@@ -1,4 +1,6 @@
 
+# Appendix; Removal Cost Tables
+
 
 ## Table of Common Wishable Artifact Removal Costs
 
@@ -73,37 +75,36 @@
 
 ## Table of Common, Non-Wishable Artifact Removal Costs
 
-*Many of these are not good choices to play but have been included for the sake of completeness*  
 
 |        |Abrupt Decay|Chain of Vapor|Echoing Truth|Hurkyl's Recall|
 |--------|:------:|:------:|:------:|:------:|
-|**Chalice @0**|
-|**Chalice @1**|
-|**Chalice @2**|
-|**Chalice @3**|
-|**Chalice @4**|
-|**Chalices @0+1**|
-|**Chalices @0+2**|
-|**Chalices @0+3**|
-|**Chalices @0+4**|
-|**Chalices @1+2**|
-|**Chalices @1+3**|
-|**Chalices @1+4**|
-|**Chalices @2+3**|
-|**Chalices @2+4**|
-|**Trinisphere**|
-|**Trinisphere + Chalice @0**|
-|**Trinisphere + Chalice @1**|
-|**Trinisphere + Chalice @2**|
-|**Trinisphere + Chalice @3**|
-|**Trinisphere + Chalice @4**|
-|**Thorn of Amethyst**|
-|**2 Thorns of Amethyst**|
-|**Thorn of Amethyst + Chalice @0**|
-|**Thorn of Amethyst + Chalice @1**|
-|**Thorn of Amethyst + Chalice @2**|
-|**Thorn of Amethyst + Chalice @3**|
-|**Thorn of Amethyst + Chalice @4**|
+|**Chalice @0**|BG|U|1U|1U|
+|**Chalice @1**|BG|X|1U|1U|
+|**Chalice @2**|BG|U|X|X|
+|**Chalice @3**|BG|U|1U|1U|
+|**Chalice @4**|BG|U|1U|1U|
+|**Chalices @0+1**|X|X|1U|1U|
+|**Chalices @0+2**|X|X|X|X|
+|**Chalices @0+3**|X|X|1U|1U|
+|**Chalices @0+4**|X|X|1U|1U|
+|**Chalices @1+2**|X|X|X|X|
+|**Chalices @1+3**|X|X|1U|1U|
+|**Chalices @1+4**|X|X|1U|1U|
+|**Chalices @2+3**|X|X|X|X|
+|**Chalices @2+4**|X|X|X|X|
+|**Trinisphere**|1BG|2U|2U|2U|
+|**Trinisphere + Chalice @0**|X|X|X|2U|
+|**Trinisphere + Chalice @1**|X|X|X|2U|
+|**Trinisphere + Chalice @2**|X|X|X|X|
+|**Trinisphere + Chalice @3**|X|X|X|2U|
+|**Trinisphere + Chalice @4**|X|X|X|2U|
+|**Thorn of Amethyst**|1BG|1U|2U|2U|
+|**2 Thorns of Amethyst**|X|X|3U|3U|
+|**Thorn of Amethyst + Chalice @0**|X|X|X|2U|
+|**Thorn of Amethyst + Chalice @1**|X|X|X|2U|
+|**Thorn of Amethyst + Chalice @2**|X|X|X|X|
+|**Thorn of Amethyst + Chalice @3**|X|X|X|2U|
+|**Thorn of Amethyst + Chalice @4**|X|X|X|2U|
 
 
 
