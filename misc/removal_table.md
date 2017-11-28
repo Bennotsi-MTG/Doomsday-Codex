@@ -67,3 +67,77 @@
 |**Thorn of Amethyst + Chalice @2**|X|X|4RR|3RR|5R|5R|
 |**Thorn of Amethyst + Chalice @3**|X|X|4RR|3RR|5R|5R|
 |**Thorn of Amethyst + Chalice @4**|X|X|4RR|X|5R|5R|
+
+
+
+
+## Table of Common, Non-Wishable Artifact Removal Costs
+
+*Many of these are not good choices to play but have been included for the sake of completeness*  
+
+|        |Abrupt Decay|Chain of Vapor|Echoing Truth|Hurkyl's Recall|
+|--------|:------:|:------:|:------:|:------:|
+|**Chalice @0**|
+|**Chalice @1**|
+|**Chalice @2**|
+|**Chalice @3**|
+|**Chalice @4**|
+|**Chalices @0+1**|
+|**Chalices @0+2**|
+|**Chalices @0+3**|
+|**Chalices @0+4**|
+|**Chalices @1+2**|
+|**Chalices @1+3**|
+|**Chalices @1+4**|
+|**Chalices @2+3**|
+|**Chalices @2+4**|
+|**Trinisphere**|
+|**Trinisphere + Chalice @0**|
+|**Trinisphere + Chalice @1**|
+|**Trinisphere + Chalice @2**|
+|**Trinisphere + Chalice @3**|
+|**Trinisphere + Chalice @4**|
+|**Thorn of Amethyst**|
+|**2 Thorns of Amethyst**|
+|**Thorn of Amethyst + Chalice @0**|
+|**Thorn of Amethyst + Chalice @1**|
+|**Thorn of Amethyst + Chalice @2**|
+|**Thorn of Amethyst + Chalice @3**|
+|**Thorn of Amethyst + Chalice @4**|
+
+
+
+
+## Table of Alternative, Non-Wishable Artifact Removal Costs
+
+*Many of these are not good choices to play but have been included for the sake of completeness*  
+
+|        |Disenchant|Engineered Explosives|Rebuild|Rushing River|Serenity|
+|--------|:------:|:------:|:------:|:------:|:------:|
+|**Chalice @0**|
+|**Chalice @1**|
+|**Chalice @2**|
+|**Chalice @3**|
+|**Chalice @4**|
+|**Chalices @0+1**|
+|**Chalices @0+2**|
+|**Chalices @0+3**|
+|**Chalices @0+4**|
+|**Chalices @1+2**|
+|**Chalices @1+3**|
+|**Chalices @1+4**|
+|**Chalices @2+3**|
+|**Chalices @2+4**|
+|**Trinisphere**|
+|**Trinisphere + Chalice @0**|
+|**Trinisphere + Chalice @1**|
+|**Trinisphere + Chalice @2**|
+|**Trinisphere + Chalice @3**|
+|**Trinisphere + Chalice @4**|
+|**Thorn of Amethyst**|
+|**2 Thorns of Amethyst**|
+|**Thorn of Amethyst + Chalice @0**|
+|**Thorn of Amethyst + Chalice @1**|
+|**Thorn of Amethyst + Chalice @2**|
+|**Thorn of Amethyst + Chalice @3**|
+|**Thorn of Amethyst + Chalice @4**|
