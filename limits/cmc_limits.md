@@ -157,6 +157,7 @@ available, need to be considered.
 
 Teeg also shuts off the use of By Force in the instance that he is used in Tandem with 
 Chalice or Similar (think Aggro Loam) so this could advocate the use of other removal.
+He also shuts off the use of Engineered Explosives.
 
 ## Limitation removal in your piles
 
