@@ -52,7 +52,6 @@ most of the scenarios. Doishy is watching and will add further commentary.
 
 The decklist:  
 
-[LIST IMAGE]()
 
 `*`*super-secret-shadowy-Doomsday-cabal (TM) might not exist....*  
 
@@ -64,7 +63,7 @@ Opponent leads Turn one Verdant Catacombs and passes. We play a
 Badlands, crack the fetch for an Island, and cast Preordain,
 which brings us to here:
 
-[INSERT PICTURE OF BOARD STATE AND PREORDAIN CARDS HERE]
+![Scenario 1](https://github.com/Doishy/Doomsday-Codex/blob/master/Ritual1_Scenario1.jpg)
 
 Doishy and I quickly agree that we go for it here. By leaving
 both cards on top and drawing Doomsday, we can cast Doomsday
