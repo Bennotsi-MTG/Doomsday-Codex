@@ -128,7 +128,7 @@ here is what to put in the pile. To answer this question, we need
 to consider what disruption they could have and what of that we
 can even play around.
 
-![Scenario 2](https://github.com/Doishy/Doomsday-Codex/blob/master/Scenario%202.jpg)
+![Scenario 2](https://github.com/Doishy/Doomsday-Codex/blob/master/Ritual1_Scenario2.jpg)
 
 The pile that quickly jumps to mind is a 'basic' pile like
 [AoI, LED, LM, GP, GP]. This neatly plays around Therapy,
