@@ -245,7 +245,17 @@ one Thoughtseize main to three Therapy, one Duress and two Thoughtseize main.*
 
 ### Parting Thoughts:
 
-d8dk32's comments:
+d8dk32's comments: I often talk to myself when I play online, but it's much
+more informative to talk to someone else who also knows your deck. Hopefully
+reading this and any future articles we publish will help people learning 
+to play this deck, but I think this pair-playing process is a valuable 
+learning tool and if you can find a willing partner would be an excellent
+way to learn on your own. Just as important as learning to build piles is
+learning how to make the plays in the early turns to reach the point where
+you get to build piles. Having someone to watch over your shoulder helps 
+you play better by catching mistakes and providing a sounding board when the 
+best line isn't clear. Doishy and I agreed on most things this time but 
+discussing the reasoning behind our choices is helpful regardless.
 
 
 Doishy's comments: *I for one really enjoyed watching d8 play whilst we discussed
