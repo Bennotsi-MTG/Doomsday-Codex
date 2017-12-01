@@ -52,6 +52,7 @@ most of the scenarios. Doishy is watching and will add further commentary.
 
 The decklist:  
 
+![d8dk32's decklist](https://github.com/Doishy/Doomsday-Codex/blob/master/Ritual1_decklist.jpg)
 
 `*`*super-secret-shadowy-Doomsday-cabal (TM) might not exist....*  
 
