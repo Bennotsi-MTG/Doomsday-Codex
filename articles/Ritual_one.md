@@ -206,7 +206,7 @@ I'm not quite sure how yet.
 
 Doishy's comments: *I personally was against Swarm coming in. Locally
 my meta is full of Grixis Delver variants and all run Bolt, even post board
-as, if nothing else, it's forces us to consider whether we can go off and lose
+as, if nothing else, it forces us to consider whether we can go off and lose
 half our life in the face of a potential three damage, especially if relying on 
 Probes. As part of our discussion on this we actually went and checked the sideboard
 of every top placing, large event Storm deck to see what they were running in 
