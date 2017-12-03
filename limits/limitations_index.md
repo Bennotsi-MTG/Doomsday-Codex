@@ -1,7 +1,7 @@
 # Playing with Limitations
 "What if our opponent has X?"
 
-This is a series of short-(ish) articles dedicated to the various types of hate we   
+ This is a series of short-(ish) articles dedicated to the various types of hate we   
 can expect to face piloting Legacy Doomsday. This list is not exhaustive, nor is it   
 considered a must follow guide, it is merely to try and help you to no panic when    
 faced with these things and therefore be able to see the line needed to take to get   
