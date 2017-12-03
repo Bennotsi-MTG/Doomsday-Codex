@@ -15,7 +15,7 @@ requirements for removing these restrictive permanents. As some numbers being
 named restrict certain removal cards, it's good to have at least two available
 to allow yourself an out for these card if you were to face them.
 
-## 0 Cost spells
+## 0 Cost Spells
 
 In terms of 0 costs spells we have two main ones that are played. Lion's Eye
 Diamond and Lotus Petal. Both are incredibly useful mana generating resources
@@ -54,7 +54,7 @@ should you by some means have a way to generate colourless mana, you can in fact
 play EE on '1' and it resolve with 0 counters on due to the nature of Sunburst
 only counting coloured mana.
 
-## 1 Cost spells
+## 1 Cost Spells
 
 This is THE classic opener of stompy variants, aggro loam and other strategies
 that aren't concerned with cantripping or similar. The main issue with this
@@ -104,7 +104,7 @@ other artifact removal as casting By Force with X = 1 means that it becomes a
 CMC 2 card that then allows you to destroy a single Chalice set to 1. A Sanctum
 Prelate is equally vulnerable as most of our removal for creatures costs 2 or 4.
 
-## 2 Cost spells
+## 2 Cost Spells
 
 This is less likely to be faced in terms of Chalice of the Void but significant
 in that it includes playing around Spell Snare, a semi common card in many Ux
@@ -130,7 +130,7 @@ but allows Void Snare and Chain of Vapor to be used. What is harder to remove is
 a Sanctum prelate set on 2. This prevents BW from finding a Massacre and
 prevents the casting of Abrupt Decay or things like Pyroclasm.
 
-## 3 Cost spells
+## 3 Cost Spells
 
 This is an interesting one to deal with. At this point it is almost guaranteed
 this is a Sanctum Prelate rather than a Chalice as very rarely do decks dump six
@@ -146,7 +146,7 @@ Removal wise this does not prevent anything really unless you are going for
 something more spicy such as Toxic Deluge or Rushing River. Otherwise all your
 removal is turned on and ready to go.
 
-## 4 Cost spells
+## 4 Cost Spells
 
 In this category we introduce, in addition to Prelate and Chalice, Gaddock Teeg
 as another limitation permanent we could face. The main thing here is that this
@@ -166,7 +166,7 @@ Teeg also shuts off the use of By Force in the instance that he is used in
 Tandem with Chalice or Similar (think Aggro Loam) so this could advocate the use
 of other removal. He also shuts off the use of Engineered Explosives.
 
-## Limitation removal in your piles
+## Limitation Removal in Your Piles
 
 Although we have touched on some examples of playing around these limitations
 and also the relative effectiveness of certain removal cards, we haven't
@@ -205,7 +205,7 @@ LED, PTT:
 -> GP, AoI, NC, GP, LM                  G+2U         4 life
 ```
 
-## Pass the turn Piles using Chain of Vapor
+## Pass the Turn Piles Using Chain of Vapor
 
 One somewhat unique piece of potential removal for anything not set to
 preventing 1 CMC spells being cast is Chain of Vapor (CoV). This allows you to
