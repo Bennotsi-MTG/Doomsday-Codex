@@ -237,23 +237,23 @@ piece/(s) listed.
 
 *A more complete version of this table may be found in Appendix [[ ]] *
 
-|          |By Force|Consign|Meltdown|Pulverize|Shattering Spree|
-|--------|:------:|:-----:|:---:|:-------:|:--------:|
-|**Chalice @ 0**|1R|1U|R|0|R|
-|**Chalice @ 1**|1R|1U|1R|0|RR|
-|**Chalice @ 2**|X|X|R|0|R|
-|**Chalices @ 0+1**|2R|X|1R|0|R|
-|**Chalices @ 0+2**|2R|X|R|0|RR|
-|**Chalices @ 1+2**|2R|X|2R|0|RRR|
-|**Trinisphere**|2R|2U|3R|3|2R|
-|**Trinisphere + Chalice @ 0**|2R|X|3R|3|1RR|
-|**Trinisphere + Chalice @ 1**|2R|X|3R|3|RRR|
-|**Trinisphere + Chalice @ 2**|2R|X|3R|3|1RR|
-|**Thorn of Amethyst**|2R|2U|3R|1|1R|
-|**2 Thorns of Amethyst**|3R|X|4R|2|2R|
-|**Thorn of Amethyst + Chalice @ 0**|3R|X|3R|1|1RR|
-|**Thorn of Amethyst + Chalice @ 1**|3R|X|3R|1|1RRR|
-|**Thorn of Amethyst + Chalice @ 2**|3R|X|3R|1|1RR|
+|                                     | By Force | Consign | Meltdown | Pulverize | Shattering Spree |
+|-------------------------------------|:--------:|:-------:|:--------:|:---------:|:----------------:|
+| **Chalice @ 0**                     | 1R       | 1U      | R        | 0         | R                |
+| **Chalice @ 1**                     | 1R       | 1U      | 1R       | 0         | RR               |
+| **Chalice @ 2**                     | X        | X       | R        | 0         | R                |
+| **Chalices @ 0+1**                  | 2R       | X       | 1R       | 0         | R                |
+| **Chalices @ 0+2**                  | 2R       | X       | R        | 0         | RR               |
+| **Chalices @ 1+2**                  | 2R       | X       | 2R       | 0         | RRR              |
+| **Trinisphere**                     | 2R       | 2U      | 3R       | 3         | 2R               |
+| **Trinisphere + Chalice @ 0**       | 2R       | X       | 3R       | 3         | 1RR              |
+| **Trinisphere + Chalice @ 1**       | 2R       | X       | 3R       | 3         | RRR              |
+| **Trinisphere + Chalice @ 2**       | 2R       | X       | 3R       | 3         | 1RR              |
+| **Thorn of Amethyst**               | 2R       | 2U      | 3R       | 1         | 1R               |
+| **2 Thorns of Amethyst**            | 3R       | X       | 4R       | 2         | 2R               |
+| **Thorn of Amethyst + Chalice @ 0** | 3R       | X       | 3R       | 1         | 1RR              |
+| **Thorn of Amethyst + Chalice @ 1** | 3R       | X       | 3R       | 1         | 1RRR             |
+| **Thorn of Amethyst + Chalice @ 2** | 3R       | X       | 3R       | 1         | 1RR              |
 
 ## Summary
 
