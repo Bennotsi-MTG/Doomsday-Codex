@@ -60,4 +60,5 @@ Under Construction
 Appendices:  
 I. [Pile Document](/pages-output/appendix/pile-doc)  
 II. Puzzle answers (Under Construction)  
-III. Sample Decklists (Under Construction)
+III. Sample Decklists (Under Construction)  
+IV. Removal Comparison Tables
