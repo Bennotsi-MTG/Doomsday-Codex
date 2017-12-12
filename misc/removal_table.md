@@ -1,8 +1,22 @@
 
 # Appendix; Removal Cost Tables
 
+Below are a series of tables detailing various options for artifact
+removal and the costs associated with removing common artifacts. This
+will be updated as new, effective, options are released. 
 
-## Table of Common Wishable Artifact Removal Costs
+List of current tables present:
+
+1. Table of Common Wishable Artifact Removal Costs  
+2. Table of Alternative Wishable Artifact Removal Costs  
+3. Table of Common, Non-Wishable Artifact Removal Costs  
+4. Table of Alternative, Non-Wishable Artifact Removal Costs
+
+
+## 1. Table of Common Wishable Artifact Removal Costs
+
+This is a list of the most commonly used spells that can be
+'tutored' via Burning Wish.
 
 |        |By Force|Consign|Meltdown|Pulverize|Shattering Spree|Void Snare|
 |--------|:------:|:------:|:------:|:------:|:------:|:------:|
@@ -36,8 +50,10 @@
 
 
 
-## Table of Alternative Wishable Artifact Removal Costs
+## 2. Table of Alternative Wishable Artifact Removal Costs
 
+This is a list of some less commonly used spells that can be
+'tutored' via Burning Wish.  
 *Many of these are not good choices to play but have been included for the sake of completeness*  
 
 |        |Crash|Eye of Nowhere|Scrap Mastery|Shatterstorm|Subterranean Tremors|Vandalblast|
@@ -73,8 +89,11 @@
 
 
 
-## Table of Common, Non-Wishable Artifact Removal Costs
+## 3. Table of Common, Non-Wishable Artifact Removal Costs
 
+This is a list of the most commonly used spells that cannot be
+'tutored' via Burning Wish but are usually sided in for post-board
+games.
 
 |        |Abrupt Decay|Chain of Vapor|Echoing Truth|Hurkyl's Recall|
 |--------|:------:|:------:|:------:|:------:|
@@ -109,8 +128,11 @@
 
 
 
-## Table of Alternative, Non-Wishable Artifact Removal Costs
+## 4. Table of Alternative, Non-Wishable Artifact Removal Costs
 
+This is a list of some less commonly used spells that cannot be
+'tutored' via Burning Wish but are usually sided in for post-board
+games.
 *Many of these are not good choices to play but have been included for the sake of completeness*  
 
 |        |Ancient Grudge|Disenchant|Engineered Explosives|Rebuild|Rushing River|
