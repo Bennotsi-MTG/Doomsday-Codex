@@ -1,5 +1,5 @@
 
-# Appendix; Removal Cost Tables
+# Appendix: Removal Cost Tables
 
 Below are a series of tables detailing various options for artifact
 removal and the costs associated with removing common artifacts. This
