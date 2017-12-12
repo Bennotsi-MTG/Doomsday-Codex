@@ -13,7 +13,7 @@ List of current tables present:
 4. Table of Alternative, Non-Wishable Artifact Removal Costs
 
 
-## 1. Table of Common Wishable Artifact Removal Costs
+#### 1. Table of Common Wishable Artifact Removal Costs
 
 This is a list of the most commonly used spells that can be
 'tutored' via Burning Wish.
@@ -50,7 +50,7 @@ This is a list of the most commonly used spells that can be
 
 
 
-## 2. Table of Alternative Wishable Artifact Removal Costs
+#### 2. Table of Alternative Wishable Artifact Removal Costs
 
 This is a list of some less commonly used spells that can be
 'tutored' via Burning Wish.  
@@ -89,7 +89,7 @@ This is a list of some less commonly used spells that can be
 
 
 
-## 3. Table of Common, Non-Wishable Artifact Removal Costs
+#### 3. Table of Common, Non-Wishable Artifact Removal Costs
 
 This is a list of the most commonly used spells that cannot be
 'tutored' via Burning Wish but are usually sided in for post-board
@@ -128,7 +128,7 @@ games.
 
 
 
-## 4. Table of Alternative, Non-Wishable Artifact Removal Costs
+#### 4. Table of Alternative, Non-Wishable Artifact Removal Costs
 
 This is a list of some less commonly used spells that cannot be
 'tutored' via Burning Wish but are usually sided in for post-board
