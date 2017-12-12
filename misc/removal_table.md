@@ -113,32 +113,32 @@
 
 *Many of these are not good choices to play but have been included for the sake of completeness*  
 
-|        |Ancient Grudge|Disenchant|Engineered Explosives|Rebuild|Rushing River|Serenity|
-|--------|:------:|:------:|:------:|:------:|:------:|:------:|
-|**Chalice @0**|1R|1W|C+2|
-|**Chalice @1**|1R|1W|0+2|
-|**Chalice @2**|X|X|0+2|
-|**Chalice @3**|1R|1W|0+2|
-|**Chalice @4**|1R|1W|0+2|
-|**Chalices @0+1**|1RG|X|CC+2|
-|**Chalices @0+2**|X|X|C+2|
-|**Chalices @0+3**|1RG|X|C+2|
-|**Chalices @0+4**|1RG|X|C+2|
-|**Chalices @1+2**|X|X|0+2|
-|**Chalices @1+3**|1RG|X|0+2|
-|**Chalices @1+4**|1RG|X|0+2|
-|**Chalices @2+3**|X|X|0+2|
-|**Chalices @2+4**|X|X|0+2|
-|**Trinisphere**|2R|2W|UBR+2|
-|**Trinisphere + Chalice @0**|2RG|X|X|
-|**Trinisphere + Chalice @1**|2RG|X|X|
-|**Trinisphere + Chalice @2**|X|X|X|
-|**Trinisphere + Chalice @3**|2RG|X|X|
-|**Trinisphere + Chalice @4**|2RG|X|X|
-|**Thorn of Amethyst**|2R|2W|UB+2|
-|**2 Thorns of Amethyst**|4RG|X|UB+2|
-|**Thorn of Amethyst + Chalice @0**|2RG|X|X|
-|**Thorn of Amethyst + Chalice @1**|2RG|X|X|
-|**Thorn of Amethyst + Chalice @2**|X|X|X|
-|**Thorn of Amethyst + Chalice @3**|2RG|X|X|
-|**Thorn of Amethyst + Chalice @4**|2RG|X|X|
+|        |Ancient Grudge|Disenchant|Engineered Explosives|Rebuild|Rushing River|
+|--------|:------:|:------:|:------:|:------:|:------:|
+|**Chalice @0**|1R|1W|C+2|2U|2U|
+|**Chalice @1**|1R|1W|0+2|2U|2U|
+|**Chalice @2**|X|X|0+2|2U|2U|
+|**Chalice @3**|1R|1W|0+2|X|X|
+|**Chalice @4**|1R|1W|0+2|2U|2U|
+|**Chalices @0+1**|1RG|X|CC+2|2U|2U|
+|**Chalices @0+2**|X|X|C+2|2U|2U|
+|**Chalices @0+3**|1RG|X|C+2|X|X|
+|**Chalices @0+4**|1RG|X|C+2|2U|2U|
+|**Chalices @1+2**|X|X|0+2|2U|2u|
+|**Chalices @1+3**|1RG|X|0+2|X|X|
+|**Chalices @1+4**|1RG|X|0+2|2U|2U|
+|**Chalices @2+3**|X|X|0+2|X|X|
+|**Chalices @2+4**|X|X|0+2|2U|2U|
+|**Trinisphere**|2R|2W|UBR+2|2U|2U|
+|**Trinisphere + Chalice @0**|2RG|X|X|2U|2U|
+|**Trinisphere + Chalice @1**|2RG|X|X|2U|2U|
+|**Trinisphere + Chalice @2**|X|X|X|2U|2U|
+|**Trinisphere + Chalice @3**|2RG|X|X|X|X|
+|**Trinisphere + Chalice @4**|2RG|X|X|2U|2U|
+|**Thorn of Amethyst**|2R|2W|UB+2|3U|3U|
+|**2 Thorns of Amethyst**|4RG|X|UB+2|4U|4U|
+|**Thorn of Amethyst + Chalice @0**|2RG|X|X|3U|3U|
+|**Thorn of Amethyst + Chalice @1**|2RG|X|X|3U|3U|
+|**Thorn of Amethyst + Chalice @2**|X|X|X|3U|3U|
+|**Thorn of Amethyst + Chalice @3**|2RG|X|X|X|X|
+|**Thorn of Amethyst + Chalice @4**|2RG|X|X|3U|3U|
