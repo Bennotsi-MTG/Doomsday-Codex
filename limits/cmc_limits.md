@@ -215,13 +215,13 @@ to remove a limitation.
 Examples:
 
 ```
-GP in hand:
+GP in hand, PTT:
 -> IU, LED, LED, CoV, BW             UUU (3)      9 Storm
 
-LED in play:
+LED in play, PTT:
 -> IU, LED, GP, CoV, BW              UUU (3)      8 Storm
 
-BW + GP + 1 card:
+BW + GP + 1 card, PTT:
 -> GP, BS, LED, LED, CoV             UU (2)       10 Storm
 ```
 
@@ -235,7 +235,7 @@ removal spells, that can be fetched with BW, in terms of removing certain
 limitation pieces. X denotes it cannot achieve the function of removing the lock
 piece/(s) listed.
 
-*A more complete version of this table may be found in Appendix [[ ]] *
+*A more complete version of this table may be found in Appendix IV [[ ]] *
 
 |                                     | By Force | Consign | Meltdown | Pulverize | Shattering Spree |
 |-------------------------------------|:--------:|:-------:|:--------:|:---------:|:----------------:|
@@ -257,6 +257,6 @@ piece/(s) listed.
 
 ## Summary
 
-1. There is always a winning line available
+1. There is often a winning line available despite facing hate
 2. Strong sideboarding is key to mitigating these issues
 3. Variable CMCs for your removal is advised to some extent
