@@ -240,3 +240,4 @@ Sideboard:
 6 Flex SB slots.  
 ```
 
+List last updated 20/01/2018
