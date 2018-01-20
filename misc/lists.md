@@ -1,6 +1,6 @@
 
 Please find present below the basic setup of how a Doomsday / DDFT decklist
-is normally played. As with any Legacy archetype there are a fair few 'flex' slots
+is normally constructed. As with any Legacy archetype there are a fair few 'flex' slots
 that can be changed around however some pieces are pretty fundamental to the
 archetype. 
 
@@ -95,6 +95,11 @@ Very good for powering out faster wins or quick Empty the Warrens lines.
 
 ## Manabase
 
+15-16 Lands. 
+
+We are a combo deck so do not want too many. Most lists run either fifteen or sixteen
+currently. The breakdown of these are below:
+
 8-9 Fetchlands: 
 
 4 x Polluted Delta
@@ -122,7 +127,116 @@ Normally run as a two off in lists and is the main reason for having all U Fetch
 
 1 Swamp
 
+Wasteland immune B source that also dodges Blood Moon and casts our combo and protection spells.
+Normally always a one of. 
+
+4-5 Dual lands:
+
+2-3 Underground Sea
+
+Primary Dual land with both our main colours. Generally run as a two of.
+
+1-2 Volcanic Island 
+
+Main R splash land. Most run one in conjunction with a Badlands however some people do favour
+the heavier U presence so run two.
+
+0-1 Badlands
+
+Secondary R splash land. Often favoured to allow fetching for casting Wish on turn two to then
+have BBB open for turn three. Normally a one of.
+
+0-1 Tropical Island
+
+Often in the sideboard however some pilots who run the side green splash run this main either as
+land number sixteen or as a replacement for a basic Island. 
+
+## Wish Board
+
+1 x Doomsday
+
+As stated above, the pseudo sixth to seventh copy of our main engine spell.
+
+1 x Tendrils of Agony
+
+Our primary win condition.
+
+1 x Discard
+
+Normally the seventh discard spell to compliment to six in the main.
+
+0-2 x Empty the Warrens
+
+An alternative and often faster win condition that can be wished for. Normally a one of.
+
+1 x Massacre
+
+Favoured tool against fair, creature based strategies as it often provides a free, one sided
+board wipe.
+
+1 x By Force
+
+This can be an alternate piece of artifact removal but currently By Force is the most popular.
+The main answer to artifact based hate such as Chalice of the Void.
+
+1 x Infernal Contract/Cruel Bargain/Act on Impulse/Ideas Unbound
+
+A wishable multiple draw spell intended to allow the use of Burning Wish as a direct
+way to draw into your Doomsday stacks or to fetch one should the maindeck one get exiled
+in some way.
+
+## Other sideboard options
+
+7-8 Flex Slots
+
+The rest is quite open but popular choices include packages such as a Tropical Island with
+either Abrupt Decay / Xantid Swarm / Carpet of Flowers or alternative win conditions such 
+as [Shelldock/Emrakul](http://ddft.wiki/pages-output/ch2/shelldock-emrakul/) or more 
+redundancy in terms of removal to bring in.
+
+# Example List:
+
+Below is an example of a conventional list in full which would be a good.
+Beginner starting point. Obviously as you get more familiar with the deck then
+you can start tweaking to your preference but it is a good place to start or simply
+practice with, especially working through the wiki. There are also other, 
+less conventional choices such as choosing to run extra Tendrils of Agony main or
+utilise certain removal spells in the main but these should be considered only after
+familiarity with the deck and your expected metagame.
+
+```
+1 Badlands
+2 Island  
+4 Polluted Delta  
+4 Scalding Tarn  
+1 Swamp  
+2 Underground Sea  
+1 Volcanic Island  
+1 Act on Impulse  
+4 Brainstorm  
+4 Burning Wish  
+3 Cabal Therapy  
+3 Conjurer's Bauble  
+4 Dark Ritual  
+3 Doomsday  
+4 Gitaxian Probe  
+1 Laboratory Maniac  
+4 Lion's Eye Diamond  
+4 Lotus Petal  
+4 Ponder  
+3 Preordain  
+3 Duress  
 
 
+Sideboard:  
 
+1 By Force  
+1 Discard Spell
+1 Doomsday  
+1-2 Empty the Warrens  (2 is very good against Grixis or Czech Pile)
+1 Ideas Unbound or Act on Impulse or Infernal Contract/Cruel Bargain  
+1 Massacre  
+1 Tendrils of Agony  
+6 Flex SB slots.  
+```
 
