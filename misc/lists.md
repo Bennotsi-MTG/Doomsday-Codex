@@ -40,3 +40,89 @@ Should always be a four of.
 Another search and draw filter effect. It has the most reach of any of the cantrips
 we run with a potential to see four cards deep. Should always be a four of. 
 
+3-4 x Burning Wish
+
+Not all run Wish however it is probably the best tool in the deck. It allows for running
+a Sideboard copy of Doomsday and opens up a lot of tools such as Empty the Warrens, adding
+storm count for Tendrils during the combo or finding a variety of toolbox answers for 
+opposing interaction. Should always be a three or four of. 
+
+6-7 x Discard Spells
+
+These can be any combination of Duress, Thougtseize and Cabal Therapy with a 3:3
+split of Duress and Therapy being standard. Normally the seventh discard spell is located
+as a wish target in the sideboard. You should always run some number of these to fight
+interaction and to protect yourself. Most often a six of.
+
+1 x Act on Impulse / Three Wishes
+
+This is a key combo spell that allows you to 'draw' into your stack. Act is normally the
+more popular choice due to the lower colour requirements, resistance to Red Blast effects
+and ability to be Wished for. You always need to have one of these in your deck however
+a suitable alternative would be the historically favoured Ideas Unbound.
+
+0-1 Laboratory Maniac
+
+Technically he could be counted as a flex slot however Laboratory Maniac provides a very
+simple alternative win condition to Tendrils of Agony and pulls his weight well in a 
+lot of scenarios. Most lists do run one copy main.
+
+## Flex slots:
+
+0-4 Conjurer's Baubles
+
+This card is explained in full [here](http://ddft.wiki/pages-output/ch2/cb-piles/) and 
+allows a multitude of funtions with the key ones being to store a draw in the face of
+using Lion's Eye Diamonds to generate mana. Most lists are running 2-4.
+
+0-4 Preordain
+
+Another cantrip. This one tends to fluctuate in number inversely proportional to the 
+number of Conjurer's Baubles used. Again most lists are running 2-4 copies.
+
+0-1 Rain of Filth
+
+An option as Dark Ritual copy number five. Rain is very good against decks that run
+Rishadan Port as a 'delayed' ritual effect within a turn or for games that go long
+and plenty of land drops are being made. Most lists run either a single copy or 
+forego it entirely.
+
+0-4 Lotus Petal
+
+Mana fixing, additional storm and free mana. Petal does it all. Possibly should be included
+as a 'core' slot. Mosts lists run 3-4 with lists heavier in lands normally running less. 
+Very good for powering out faster wins or quick Empty the Warrens lines.
+
+## Manabase
+
+8-9 Fetchlands: 
+
+4 x Polluted Delta
+
+Fetches basic Swamp and Island. Grabs your two main colours and any splash colours. 
+A must include four of. 
+
+2-4 x Alternative U Fetchland
+
+Normally Scalding Tarn as it can also fetch all colours assuming a R splash and playing
+of Badlands. Otherwise this could be any U fetchland. Normally U fetchlands are preferred
+over B fetchlands. 
+
+0-2 x Alternative B Fetchland
+
+Bloodstained Mire is the most coomon choice here. The B counterpart of the description above.
+Again generally disfavoured as it cannot fetch Basic Island. 
+
+2-3 Basic Lands:
+
+1-2 Island
+
+Wasteland immune U source that also dodges Blood Moon and casts most of our search spells.
+Normally run as a two off in lists and is the main reason for having all U Fetchlands.
+
+1 Swamp
+
+
+
+
+
