@@ -100,7 +100,7 @@ Very good for powering out faster wins or quick Empty the Warrens lines.
 We are a combo deck so do not want too many. Most lists run either fifteen or sixteen
 currently. The breakdown of these are below:
 
-**8-9 Fetchlands: 
+8-9 Fetchlands: 
 
 - 4 x Polluted Delta
 
@@ -118,7 +118,7 @@ over B fetchlands.
 Bloodstained Mire is the most coomon choice here. The B counterpart of the description above.
 Again generally disfavoured as it cannot fetch Basic Island. 
 
-**2-3 Basic Lands:
+2-3 Basic Lands:
 
 - 1-2 Island
 
@@ -130,7 +130,7 @@ Normally run as a two off in lists and is the main reason for having all U Fetch
 Wasteland immune B source that also dodges Blood Moon and casts our combo and protection spells.
 Normally always a one of. 
 
-**4-5 Dual lands:**
+4-5 Dual lands:
 
 - 2-3 Underground Sea
 
