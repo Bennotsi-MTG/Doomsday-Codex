@@ -18,12 +18,13 @@ when writing down piles.
 
 ## Notation
 
-| Shorthand | Cardname           |
+| Shorthand | Meaning            |
 | --------- | ------------------ |
 | AoI       | Act on Impulse     |
 | BS        | Brainstorm         |
 | BW        | Burning Wish       |
 | CB        | Conjurer's Bauble  |
+| DC        | Double cantrip     |
 | DD        | Doomsday           |
 | DR        | Dark Ritual        |
 | GP        | Gitaxian Probe     |
